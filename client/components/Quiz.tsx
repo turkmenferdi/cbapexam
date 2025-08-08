@@ -434,13 +434,35 @@ function QuizQuestion({
         )}
 
         {/* Action buttons */}
-        {!feedback.show && (
+        {!feedback.show ? (
           <div className="flex gap-3">
             <button
               onClick={onSkip}
               className="bg-gray-500 hover:bg-gray-600 text-white font-semibold py-2 px-6 rounded-lg transition-colors duration-200"
             >
               Skip
+            </button>
+            <button
+              onClick={onFinish}
+              className="bg-red-500 hover:bg-red-600 text-white font-semibold py-2 px-6 rounded-lg transition-colors duration-200"
+            >
+              Bitir
+            </button>
+          </div>
+        ) : (
+          <div className="flex gap-3">
+            <button
+              onClick={() => {
+                setFeedback({ show: false, isCorrect: false });
+                if (currentIdx >= questionOrder.length - 1) {
+                  setQuizCompleted(true);
+                } else {
+                  setCurrentIdx(prev => prev + 1);
+                }
+              }}
+              className="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 px-6 rounded-lg transition-colors duration-200"
+            >
+              Sonraki Soru
             </button>
             <button
               onClick={onFinish}
