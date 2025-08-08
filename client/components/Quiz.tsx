@@ -48,15 +48,30 @@ export function Quiz() {
   const loadConfig = async () => {
     try {
       setLoading(true);
-      const response = await fetch('/data/questions_index.json', { cache: 'no-store' });
+      console.log('Loading quiz configuration...');
+
+      const response = await fetch('/data/questions_index.json', {
+        cache: 'no-store',
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      }
+
       const configData: QuizConfig = await response.json();
+      console.log('Quiz configuration loaded:', configData);
       setConfig(configData);
-      
+
       // Create and shuffle question order
       const order = Array.from({ length: configData.total_questions }, (_, i) => i);
       setQuestionOrder(shuffle(order));
     } catch (error) {
       console.error('Failed to load quiz configuration:', error);
+      // Set error state to show user-friendly message
+      setConfig(null);
     } finally {
       setLoading(false);
     }
