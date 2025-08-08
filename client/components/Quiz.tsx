@@ -44,8 +44,33 @@ export function Quiz() {
     return shuffled;
   };
 
-  // Original fetch reference to bypass interceptors
-  const originalFetch = window.fetch;
+  // Robust data loading using XMLHttpRequest to bypass fetch interceptors
+  const loadJsonData = async (url: string): Promise<any> => {
+    return new Promise((resolve, reject) => {
+      const xhr = new XMLHttpRequest();
+      xhr.open('GET', url, true);
+      xhr.setRequestHeader('Content-Type', 'application/json');
+      xhr.setRequestHeader('Cache-Control', 'no-store');
+
+      xhr.onreadystatechange = () => {
+        if (xhr.readyState === 4) {
+          if (xhr.status === 200) {
+            try {
+              const data = JSON.parse(xhr.responseText);
+              resolve(data);
+            } catch (parseError) {
+              reject(new Error(`JSON parsing failed: ${parseError}`));
+            }
+          } else {
+            reject(new Error(`HTTP ${xhr.status}: ${xhr.statusText}`));
+          }
+        }
+      };
+
+      xhr.onerror = () => reject(new Error('Network error'));
+      xhr.send();
+    });
+  };
 
   // Load quiz configuration
   const loadConfig = async () => {
@@ -53,31 +78,7 @@ export function Quiz() {
       setLoading(true);
       console.log('Loading quiz configuration...');
 
-      let response;
-      try {
-        // Try with regular fetch first
-        response = await fetch('/data/questions_index.json', {
-          cache: 'no-store',
-          headers: {
-            'Content-Type': 'application/json',
-          }
-        });
-      } catch (fetchError) {
-        console.warn('Regular fetch failed, trying with original fetch:', fetchError);
-        // Fallback to original fetch if intercepted
-        response = await originalFetch('/data/questions_index.json', {
-          cache: 'no-store',
-          headers: {
-            'Content-Type': 'application/json',
-          }
-        });
-      }
-
-      if (!response.ok) {
-        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-      }
-
-      const configData: QuizConfig = await response.json();
+      const configData: QuizConfig = await loadJsonData('/data/questions_index.json');
       console.log('Quiz configuration loaded:', configData);
       setConfig(configData);
 
