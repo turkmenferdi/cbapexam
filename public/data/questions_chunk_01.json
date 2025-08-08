@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["A. London", "B. Berlin", "C. Paris", "D. Madrid"],
+    "answer": "C",
+    "explanation": "Paris has been the capital of France since 508 AD and is the country's largest city."
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["A. Venus", "B. Mars", "C. Jupiter", "D. Saturn"],
+    "answer": "B",
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["A. Atlantic Ocean", "B. Indian Ocean", "C. Arctic Ocean", "D. Pacific Ocean"],
+    "answer": "D",
+    "explanation": "The Pacific Ocean covers about 46% of the world's water surface and about 32% of the Earth's total surface area."
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["A. Vincent van Gogh", "B. Pablo Picasso", "C. Leonardo da Vinci", "D. Michelangelo"],
+    "answer": "C",
+    "explanation": "Leonardo da Vinci painted the Mona Lisa between 1503 and 1519."
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["A. Go", "B. Au", "C. Ag", "D. Gd"],
+    "answer": "B",
+    "explanation": "Au comes from the Latin word 'aurum' meaning gold."
+  }
+]
