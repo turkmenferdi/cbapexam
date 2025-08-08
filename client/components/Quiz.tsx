@@ -283,6 +283,7 @@ interface QuizQuestionProps {
   loading: boolean;
   onAnswer: (option: string) => void;
   onSkip: () => void;
+  onFinish: () => void;
   getCurrentQuestion: () => Promise<Question | null>;
 }
 
