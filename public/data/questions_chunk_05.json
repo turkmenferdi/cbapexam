@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which of the following BEST describes an assumption?",
+    "options": ["A. A factor considered to be true without proof", "B. A known fact", "C. A confirmed risk", "D. A project deliverable"],
+    "answer": "A",
+    "explanation": "An assumption is something that is believed to be true but cannot be verified, accepted without proof for planning purposes."
+  },
+  {
+    "question": "Which of these is a key input to the Plan Stakeholder Engagement task?",
+    "options": ["A. Business case", "B. Current state description", "C. Stakeholder list", "D. Governance approach"],
+    "answer": "C",
+    "explanation": "The stakeholder list is essential input for planning how to engage with identified stakeholders effectively."
+  },
+  {
+    "question": "What is the main purpose of the Validate Requirements task?",
+    "options": ["A. Ensure requirements align with business goals", "B. Approve requirements for development", "C. Test requirements for correctness", "D. Remove redundant requirements"],
+    "answer": "A",
+    "explanation": "Validation ensures requirements meet business needs and goals, while verification checks if they are correctly implemented."
+  },
+  {
+    "question": "Which of the following is a technique for resolving stakeholder conflicts?",
+    "options": ["A. Document analysis", "B. Workshops", "C. Risk analysis", "D. Benchmarking"],
+    "answer": "B",
+    "explanation": "Workshops provide a collaborative environment where stakeholders can discuss and resolve conflicts through facilitated discussions."
+  },
+  {
+    "question": "Which of these BEST describes scope modeling?",
+    "options": ["A. Defines the boundaries of a solution", "B. Identifies stakeholders", "C. Analyzes risks", "D. Determines cost estimates"],
+    "answer": "A",
+    "explanation": "Scope modeling defines what is included and excluded from the solution boundaries, clarifying the extent of the project."
+  }
+]
