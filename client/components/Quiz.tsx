@@ -214,8 +214,8 @@ export function Quiz() {
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
         <div className="bg-white rounded-2xl shadow-xl p-8 max-w-md w-full text-center">
-          <h1 className="text-3xl font-bold text-gray-800 mb-6">Knowledge Quiz</h1>
-          <p className="text-gray-600 mb-8">Test your knowledge with {config.total_questions} carefully selected questions!</p>
+          <h1 className="text-3xl font-bold text-gray-800 mb-6">Business Analysis Quiz</h1>
+          <p className="text-gray-600 mb-8">Test your business analysis knowledge with {config.total_questions} professional questions!</p>
           <button
             onClick={startQuiz}
             className="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200 w-full"
