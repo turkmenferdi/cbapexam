@@ -184,11 +184,27 @@ export function Quiz() {
   // Move to next question
   const nextQuestion = () => {
     setFeedback({ show: false, isCorrect: false });
-    
+
     if (currentIdx >= questionOrder.length - 1) {
       setQuizCompleted(true);
     } else {
       setCurrentIdx(prev => prev + 1);
+    }
+  };
+
+  // Navigate to specific question
+  const goToQuestion = (questionIndex: number) => {
+    if (questionIndex >= 0 && questionIndex < questionOrder.length) {
+      setCurrentIdx(questionIndex);
+      setFeedback({ show: false, isCorrect: false });
+    }
+  };
+
+  // Go to previous question
+  const previousQuestion = () => {
+    if (currentIdx > 0) {
+      setCurrentIdx(prev => prev - 1);
+      setFeedback({ show: false, isCorrect: false });
     }
   };
 
