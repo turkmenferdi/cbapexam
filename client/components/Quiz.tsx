@@ -423,12 +423,12 @@ function QuizQuestion({
           </div>
 
           {/* Question Numbers Grid */}
-          <div className="grid grid-cols-10 gap-2 max-h-32 overflow-y-auto">
+          <div className="grid grid-cols-20 gap-1 max-h-48 overflow-y-auto border rounded-lg p-2 bg-gray-50">
             {Array.from({ length: config.total_questions }, (_, i) => (
               <button
                 key={i}
                 onClick={() => goToQuestion(i)}
-                className={`w-8 h-8 text-sm font-medium rounded transition-all duration-200 ${
+                className={`w-6 h-6 text-xs font-medium rounded transition-all duration-200 ${
                   i === currentIdx
                     ? 'bg-indigo-600 text-white'
                     : 'bg-gray-100 hover:bg-indigo-100 text-gray-700'
