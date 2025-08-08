@@ -389,7 +389,7 @@ function QuizQuestion({
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
-      <div className="bg-white rounded-2xl shadow-xl p-8 max-w-2xl w-full">
+      <div className="bg-white rounded-2xl shadow-xl p-8 max-w-4xl w-full">
         {/* Header */}
         <div className="flex justify-between items-center mb-6">
           <div className="text-sm text-gray-500">
@@ -397,6 +397,46 @@ function QuizQuestion({
           </div>
           <div className="text-sm font-semibold text-indigo-600">
             Score: {score}
+          </div>
+        </div>
+
+        {/* Question Navigation */}
+        <div className="mb-6">
+          <div className="flex justify-between items-center mb-4">
+            <h3 className="text-lg font-semibold text-gray-700">Soru Navigasyonu</h3>
+            <div className="flex gap-2">
+              <button
+                onClick={previousQuestion}
+                disabled={currentIdx === 0}
+                className="px-3 py-1 bg-gray-500 hover:bg-gray-600 disabled:bg-gray-300 text-white text-sm rounded transition-colors duration-200"
+              >
+                ← Önceki
+              </button>
+              <button
+                onClick={nextQuestion}
+                disabled={currentIdx >= config.total_questions - 1}
+                className="px-3 py-1 bg-gray-500 hover:bg-gray-600 disabled:bg-gray-300 text-white text-sm rounded transition-colors duration-200"
+              >
+                Sonraki →
+              </button>
+            </div>
+          </div>
+
+          {/* Question Numbers Grid */}
+          <div className="grid grid-cols-10 gap-2 max-h-32 overflow-y-auto">
+            {Array.from({ length: config.total_questions }, (_, i) => (
+              <button
+                key={i}
+                onClick={() => goToQuestion(i)}
+                className={`w-8 h-8 text-sm font-medium rounded transition-all duration-200 ${
+                  i === currentIdx
+                    ? 'bg-indigo-600 text-white'
+                    : 'bg-gray-100 hover:bg-indigo-100 text-gray-700'
+                }`}
+              >
+                {i + 1}
+              </button>
+            ))}
           </div>
         </div>
 
