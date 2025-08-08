@@ -1,32 +1,32 @@
 [
   {
-    "question": "What is the speed of light in vacuum?",
-    "options": ["A. 299,792,458 m/s", "B. 300,000 km/s", "C. 186,000 miles/s", "D. All of the above"],
-    "answer": "D",
-    "explanation": "The speed of light is approximately 299,792,458 meters per second, which equals about 300,000 km/s or 186,000 miles/s."
-  },
-  {
-    "question": "Which element has the atomic number 1?",
-    "options": ["A. Helium", "B. Hydrogen", "C. Lithium", "D. Carbon"],
-    "answer": "B",
-    "explanation": "Hydrogen is the lightest and most abundant element in the universe, with atomic number 1."
-  },
-  {
-    "question": "In which year did World War II end?",
-    "options": ["A. 1944", "B. 1945", "C. 1946", "D. 1947"],
-    "answer": "B",
-    "explanation": "World War II ended in 1945 with Japan's surrender on September 2, 1945."
-  },
-  {
-    "question": "What is the largest mammal in the world?",
-    "options": ["A. African Elephant", "B. Sperm Whale", "C. Blue Whale", "D. Humpback Whale"],
+    "question": "Which elicitation technique is best when you want to observe users performing their jobs?",
+    "options": ["A. Interview", "B. Survey", "C. Observation", "D. Document Analysis"],
     "answer": "C",
-    "explanation": "The blue whale can reach up to 100 feet in length and weigh as much as 200 tons."
+    "explanation": "Observation allows you to directly watch users perform their actual work tasks in their natural environment."
   },
   {
-    "question": "Which programming language was created by Guido van Rossum?",
-    "options": ["A. Java", "B. Python", "C. JavaScript", "D. C++"],
+    "question": "Which of the following is a non-functional requirement?",
+    "options": ["A. The system shall allow users to log in", "B. The system shall respond within 2 seconds", "C. The system shall store customer data", "D. The system shall provide a report"],
     "answer": "B",
-    "explanation": "Guido van Rossum created Python in 1991, naming it after the British comedy group Monty Python."
+    "explanation": "Response time is a performance requirement, which is a type of non-functional requirement that describes how the system should behave."
+  },
+  {
+    "question": "What is the MOST effective way to validate requirements?",
+    "options": ["A. Walkthrough", "B. Inspection", "C. Testing", "D. Review sessions with stakeholders"],
+    "answer": "D",
+    "explanation": "Review sessions with stakeholders are most effective because stakeholders can directly confirm if requirements meet their needs."
+  },
+  {
+    "question": "Which of the following is a limitation of prototyping?",
+    "options": ["A. Encourages early feedback", "B. May cause scope creep", "C. Helps visualize requirements", "D. Supports iterative development"],
+    "answer": "B",
+    "explanation": "Prototyping can lead to scope creep as stakeholders may request additional features after seeing the prototype."
+  },
+  {
+    "question": "In which task would you define solution performance measures?",
+    "options": ["A. Define Future State", "B. Analyze Current State", "C. Define Change Strategy", "D. Measure Solution Performance"],
+    "answer": "D",
+    "explanation": "Solution performance measures are defined specifically in the Measure Solution Performance task to evaluate solution effectiveness."
   }
 ]
