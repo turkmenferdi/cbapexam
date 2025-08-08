@@ -340,6 +340,9 @@ interface QuizQuestionProps {
   setFeedback: (feedback: FeedbackState) => void;
   setCurrentIdx: (idx: number | ((prev: number) => number)) => void;
   setQuizCompleted: (completed: boolean) => void;
+  goToQuestion: (questionIndex: number) => void;
+  previousQuestion: () => void;
+  nextQuestion: () => void;
 }
 
 function QuizQuestion({
