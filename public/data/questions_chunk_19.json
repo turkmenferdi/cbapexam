@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which is a purpose of business process modeling?",
+    "options": ["A. Document and analyze business processes", "B. Design user interfaces", "C. Define data entities", "D. Create test cases"],
+    "answer": "A",
+    "explanation": "Business process modeling documents current processes and analyzes them to identify improvement opportunities."
+  },
+  {
+    "question": "Which is a risk of inadequate requirements validation?",
+    "options": ["A. Reduced rework", "B. Increased defects in the solution", "C. Improved stakeholder satisfaction", "D. Faster delivery"],
+    "answer": "B",
+    "explanation": "Poor requirements validation leads to incorrect or incomplete requirements, resulting in solution defects."
+  },
+  {
+    "question": "Which is an output of the Plan Business Analysis Approach task?",
+    "options": ["A. Business analysis approach document", "B. Solution scope", "C. Governance approach", "D. Stakeholder engagement plan"],
+    "answer": "A",
+    "explanation": "The Plan Business Analysis Approach task produces a document outlining how business analysis will be conducted."
+  },
+  {
+    "question": "Which is a key advantage of prototyping?",
+    "options": ["A. Helps visualize requirements early", "B. Eliminates need for documentation", "C. Guarantees final solution design", "D. Reduces stakeholder feedback"],
+    "answer": "A",
+    "explanation": "Prototyping allows stakeholders to visualize and interact with requirements early in the development process."
+  },
+  {
+    "question": "Which is an example of a data model?",
+    "options": ["A. Entity-relationship diagram", "B. Use case diagram", "C. State diagram", "D. Activity diagram"],
+    "answer": "A",
+    "explanation": "Entity-relationship diagrams are data models that show the structure and relationships of data entities."
+  }
+]
