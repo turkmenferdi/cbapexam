@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which type of diagram shows the sequence of activities in a process?",
+    "options": ["A. Activity diagram", "B. Entity-relationship diagram", "C. Context diagram", "D. Decision tree"],
+    "answer": "A",
+    "explanation": "Activity diagrams show the flow and sequence of activities within a process or workflow."
+  },
+  {
+    "question": "Which elicitation technique gathers information by examining existing materials?",
+    "options": ["A. Document analysis", "B. Interviews", "C. Observation", "D. Prototyping"],
+    "answer": "A",
+    "explanation": "Document analysis involves reviewing existing documentation, policies, procedures, and other materials to gather requirements."
+  },
+  {
+    "question": "Which is an advantage of using surveys for elicitation?",
+    "options": ["A. Can collect data from many people quickly", "B. Provides deep insights into each stakeholder", "C. Allows direct observation", "D. Reduces data collection costs but increases time"],
+    "answer": "A",
+    "explanation": "Surveys enable efficient collection of information from large groups of stakeholders simultaneously."
+  },
+  {
+    "question": "Which is a key benefit of the Requirements Traceability Matrix?",
+    "options": ["A. Helps manage changes to requirements", "B. Identifies missing requirements", "C. Ensures each requirement is implemented and tested", "D. All of the above"],
+    "answer": "D",
+    "explanation": "Requirements Traceability Matrix provides all these benefits by linking requirements throughout the project lifecycle."
+  },
+  {
+    "question": "Which of the following BEST defines a business requirement?",
+    "options": ["A. High-level statements of goals and objectives", "B. Technical specifications", "C. User interface design", "D. Transition activities"],
+    "answer": "A",
+    "explanation": "Business requirements are high-level statements that describe the business needs, goals, and objectives to be achieved."
+  }
+]
