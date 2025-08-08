@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which task in BABOK involves obtaining stakeholder agreement on requirements?",
+    "options": ["A. Validate Requirements", "B. Approve Requirements", "C. Elicit Requirements", "D. Analyze Requirements"],
+    "answer": "B",
+    "explanation": "Approve Requirements is the specific BABOK task that focuses on obtaining stakeholder agreement and approval on requirements."
+  },
+  {
+    "question": "Which document specifies how business analysis performance will be assessed?",
+    "options": ["A. Governance approach", "B. Performance assessment plan", "C. Business analysis plan", "D. Requirements management plan"],
+    "answer": "C",
+    "explanation": "The business analysis plan includes how business analysis performance will be measured and assessed throughout the project."
+  },
+  {
+    "question": "Which is a primary purpose of business rules analysis?",
+    "options": ["A. Define system constraints", "B. Document decision logic", "C. Identify stakeholder influence", "D. Establish test criteria"],
+    "answer": "B",
+    "explanation": "Business rules analysis primarily focuses on documenting the decision logic and rules that govern how the business operates."
+  },
+  {
+    "question": "Which is the BEST example of a stakeholder?",
+    "options": ["A. Project manager", "B. System requirement", "C. Business rule", "D. Test case"],
+    "answer": "A",
+    "explanation": "A stakeholder is a person or group with an interest in or influence over the project. Project manager is a person, while the others are artifacts."
+  },
+  {
+    "question": "Which requirement classification includes regulatory and compliance needs?",
+    "options": ["A. Business requirement", "B. Non-functional requirement", "C. Transition requirement", "D. Solution requirement"],
+    "answer": "A",
+    "explanation": "Business requirements include regulatory and compliance needs as they represent high-level business needs and objectives."
+  }
+]
