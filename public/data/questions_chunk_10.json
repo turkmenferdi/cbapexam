@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which BABOK knowledge area covers defining change strategy?",
+    "options": ["A. Requirements Analysis and Design Definition", "B. Strategy Analysis", "C. Solution Evaluation", "D. Elicitation and Collaboration"],
+    "answer": "B",
+    "explanation": "Strategy Analysis knowledge area includes defining the change strategy needed to move from current to future state."
+  },
+  {
+    "question": "Which technique involves comparing an organization's processes against industry best practices?",
+    "options": ["A. SWOT analysis", "B. Benchmarking", "C. Fishbone diagram", "D. Root cause analysis"],
+    "answer": "B",
+    "explanation": "Benchmarking compares organizational performance and practices against external standards or best-in-class organizations."
+  },
+  {
+    "question": "Which requirement type describes conditions the solution must meet to be acceptable?",
+    "options": ["A. Transition requirement", "B. Business requirement", "C. Acceptance criteria", "D. Non-functional requirement"],
+    "answer": "C",
+    "explanation": "Acceptance criteria define the specific conditions that must be met for a requirement to be considered complete and acceptable."
+  },
+  {
+    "question": "Which diagram shows how entities relate to each other?",
+    "options": ["A. Data flow diagram", "B. Entity-relationship diagram", "C. Use case diagram", "D. Context diagram"],
+    "answer": "B",
+    "explanation": "Entity-relationship diagrams (ERDs) show the relationships and connections between different data entities."
+  },
+  {
+    "question": "Which is NOT an elicitation technique in BABOK?",
+    "options": ["A. Document analysis", "B. Brainstorming", "C. Process modeling", "D. Interface analysis"],
+    "answer": "C",
+    "explanation": "Process modeling is an analysis technique, not an elicitation technique. The other options are all valid elicitation techniques in BABOK."
+  }
+]
