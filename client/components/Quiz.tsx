@@ -80,8 +80,22 @@ export function Quiz() {
   // Load a specific chunk
   const loadChunk = async (chunkIndex: number): Promise<Question[]> => {
     try {
-      const response = await fetch(`/data/${config!.files[chunkIndex]}`, { cache: 'no-store' });
-      return await response.json();
+      console.log(`Loading chunk ${chunkIndex}: ${config!.files[chunkIndex]}`);
+
+      const response = await fetch(`/data/${config!.files[chunkIndex]}`, {
+        cache: 'no-store',
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      }
+
+      const chunkData = await response.json();
+      console.log(`Chunk ${chunkIndex} loaded with ${chunkData.length} questions`);
+      return chunkData;
     } catch (error) {
       console.error(`Failed to load chunk ${chunkIndex}:`, error);
       return [];
