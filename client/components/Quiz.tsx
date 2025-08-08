@@ -98,12 +98,23 @@ export function Quiz() {
     try {
       console.log(`Loading chunk ${chunkIndex}: ${config!.files[chunkIndex]}`);
 
-      const response = await fetch(`/data/${config!.files[chunkIndex]}`, {
-        cache: 'no-store',
-        headers: {
-          'Content-Type': 'application/json',
-        }
-      });
+      let response;
+      try {
+        response = await fetch(`/data/${config!.files[chunkIndex]}`, {
+          cache: 'no-store',
+          headers: {
+            'Content-Type': 'application/json',
+          }
+        });
+      } catch (fetchError) {
+        console.warn(`Regular fetch failed for chunk ${chunkIndex}, trying with original fetch:`, fetchError);
+        response = await originalFetch(`/data/${config!.files[chunkIndex]}`, {
+          cache: 'no-store',
+          headers: {
+            'Content-Type': 'application/json',
+          }
+        });
+      }
 
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}: ${response.statusText}`);
