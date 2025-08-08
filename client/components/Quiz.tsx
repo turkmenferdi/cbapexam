@@ -382,14 +382,22 @@ function QuizQuestion({
           </div>
         )}
 
-        {/* Skip button */}
+        {/* Action buttons */}
         {!feedback.show && (
-          <button
-            onClick={onSkip}
-            className="bg-gray-500 hover:bg-gray-600 text-white font-semibold py-2 px-6 rounded-lg transition-colors duration-200"
-          >
-            Skip
-          </button>
+          <div className="flex gap-3">
+            <button
+              onClick={onSkip}
+              className="bg-gray-500 hover:bg-gray-600 text-white font-semibold py-2 px-6 rounded-lg transition-colors duration-200"
+            >
+              Skip
+            </button>
+            <button
+              onClick={onFinish}
+              className="bg-red-500 hover:bg-red-600 text-white font-semibold py-2 px-6 rounded-lg transition-colors duration-200"
+            >
+              Bitir
+            </button>
+          </div>
         )}
       </div>
     </div>
