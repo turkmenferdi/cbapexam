@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which of the following BEST describes a functional requirement?",
+    "options": ["A. Describes what the system must do", "B. Describes performance constraints", "C. Describes data migration needs", "D. Describes transition activities"],
+    "answer": "A",
+    "explanation": "Functional requirements specify what the system must do - the behaviors, features, and functions that must be implemented."
+  },
+  {
+    "question": "Which task is concerned with determining the current state of the business?",
+    "options": ["A. Analyze Current State", "B. Define Future State", "C. Plan Business Analysis Approach", "D. Define Change Strategy"],
+    "answer": "A",
+    "explanation": "Analyze Current State specifically focuses on understanding and documenting how the business currently operates."
+  },
+  {
+    "question": "Which elicitation technique is MOST suitable for gathering requirements from a large group?",
+    "options": ["A. Observation", "B. Document analysis", "C. Surveys", "D. Interviews"],
+    "answer": "C",
+    "explanation": "Surveys are efficient for collecting information from large groups of stakeholders simultaneously and can be analyzed statistically."
+  },
+  {
+    "question": "What is the main purpose of solution evaluation?",
+    "options": ["A. Determine if the solution meets business needs", "B. Validate requirements", "C. Identify stakeholders", "D. Define business case"],
+    "answer": "A",
+    "explanation": "Solution evaluation assesses whether the implemented solution successfully addresses the business needs and objectives."
+  },
+  {
+    "question": "Which is an example of a stakeholder requirement?",
+    "options": ["A. Manager must approve leave requests", "B. The system must process payments in real-time", "C. The report must run daily", "D. The login page must load in 2 seconds"],
+    "answer": "A",
+    "explanation": "Stakeholder requirements express needs and wants of specific stakeholder groups, like management approval processes."
+  }
+]
