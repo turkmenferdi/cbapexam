@@ -186,11 +186,6 @@ export function Quiz() {
       } else {
         setWrong(prev => prev + 1);
       }
-
-      // Auto-advance after 600ms
-      setTimeout(() => {
-        nextQuestion();
-      }, 600);
     });
   };
 
