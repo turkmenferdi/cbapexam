@@ -358,7 +358,10 @@ function QuizQuestion({
   getCurrentQuestion,
   setFeedback,
   setCurrentIdx,
-  setQuizCompleted
+  setQuizCompleted,
+  goToQuestion,
+  previousQuestion,
+  nextQuestion
 }: QuizQuestionProps) {
   const [currentQuestion, setCurrentQuestion] = useState<Question | null>(null);
 
