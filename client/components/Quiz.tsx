@@ -44,18 +44,34 @@ export function Quiz() {
     return shuffled;
   };
 
+  // Original fetch reference to bypass interceptors
+  const originalFetch = window.fetch;
+
   // Load quiz configuration
   const loadConfig = async () => {
     try {
       setLoading(true);
       console.log('Loading quiz configuration...');
 
-      const response = await fetch('/data/questions_index.json', {
-        cache: 'no-store',
-        headers: {
-          'Content-Type': 'application/json',
-        }
-      });
+      let response;
+      try {
+        // Try with regular fetch first
+        response = await fetch('/data/questions_index.json', {
+          cache: 'no-store',
+          headers: {
+            'Content-Type': 'application/json',
+          }
+        });
+      } catch (fetchError) {
+        console.warn('Regular fetch failed, trying with original fetch:', fetchError);
+        // Fallback to original fetch if intercepted
+        response = await originalFetch('/data/questions_index.json', {
+          cache: 'no-store',
+          headers: {
+            'Content-Type': 'application/json',
+          }
+        });
+      }
 
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}: ${response.statusText}`);
