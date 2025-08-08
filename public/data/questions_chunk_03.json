@@ -1,32 +1,32 @@
 [
   {
-    "question": "What is the tallest mountain in the world?",
-    "options": ["A. K2", "B. Mount Everest", "C. Mount Kilimanjaro", "D. Mount McKinley"],
+    "question": "Which is a key output of the Plan Business Analysis Approach task?",
+    "options": ["A. Requirements management plan", "B. Business analysis plan", "C. Stakeholder engagement plan", "D. Business case"],
     "answer": "B",
-    "explanation": "Mount Everest stands at 29,029 feet (8,848 meters) above sea level."
+    "explanation": "The Plan Business Analysis Approach task produces the business analysis plan as its primary output."
   },
   {
-    "question": "Which country invented paper?",
-    "options": ["A. Egypt", "B. Greece", "C. China", "D. India"],
-    "answer": "C",
-    "explanation": "Paper was invented in China during the Han dynasty around 105 AD by Cai Lun."
-  },
-  {
-    "question": "What is the smallest country in the world?",
-    "options": ["A. Monaco", "B. Nauru", "C. San Marino", "D. Vatican City"],
-    "answer": "D",
-    "explanation": "Vatican City is the smallest country in the world with an area of just 0.17 square miles (0.44 square kilometers)."
-  },
-  {
-    "question": "Which organ in the human body produces insulin?",
-    "options": ["A. Liver", "B. Kidney", "C. Pancreas", "D. Spleen"],
-    "answer": "C",
-    "explanation": "The pancreas produces insulin, which regulates blood sugar levels in the body."
-  },
-  {
-    "question": "What is the hardest natural substance on Earth?",
-    "options": ["A. Quartz", "B. Diamond", "C. Granite", "D. Steel"],
+    "question": "Which of the following describes a constraint?",
+    "options": ["A. A requirement that must be implemented", "B. A limitation or restriction", "C. A desired feature", "D. An assumption"],
     "answer": "B",
-    "explanation": "Diamond is the hardest natural substance, rating 10 on the Mohs scale of mineral hardness."
+    "explanation": "A constraint is a limitation or restriction that affects how the solution can be implemented or designed."
+  },
+  {
+    "question": "Which document describes the business need and justification for a project?",
+    "options": ["A. Vision statement", "B. Business case", "C. Project charter", "D. Requirements specification"],
+    "answer": "B",
+    "explanation": "The business case documents the business need, justification, and expected benefits of the project."
+  },
+  {
+    "question": "What is the primary purpose of requirements prioritization?",
+    "options": ["A. To determine implementation sequence", "B. To remove unnecessary requirements", "C. To identify dependencies", "D. To manage changes"],
+    "answer": "A",
+    "explanation": "Requirements prioritization helps determine which requirements should be implemented first and in what order."
+  },
+  {
+    "question": "Which is NOT a technique for defining the future state?",
+    "options": ["A. SWOT analysis", "B. Benchmarking", "C. Decision analysis", "D. Brainstorming"],
+    "answer": "C",
+    "explanation": "Decision analysis is used for evaluating options, not specifically for defining the future state."
   }
 ]
