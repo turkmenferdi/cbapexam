@@ -287,16 +287,17 @@ interface QuizQuestionProps {
   getCurrentQuestion: () => Promise<Question | null>;
 }
 
-function QuizQuestion({ 
-  config, 
-  currentIdx, 
-  questionOrder, 
-  score, 
-  feedback, 
+function QuizQuestion({
+  config,
+  currentIdx,
+  questionOrder,
+  score,
+  feedback,
   loading,
-  onAnswer, 
-  onSkip, 
-  getCurrentQuestion 
+  onAnswer,
+  onSkip,
+  onFinish,
+  getCurrentQuestion
 }: QuizQuestionProps) {
   const [currentQuestion, setCurrentQuestion] = useState<Question | null>(null);
 
