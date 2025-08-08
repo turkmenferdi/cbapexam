@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which is a purpose of the Plan Business Analysis Governance task?",
+    "options": ["A. Define how decisions about requirements will be made", "B. Define future state", "C. Validate solution performance", "D. Identify stakeholders"],
+    "answer": "A",
+    "explanation": "Plan Business Analysis Governance establishes decision-making processes and authority for business analysis activities."
+  },
+  {
+    "question": "Which is a limitation of using workshops?",
+    "options": ["A. Encourages collaboration", "B. Time-consuming to organize", "C. Enables conflict resolution", "D. Allows shared understanding"],
+    "answer": "B",
+    "explanation": "While workshops have many benefits, they can be time-consuming to organize and coordinate with multiple stakeholders."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": ["A. Data migration from legacy system", "B. 99% uptime requirement", "C. Multi-language support", "D. Monthly reporting functionality"],
+    "answer": "A",
+    "explanation": "Data migration is a transition requirement needed to move from the current system to the new solution."
+  },
+  {
+    "question": "Which BABOK task is concerned with confirming whether requirements deliver business value?",
+    "options": ["A. Validate Requirements", "B. Measure Solution Performance", "C. Approve Requirements", "D. Elicit Requirements"],
+    "answer": "A",
+    "explanation": "Validate Requirements ensures that requirements are correct, complete, and will deliver the intended business value."
+  },
+  {
+    "question": "Which is a purpose of acceptance criteria?",
+    "options": ["A. Define when a requirement is complete and acceptable", "B. Define business goals", "C. Document solution architecture", "D. Identify risks"],
+    "answer": "A",
+    "explanation": "Acceptance criteria specify the conditions that must be met for a requirement to be considered complete and acceptable."
+  }
+]
