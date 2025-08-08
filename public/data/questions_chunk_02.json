@@ -1,0 +1,57 @@
+[
+  {
+    "question": "You are the business analyst for a smaller project where there are few requirements. Management would still like you to create a method to trace the few requirements for this project. What type of matrix would be best in this instance?",
+    "options": [
+      "A. Roles and responsibility matrix",
+      "B. RACI matrix",
+      "C. Coverage matrix",
+      "D. Requirements trace matrix"
+    ],
+    "answer": "C",
+    "explanation": "A coverage matrix is simpler and more appropriate for projects with few requirements. It shows the relationship between requirements and other project elements without the complexity of a full requirements traceability matrix."
+  },
+  {
+    "question": "You are the business analyst for your organization and have many solutions available to an identified problem. You would like a way to quickly and fairly determine which solution is the best choice for your organization. Which of the following approaches would allow you to determine the top-rated solutions for your organization?",
+    "options": [
+      "A. Scoring system",
+      "B. Acceptance and evaluation criteria",
+      "C. Vendor assessment", 
+      "D. Voting system"
+    ],
+    "answer": "B",
+    "explanation": "Acceptance and evaluation criteria provide objective, predefined standards against which solutions can be measured fairly and consistently. This approach ensures all solutions are evaluated using the same criteria."
+  },
+  {
+    "question": "When an organization is using a change-driven approach to business analysis, how are communications managed?",
+    "options": [
+      "A. Communications in a change-driven approach to business analysis focus more on the frequency of communication.",
+      "B. Communications in a change-driven approach typically use face-to-face channels.",
+      "C. Communications in a change-driven approach focus more on formal communications.",
+      "D. Communications in a change-driven approach are all ad hoc."
+    ],
+    "answer": "A",
+    "explanation": "In change-driven approaches (like Agile), communication frequency is emphasized to ensure rapid feedback and adaptation to changing requirements. Regular, frequent communication helps manage the iterative nature of change-driven projects."
+  },
+  {
+    "question": "You are the business analyst for your organization. Management has asked that you create a method to store the project requirements including those under development, under review, and the requirements which have been approved. What is management asking you to create?",
+    "options": [
+      "A. A change management system",
+      "B. A repository",
+      "C. A project scope statement",
+      "D. A requirements register"
+    ],
+    "answer": "B",
+    "explanation": "A repository is a centralized location for storing and managing requirements throughout their lifecycle, including various states like under development, under review, and approved. It provides version control and status tracking."
+  },
+  {
+    "question": "You are the business analyst for your organization and working with Tim to identify the assumptions within the business solution. Which one of the following is an assumption?",
+    "options": [
+      "A. The vendor believes the hardware should arrive by December 1",
+      "B. The software must be compatible with Windows Vista",
+      "C. The software must cost less than $99 per license",
+      "D. The hardware must cost less than $450 per unit."
+    ],
+    "answer": "A",
+    "explanation": "An assumption is something that is believed to be true but is not confirmed. The vendor's belief about delivery date is an assumption. Options B, C, and D are requirements or constraints with specific measurable criteria."
+  }
+]
