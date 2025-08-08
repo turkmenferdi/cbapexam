@@ -339,6 +339,9 @@ interface QuizQuestionProps {
   onSkip: () => void;
   onFinish: () => void;
   getCurrentQuestion: () => Promise<Question | null>;
+  setFeedback: (feedback: FeedbackState) => void;
+  setCurrentIdx: (idx: number | ((prev: number) => number)) => void;
+  setQuizCompleted: (completed: boolean) => void;
 }
 
 function QuizQuestion({
