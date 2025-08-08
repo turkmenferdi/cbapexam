@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which elicitation technique is MOST effective for resolving conflicting stakeholder needs?",
+    "options": ["A. Observation", "B. Workshops", "C. Benchmarking", "D. Document analysis"],
+    "answer": "B",
+    "explanation": "Workshops bring stakeholders together in a facilitated environment to discuss, negotiate, and resolve conflicting requirements."
+  },
+  {
+    "question": "Which BABOK knowledge area includes the task \"Measure Solution Performance\"?",
+    "options": ["A. Requirements Analysis and Design Definition", "B. Strategy Analysis", "C. Solution Evaluation", "D. Elicitation and Collaboration"],
+    "answer": "C",
+    "explanation": "Solution Evaluation knowledge area includes tasks for measuring and assessing solution performance after implementation."
+  },
+  {
+    "question": "Which of these is a common output of stakeholder analysis?",
+    "options": ["A. Stakeholder register", "B. Governance approach", "C. Solution scope", "D. Business case"],
+    "answer": "A",
+    "explanation": "Stakeholder analysis produces a stakeholder register that documents identified stakeholders and their characteristics."
+  },
+  {
+    "question": "Which type of requirement is needed for solution deployment?",
+    "options": ["A. Business requirement", "B. Non-functional requirement", "C. Transition requirement", "D. Stakeholder requirement"],
+    "answer": "C",
+    "explanation": "Transition requirements describe capabilities needed to move from current state to future state, including deployment needs."
+  },
+  {
+    "question": "What is the main purpose of root cause analysis?",
+    "options": ["A. Identify stakeholders", "B. Determine underlying causes of a problem", "C. Create solution options", "D. Validate requirements"],
+    "answer": "B",
+    "explanation": "Root cause analysis systematically identifies the fundamental causes of problems to prevent recurrence."
+  }
+]
