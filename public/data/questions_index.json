@@ -1,7 +1,7 @@
 {
-  "total_questions": 40,
+  "total_questions": 60,
   "chunk_size": 5,
-  "num_chunks": 8,
+  "num_chunks": 12,
   "files": [
     "questions_chunk_01.json",
     "questions_chunk_02.json", 
@@ -10,6 +10,10 @@
     "questions_chunk_05.json",
     "questions_chunk_06.json",
     "questions_chunk_07.json",
-    "questions_chunk_08.json"
+    "questions_chunk_08.json",
+    "questions_chunk_09.json",
+    "questions_chunk_10.json",
+    "questions_chunk_11.json",
+    "questions_chunk_12.json"
   ]
 }
