@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the term used to describe the cost of the solution after the solution has been implemented in production by a vendor?",
+    "options": [
+      "A. Total ownership costing",
+      "B. Lifecycle maintenance fees", 
+      "C. Sustainability fees",
+      "D. Total cost of ownership"
+    ],
+    "answer": "D",
+    "explanation": "Total cost of ownership (TCO) encompasses all costs associated with acquiring, implementing, and maintaining a solution throughout its entire lifecycle, including ongoing operational and maintenance costs."
+  },
+  {
+    "question": "Enterprise analysis creates just five outputs. Which one of the following is an output of the enterprise analysis tasks?",
+    "options": [
+      "A. Assumptions and constraints",
+      "B. Stakeholder concerns",
+      "C. Solution performance assessment", 
+      "D. Solution approach"
+    ],
+    "answer": "D",
+    "explanation": "According to BABOK, the five outputs of enterprise analysis are: business need, solution approach, solution scope, business case, and change strategy. Solution approach is one of these key outputs."
+  },
+  {
+    "question": "All of the following stakeholders participate in the prioritization of requirements except for which one?",
+    "options": [
+      "A. Implementation subject matter expert",
+      "B. Project team",
+      "C. Domain subject matter expert",
+      "D. Project manager"
+    ],
+    "answer": "B",
+    "explanation": "While project team members may provide input, they typically do not participate directly in requirements prioritization. This is primarily done by business stakeholders, subject matter experts, and project managers who understand business value and implementation constraints."
+  },
+  {
+    "question": "You are the business analyst for your organization. Management has asked that you create a model of the requirements so the stakeholders can better understand the requirements and the project as a whole. Which of the following statements best describes a model?",
+    "options": [
+      "A. Models are slices of the project solution.",
+      "B. Models simplify the requirements for common stakeholders.",
+      "C. Models are statistics for the return on investment, time saved, and other mathematics.",
+      "D. Models abstract and simplify reality."
+    ],
+    "answer": "D",
+    "explanation": "Models are representations that abstract and simplify reality to help stakeholders understand complex concepts, relationships, and requirements. They remove unnecessary details while highlighting the essential elements."
+  },
+  {
+    "question": "What plan will describe the stakeholder groups, communication needs, and the level of formality that is appropriate for the requirements?",
+    "options": [
+      "A. Requirements management plan",
+      "B. Project management plan",
+      "C. Scope management plan",
+      "D. Business analysis communication plan"
+    ],
+    "answer": "D",
+    "explanation": "The business analysis communication plan specifically addresses how business analysis information will be communicated, including stakeholder groups, communication methods, frequency, and formality levels appropriate for different audiences."
+  }
+]
