@@ -354,7 +354,10 @@ function QuizQuestion({
   onAnswer,
   onSkip,
   onFinish,
-  getCurrentQuestion
+  getCurrentQuestion,
+  setFeedback,
+  setCurrentIdx,
+  setQuizCompleted
 }: QuizQuestionProps) {
   const [currentQuestion, setCurrentQuestion] = useState<Question | null>(null);
 
