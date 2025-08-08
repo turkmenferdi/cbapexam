@@ -268,6 +268,7 @@ export function Quiz() {
       loading={loading}
       onAnswer={handleAnswer}
       onSkip={skipQuestion}
+      onFinish={finishQuiz}
       getCurrentQuestion={getCurrentQuestion}
     />
   );
