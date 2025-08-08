@@ -321,6 +321,9 @@ export function Quiz() {
       onSkip={skipQuestion}
       onFinish={finishQuiz}
       getCurrentQuestion={getCurrentQuestion}
+      setFeedback={setFeedback}
+      setCurrentIdx={setCurrentIdx}
+      setQuizCompleted={setQuizCompleted}
     />
   );
 }
