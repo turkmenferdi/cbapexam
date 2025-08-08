@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": ["A. K2", "B. Mount Everest", "C. Mount Kilimanjaro", "D. Mount McKinley"],
+    "answer": "B",
+    "explanation": "Mount Everest stands at 29,029 feet (8,848 meters) above sea level."
+  },
+  {
+    "question": "Which country invented paper?",
+    "options": ["A. Egypt", "B. Greece", "C. China", "D. India"],
+    "answer": "C",
+    "explanation": "Paper was invented in China during the Han dynasty around 105 AD by Cai Lun."
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": ["A. Monaco", "B. Nauru", "C. San Marino", "D. Vatican City"],
+    "answer": "D",
+    "explanation": "Vatican City is the smallest country in the world with an area of just 0.17 square miles (0.44 square kilometers)."
+  },
+  {
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["A. Liver", "B. Kidney", "C. Pancreas", "D. Spleen"],
+    "answer": "C",
+    "explanation": "The pancreas produces insulin, which regulates blood sugar levels in the body."
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["A. Quartz", "B. Diamond", "C. Granite", "D. Steel"],
+    "answer": "B",
+    "explanation": "Diamond is the hardest natural substance, rating 10 on the Mohs scale of mineral hardness."
+  }
+]
