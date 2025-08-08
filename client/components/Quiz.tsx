@@ -145,6 +145,12 @@ export function Quiz() {
     nextQuestion();
   };
 
+  // Finish quiz early
+  const finishQuiz = () => {
+    if (feedback.show) return;
+    setQuizCompleted(true);
+  };
+
   // Move to next question
   const nextQuestion = () => {
     setFeedback({ show: false, isCorrect: false });
