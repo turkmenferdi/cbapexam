@@ -319,6 +319,9 @@ export function Quiz() {
       setFeedback={setFeedback}
       setCurrentIdx={setCurrentIdx}
       setQuizCompleted={setQuizCompleted}
+      goToQuestion={goToQuestion}
+      previousQuestion={previousQuestion}
+      nextQuestion={nextQuestion}
     />
   );
 }
