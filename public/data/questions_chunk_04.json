@@ -1,32 +1,32 @@
 [
   {
-    "question": "Which gas makes up about 78% of Earth's atmosphere?",
-    "options": ["A. Oxygen", "B. Carbon Dioxide", "C. Nitrogen", "D. Argon"],
+    "question": "Which of the following is an example of a transition requirement?",
+    "options": ["A. User training material", "B. Login functionality", "C. Report generation", "D. System uptime"],
+    "answer": "A",
+    "explanation": "User training material is a transition requirement needed to move from the current state to the future state."
+  },
+  {
+    "question": "Which is the MOST appropriate tool for visually modeling processes?",
+    "options": ["A. Decision tree", "B. Use case diagram", "C. Process flow diagram", "D. Data dictionary"],
     "answer": "C",
-    "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere, while oxygen is about 21%."
+    "explanation": "Process flow diagrams are specifically designed to visually represent the flow of activities in a process."
   },
   {
-    "question": "In which year was the first iPhone released?",
-    "options": ["A. 2006", "B. 2007", "C. 2008", "D. 2009"],
+    "question": "Which technique is MOST suitable for identifying root causes of a problem?",
+    "options": ["A. Fishbone diagram", "B. Benchmarking", "C. SWOT analysis", "D. Brainstorming"],
+    "answer": "A",
+    "explanation": "Fishbone diagrams (cause-and-effect diagrams) are specifically designed to identify root causes of problems."
+  },
+  {
+    "question": "Which is a characteristic of a good requirement?",
+    "options": ["A. Ambiguous", "B. Testable", "C. Complex", "D. High-level"],
     "answer": "B",
-    "explanation": "Apple released the first iPhone on June 29, 2007, revolutionizing the smartphone industry."
+    "explanation": "A good requirement must be testable so it can be verified that it has been correctly implemented."
   },
   {
-    "question": "What is the currency of Japan?",
-    "options": ["A. Yuan", "B. Won", "C. Yen", "D. Ringgit"],
-    "answer": "C",
-    "explanation": "The Japanese yen has been Japan's official currency since 1871."
-  },
-  {
-    "question": "Which scientist developed the theory of relativity?",
-    "options": ["A. Isaac Newton", "B. Albert Einstein", "C. Galileo Galilei", "D. Stephen Hawking"],
+    "question": "Which document outlines how requirements will be managed and controlled?",
+    "options": ["A. Business analysis plan", "B. Requirements management plan", "C. Stakeholder register", "D. Change log"],
     "answer": "B",
-    "explanation": "Albert Einstein developed both the special theory of relativity (1905) and general theory of relativity (1915)."
-  },
-  {
-    "question": "What is the longest river in the world?",
-    "options": ["A. Amazon River", "B. Nile River", "C. Mississippi River", "D. Yangtze River"],
-    "answer": "B",
-    "explanation": "The Nile River is approximately 4,135 miles (6,650 km) long, making it the longest river in the world."
+    "explanation": "The requirements management plan specifically outlines the processes and procedures for managing requirements throughout the project."
   }
 ]
