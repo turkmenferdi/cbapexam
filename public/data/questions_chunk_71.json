@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of stakeholder analysis?",
+    "options": [
+      "A. Helps plan communication and engagement strategies effectively",
+      "B. Guarantees stakeholder consensus",
+      "C. Eliminates need for feedback",
+      "D. Avoids conflicts entirely"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder analysis helps identify stakeholder needs and influence levels, enabling effective planning of communication and engagement strategies."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Migrate legacy system data before new system goes live",
+      "B. Encrypt passwords",
+      "C. Provide dashboard view",
+      "D. Process orders"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data migration activities."
+  },
+  {
+    "question": "Which is a limitation of workshops?",
+    "options": [
+      "A. Can be costly and logistically challenging to arrange",
+      "B. Builds understanding",
+      "C. Encourages teamwork",
+      "D. Resolves disputes quickly"
+    ],
+    "answer": "A",
+    "explanation": "Workshops require significant planning, coordination, and resources, making them costly and logistically challenging to organize."
+  },
+  {
+    "question": "Which is the purpose of risk analysis?",
+    "options": [
+      "A. Identify, assess, and prioritize project risks",
+      "B. Plan testing",
+      "C. Approve requirements",
+      "D. Define KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Risk analysis systematically identifies potential risks, evaluates their likelihood and impact, and prioritizes them for management."
+  },
+  {
+    "question": "Which is an example of a business rule?",
+    "options": [
+      "A. Orders over $500 require manager approval",
+      "B. Encrypt stored data",
+      "C. Load product page in 1 second",
+      "D. Provide wishlist"
+    ],
+    "answer": "A",
+    "explanation": "Business rules define organizational policies and procedures - requiring manager approval for large orders is a typical business rule."
+  }
+]

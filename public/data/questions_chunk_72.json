@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of using historical data?",
+    "options": [
+      "A. May be irrelevant if market or technology changes",
+      "B. Improves forecasting",
+      "C. Enhances planning",
+      "D. Supports accuracy"
+    ],
+    "answer": "A",
+    "explanation": "Historical data may become irrelevant or inaccurate when market conditions, technology, or business environment changes significantly."
+  },
+  {
+    "question": "Which is a benefit of prototyping?",
+    "options": [
+      "A. Provides an interactive model to validate requirements early",
+      "B. Guarantees acceptance",
+      "C. Eliminates testing",
+      "D. Automatically speeds delivery"
+    ],
+    "answer": "A",
+    "explanation": "Prototyping provides an interactive model that allows stakeholders to validate requirements and provide feedback early in the development process."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. Mobile app must support offline mode for at least 24 hours",
+      "B. Provide login",
+      "C. Track orders",
+      "D. Process payments"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and operational characteristics - offline capability duration is an availability requirement."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. Observer's presence may influence behavior",
+      "B. Improves accuracy",
+      "C. Clarifies workflow",
+      "D. Provides insights"
+    ],
+    "answer": "A",
+    "explanation": "The presence of an observer may cause people to alter their normal behavior patterns, affecting the accuracy of observations."
+  },
+  {
+    "question": "Which is the purpose of process modeling?",
+    "options": [
+      "A. Visualize and analyze workflows to improve efficiency",
+      "B. Plan go-live",
+      "C. Approve budget",
+      "D. Define KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Process modeling creates visual representations of workflows to help understand, analyze, and improve business process efficiency."
+  }
+]

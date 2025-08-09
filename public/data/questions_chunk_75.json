@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of benchmarking?",
+    "options": [
+      "A. May not capture industry-specific challenges",
+      "B. Identifies trends",
+      "C. Supports performance improvement",
+      "D. Provides comparative insights"
+    ],
+    "answer": "A",
+    "explanation": "Benchmarking may use generic standards that don't account for industry-specific challenges, regulations, or unique constraints."
+  },
+  {
+    "question": "Which is a benefit of measurable objectives?",
+    "options": [
+      "A. Enable tracking and evaluation of progress",
+      "B. Guarantees success",
+      "C. Eliminates governance",
+      "D. Reduces cost"
+    ],
+    "answer": "A",
+    "explanation": "Measurable objectives provide specific metrics and targets that enable objective tracking and evaluation of progress toward goals."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Reduce operational costs by 10% annually",
+      "B. Provide search",
+      "C. Encrypt stored data",
+      "D. Generate invoices"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - reducing operational costs by 10% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of surveys?",
+    "options": [
+      "A. May lack context for responses",
+      "B. Reaches large audience",
+      "C. Gathers quantitative data",
+      "D. Reduces interviews"
+    ],
+    "answer": "A",
+    "explanation": "Surveys typically provide responses without sufficient context to fully understand the reasoning behind the answers."
+  },
+  {
+    "question": "Which is the purpose of requirements prioritization?",
+    "options": [
+      "A. Ensure resources focus on most important requirements first",
+      "B. Avoid scope creep",
+      "C. Reduce documentation",
+      "D. Simplify scope"
+    ],
+    "answer": "A",
+    "explanation": "Requirements prioritization ensures that limited resources are allocated to the most important and valuable requirements first."
+  }
+]

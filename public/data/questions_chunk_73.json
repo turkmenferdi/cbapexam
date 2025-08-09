@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a stakeholder requirement?",
+    "options": [
+      "A. Customer must be able to cancel subscription online",
+      "B. Encrypt data",
+      "C. Load homepage in under 2 seconds",
+      "D. Provide contact page"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - customers needing to cancel subscriptions represents a stakeholder need."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. May produce subjective responses influenced by perception",
+      "B. Builds rapport",
+      "C. Allows detail gathering",
+      "D. Clarifies needs"
+    ],
+    "answer": "A",
+    "explanation": "Interviews can produce subjective responses influenced by personal perceptions, experiences, and biases of the interviewees."
+  },
+  {
+    "question": "Which is the purpose of defining the future state?",
+    "options": [
+      "A. Provide a clear and agreed vision for the desired outcome",
+      "B. Document current processes",
+      "C. Plan rollout",
+      "D. Approve changes"
+    ],
+    "answer": "A",
+    "explanation": "Defining the future state establishes a clear, shared vision of what the organization wants to achieve and the desired outcome."
+  },
+  {
+    "question": "Which is an example of a performance requirement?",
+    "options": [
+      "A. Generate sales report within 60 seconds",
+      "B. Provide shopping cart",
+      "C. Allow search",
+      "D. Send invoice"
+    ],
+    "answer": "A",
+    "explanation": "Performance requirements specify quantifiable system performance criteria - report generation time is a key performance measure."
+  },
+  {
+    "question": "Which is a limitation of focus groups?",
+    "options": [
+      "A. Some participants may dominate discussion",
+      "B. Encourages diverse input",
+      "C. Improves understanding",
+      "D. Supports collaboration"
+    ],
+    "answer": "A",
+    "explanation": "Focus groups can be dominated by vocal participants, potentially silencing quieter voices and creating biased results."
+  }
+]
