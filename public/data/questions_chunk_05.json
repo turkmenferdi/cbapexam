@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a primary purpose of the Plan Business Analysis Governance task?",
+    "options": [
+      "A. Define how decisions will be made and changes managed",
+      "B. Approve requirements",
+      "C. Identify stakeholders",
+      "D. Define business case"
+    ],
+    "answer": "A",
+    "explanation": "Business analysis governance defines the decision-making processes, approval authorities, and change management procedures."
+  },
+  {
+    "question": "Which is a benefit of creating prototypes?",
+    "options": [
+      "A. Allows early feedback and requirement validation",
+      "B. Guarantees final design",
+      "C. Eliminates documentation",
+      "D. Speeds up coding"
+    ],
+    "answer": "A",
+    "explanation": "Prototypes enable early stakeholder feedback and help validate requirements before full development begins."
+  },
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. System must allow password reset by users",
+      "B. Require 2-second response time",
+      "C. Encrypt stored data",
+      "D. Support multiple languages"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - in this case, provide password reset functionality."
+  },
+  {
+    "question": "Which is a benefit of using acceptance criteria?",
+    "options": [
+      "A. Provides basis for testing and validation",
+      "B. Eliminates stakeholder conflict",
+      "C. Guarantees faster delivery",
+      "D. Reduces governance needs"
+    ],
+    "answer": "A",
+    "explanation": "Acceptance criteria define specific conditions that must be met, providing clear basis for testing and validation."
+  },
+  {
+    "question": "Which is a key advantage of using a Requirements Traceability Matrix?",
+    "options": [
+      "A. Tracks requirements from origin to implementation",
+      "B. Reduces stakeholder involvement",
+      "C. Eliminates need for governance",
+      "D. Guarantees success"
+    ],
+    "answer": "A",
+    "explanation": "The Requirements Traceability Matrix tracks relationships and dependencies from business needs through to implementation."
+  }
+]

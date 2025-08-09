@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. System must encrypt all stored data",
+      "B. System must allow user login",
+      "C. System must display account balance",
+      "D. System must send email notifications"
+    ],
+    "answer": "A",
+    "explanation": "Encryption is a non-functional requirement related to security, while the others are functional requirements describing what the system does."
+  },
+  {
+    "question": "Which elicitation technique is most useful for discovering hidden requirements?",
+    "options": [
+      "A. Observation",
+      "B. Interviews",
+      "C. Document analysis",
+      "D. Surveys"
+    ],
+    "answer": "A",
+    "explanation": "Observation allows analysts to see actual work being performed and can reveal hidden requirements that stakeholders may not explicitly mention."
+  },
+  {
+    "question": "Which is the best approach when stakeholders disagree on requirements?",
+    "options": [
+      "A. Facilitate a requirements workshop",
+      "B. Select the most senior stakeholder's view",
+      "C. Delay until consensus forms naturally",
+      "D. Document both versions without resolution"
+    ],
+    "answer": "A",
+    "explanation": "Facilitated workshops provide a structured environment to work through disagreements and reach consensus."
+  },
+  {
+    "question": "Which is a key output of the Validate Requirements task?",
+    "options": [
+      "A. Validated requirements",
+      "B. Approved requirements",
+      "C. Traced requirements",
+      "D. Verified requirements"
+    ],
+    "answer": "A",
+    "explanation": "The primary output of the Validate Requirements task is validated requirements that have been confirmed as correct and complete."
+  },
+  {
+    "question": "Which is a primary purpose of the Business Requirements Document (BRD)?",
+    "options": [
+      "A. Define the solution design",
+      "B. Capture business needs and objectives",
+      "C. Provide technical specifications",
+      "D. Document test cases"
+    ],
+    "answer": "B",
+    "explanation": "The BRD captures and documents business needs, objectives, and requirements rather than technical specifications."
+  }
+]

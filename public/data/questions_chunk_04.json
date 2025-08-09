@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a stakeholder requirement?",
+    "options": [
+      "A. System must allow managers to approve leave requests",
+      "B. Reduce login time to under 2 seconds",
+      "C. Comply with data protection regulations",
+      "D. Archive records after 5 years"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups, in this case managers who need to approve leave requests."
+  },
+  {
+    "question": "Which is the main benefit of conducting a root cause analysis?",
+    "options": [
+      "A. Identifies underlying problems",
+      "B. Avoids stakeholder conflict",
+      "C. Eliminates need for documentation",
+      "D. Speeds up testing"
+    ],
+    "answer": "A",
+    "explanation": "Root cause analysis helps identify the underlying problems that cause symptoms, allowing for more effective solutions."
+  },
+  {
+    "question": "Which type of requirement includes usability, security, and performance?",
+    "options": [
+      "A. Non-functional requirement",
+      "B. Functional requirement",
+      "C. Business requirement",
+      "D. Transition requirement"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements describe quality attributes like usability, security, and performance rather than specific functions."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. May alter stakeholder behavior",
+      "B. Captures actual process steps",
+      "C. Provides real-time data",
+      "D. Identifies inefficiencies"
+    ],
+    "answer": "A",
+    "explanation": "The Hawthorne effect means that being observed may cause people to change their normal behavior patterns."
+  },
+  {
+    "question": "Which is an example of a measurable business objective?",
+    "options": [
+      "A. Increase sales by 10% in six months",
+      "B. Improve sales",
+      "C. Provide better service",
+      "D. Reduce complaints"
+    ],
+    "answer": "A",
+    "explanation": "A measurable objective includes specific metrics (10%) and timeframes (six months), making progress trackable."
+  }
+]

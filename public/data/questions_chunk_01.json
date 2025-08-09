@@ -3,55 +3,55 @@
     "question": "What is the term used to describe the cost of the solution after the solution has been implemented in production by a vendor?",
     "options": [
       "A. Total ownership costing",
-      "B. Lifecycle maintenance fees", 
+      "B. Lifecycle maintenance fees",
       "C. Sustainability fees",
       "D. Total cost of ownership"
     ],
     "answer": "D",
-    "explanation": "Total cost of ownership (TCO) encompasses all costs associated with acquiring, implementing, and maintaining a solution throughout its entire lifecycle, including ongoing operational and maintenance costs."
+    "explanation": "Total cost of ownership (TCO) encompasses all costs associated with acquiring, implementing, and maintaining a solution throughout its entire lifecycle."
   },
   {
-    "question": "Enterprise analysis creates just five outputs. Which one of the following is an output of the enterprise analysis tasks?",
+    "question": "Which of the following is NOT a purpose of the Requirements Traceability Matrix?",
     "options": [
-      "A. Assumptions and constraints",
-      "B. Stakeholder concerns",
-      "C. Solution performance assessment", 
-      "D. Solution approach"
+      "A. To help ensure that all requirements are met",
+      "B. To manage changes to the requirements",
+      "C. To identify which requirements have been approved",
+      "D. To document acceptance criteria"
     ],
     "answer": "D",
-    "explanation": "According to BABOK, the five outputs of enterprise analysis are: business need, solution approach, solution scope, business case, and change strategy. Solution approach is one of these key outputs."
+    "explanation": "The Requirements Traceability Matrix is used to track requirements from origin to implementation, not to document acceptance criteria."
   },
   {
-    "question": "All of the following stakeholders participate in the prioritization of requirements except for which one?",
+    "question": "Which is the most effective method to validate requirements with stakeholders?",
     "options": [
-      "A. Implementation subject matter expert",
-      "B. Project team",
-      "C. Domain subject matter expert",
-      "D. Project manager"
+      "A. Conducting peer reviews",
+      "B. Holding formal walk-throughs",
+      "C. Reviewing the project budget",
+      "D. Preparing status reports"
     ],
     "answer": "B",
-    "explanation": "While project team members may provide input, they typically do not participate directly in requirements prioritization. This is primarily done by business stakeholders, subject matter experts, and project managers who understand business value and implementation constraints."
+    "explanation": "Formal walk-throughs provide structured review sessions where stakeholders can validate requirements in detail."
   },
   {
-    "question": "You are the business analyst for your organization. Management has asked that you create a model of the requirements so the stakeholders can better understand the requirements and the project as a whole. Which of the following statements best describes a model?",
+    "question": "Which technique is used to understand the relationship between different requirements?",
     "options": [
-      "A. Models are slices of the project solution.",
-      "B. Models simplify the requirements for common stakeholders.",
-      "C. Models are statistics for the return on investment, time saved, and other mathematics.",
-      "D. Models abstract and simplify reality."
+      "A. Requirements workshops",
+      "B. Requirements traceability",
+      "C. Document analysis",
+      "D. Observation"
     ],
-    "answer": "D",
-    "explanation": "Models are representations that abstract and simplify reality to help stakeholders understand complex concepts, relationships, and requirements. They remove unnecessary details while highlighting the essential elements."
+    "answer": "B",
+    "explanation": "Requirements traceability helps map and understand relationships between different requirements and their dependencies."
   },
   {
-    "question": "What plan will describe the stakeholder groups, communication needs, and the level of formality that is appropriate for the requirements?",
+    "question": "Which of the following is NOT an input to the task Plan Business Analysis Approach?",
     "options": [
-      "A. Requirements management plan",
-      "B. Project management plan",
-      "C. Scope management plan",
-      "D. Business analysis communication plan"
+      "A. Needs",
+      "B. Requirements management tools",
+      "C. Expert judgment",
+      "D. Business policies"
     ],
-    "answer": "D",
-    "explanation": "The business analysis communication plan specifically addresses how business analysis information will be communicated, including stakeholder groups, communication methods, frequency, and formality levels appropriate for different audiences."
+    "answer": "B",
+    "explanation": "Requirements management tools are part of the planning output, not an input to the task."
   }
 ]
