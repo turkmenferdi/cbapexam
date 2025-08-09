@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of benchmarking?",
+    "options": [
+      "A. May not consider unique organizational culture",
+      "B. Identifies best practices",
+      "C. Provides comparison",
+      "D. Supports improvement"
+    ],
+    "answer": "A",
+    "explanation": "Benchmarking compares against external standards that may not account for the organization's unique culture, context, and constraints."
+  },
+  {
+    "question": "Which is a benefit of measurable objectives?",
+    "options": [
+      "A. Helps track and evaluate performance over time",
+      "B. Guarantees project approval",
+      "C. Eliminates risks",
+      "D. Reduces governance"
+    ],
+    "answer": "A",
+    "explanation": "Measurable objectives provide specific metrics and targets that enable objective tracking of progress and performance evaluation over time."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Increase online sales by 20% in the next fiscal year",
+      "B. Provide wishlist functionality",
+      "C. Encrypt customer data",
+      "D. Display product reviews"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - increasing online sales by 20% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of surveys?",
+    "options": [
+      "A. May provide incomplete or misleading data",
+      "B. Collects broad feedback",
+      "C. Reduces need for interviews",
+      "D. Reaches a wide audience"
+    ],
+    "answer": "A",
+    "explanation": "Surveys can suffer from low response rates, biased samples, or poorly designed questions that lead to incomplete or misleading data."
+  },
+  {
+    "question": "Which is the purpose of requirements prioritization?",
+    "options": [
+      "A. Ensure the most critical requirements are implemented first",
+      "B. Avoid adding new requirements",
+      "C. Reduce scope",
+      "D. Simplify approval process"
+    ],
+    "answer": "A",
+    "explanation": "Requirements prioritization ensures that limited resources are allocated to the most important and critical requirements first."
+  }
+]

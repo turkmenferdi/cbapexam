@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of KPIs?",
+    "options": [
+      "A. Provide measurable criteria for tracking performance",
+      "B. Guarantee business success",
+      "C. Reduce need for monitoring",
+      "D. Avoid governance"
+    ],
+    "answer": "A",
+    "explanation": "Key Performance Indicators provide quantifiable metrics for measuring and tracking progress toward business objectives."
+  },
+  {
+    "question": "Which is an example of a constraint?",
+    "options": [
+      "A. Must use only open-source software",
+      "B. Increase revenue",
+      "C. Improve market presence",
+      "D. Expand services"
+    ],
+    "answer": "A",
+    "explanation": "Constraints are limiting factors that restrict project options - technology restrictions like using only open-source software are common constraints."
+  },
+  {
+    "question": "Which is a limitation of vendor-provided solutions?",
+    "options": [
+      "A. May include unnecessary features or lack specific ones",
+      "B. Reduces development time",
+      "C. Improves quality",
+      "D. Supports scalability"
+    ],
+    "answer": "A",
+    "explanation": "Vendor solutions are generic and may include features not needed while lacking specific features required by the organization."
+  },
+  {
+    "question": "Which is the purpose of solution evaluation?",
+    "options": [
+      "A. Assess if the solution meets business needs and objectives",
+      "B. Approve KPIs",
+      "C. Plan deployment",
+      "D. Document risks"
+    ],
+    "answer": "A",
+    "explanation": "Solution evaluation assesses how effectively the implemented solution addresses the original business needs and requirements."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. All files must be scanned for malware before upload",
+      "B. Display homepage",
+      "C. Load product page quickly",
+      "D. Provide shopping cart"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - malware scanning is a security control."
+  }
+]

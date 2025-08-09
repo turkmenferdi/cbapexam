@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of stakeholder analysis?",
+    "options": [
+      "A. Helps identify stakeholder needs and influence early in the project",
+      "B. Guarantees stakeholder agreement",
+      "C. Eliminates need for communication plans",
+      "D. Reduces risk management effort"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder analysis helps identify all relevant stakeholders and understand their needs, interests, and influence levels early in the project."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Migrate customer data from old CRM to new CRM before launch",
+      "B. Encrypt stored data",
+      "C. Display product catalog",
+      "D. Process order payments"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data migration activities."
+  },
+  {
+    "question": "Which is a limitation of workshops?",
+    "options": [
+      "A. Can be difficult to get all participants to attend",
+      "B. Encourages collaboration",
+      "C. Builds consensus",
+      "D. Accelerates decisions"
+    ],
+    "answer": "A",
+    "explanation": "Workshops require coordinating multiple stakeholders' schedules, which can be challenging and may delay the process."
+  },
+  {
+    "question": "Which is the purpose of risk analysis?",
+    "options": [
+      "A. Evaluate probability and impact of risks to plan responses",
+      "B. Approve scope",
+      "C. Define KPIs",
+      "D. Plan deployment"
+    ],
+    "answer": "A",
+    "explanation": "Risk analysis systematically evaluates the likelihood and potential impact of risks to develop appropriate response strategies."
+  },
+  {
+    "question": "Which is an example of a business rule?",
+    "options": [
+      "A. Refund requests must be submitted within 30 days of purchase",
+      "B. Load website in under 2 seconds",
+      "C. Encrypt all stored passwords",
+      "D. Provide search capability"
+    ],
+    "answer": "A",
+    "explanation": "Business rules define organizational policies and procedures - refund time limits are typical business rules."
+  }
+]
