@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Generate annual tax reports for accounting",
+      "B. Encrypt passwords",
+      "C. Support multiple browsers",
+      "D. Load homepage in 2 seconds"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - generating annual tax reports is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. May not detect rare or hidden activities",
+      "B. Improves understanding",
+      "C. Clarifies process flow",
+      "D. Builds accuracy"
+    ],
+    "answer": "A",
+    "explanation": "Observation typically captures routine activities but may miss infrequent, exception, or hidden activities that are also important."
+  },
+  {
+    "question": "Which is the purpose of transition requirements?",
+    "options": [
+      "A. Support the move from current to future state",
+      "B. Define business objectives",
+      "C. Approve requirements",
+      "D. Plan test strategy"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe the capabilities and activities needed to successfully move from current to future state."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. System must maintain uptime of 99.5% during peak hours",
+      "B. Allow order creation",
+      "C. Process payments",
+      "D. Display confirmation"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and performance criteria - uptime targets are availability requirements."
+  },
+  {
+    "question": "Which is a limitation of historical trends?",
+    "options": [
+      "A. May not account for disruptive market changes",
+      "B. Supports forecasting",
+      "C. Improves accuracy",
+      "D. Reduces uncertainty"
+    ],
+    "answer": "A",
+    "explanation": "Historical trends are based on past patterns and may not predict disruptive changes or new market conditions."
+  }
+]

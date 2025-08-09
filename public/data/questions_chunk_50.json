@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of requirements workshops?",
+    "options": [
+      "A. Gathers input from multiple stakeholders in one session",
+      "B. Guarantees consensus",
+      "C. Eliminates conflict",
+      "D. Avoids governance"
+    ],
+    "answer": "A",
+    "explanation": "Requirements workshops efficiently gather input from multiple stakeholders simultaneously, accelerating the elicitation process."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Increase customer retention by 10% over 12 months",
+      "B. Encrypt stored passwords",
+      "C. Process returns",
+      "D. Generate invoices"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - increasing customer retention by 10% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. May produce inconsistent results if not standardized",
+      "B. Builds trust",
+      "C. Allows detail",
+      "D. Clarifies understanding"
+    ],
+    "answer": "A",
+    "explanation": "Interviews can produce inconsistent results if different questions are asked or if the interview process is not standardized."
+  },
+  {
+    "question": "Which is the purpose of measurable acceptance criteria?",
+    "options": [
+      "A. Provide clear basis for requirement verification",
+      "B. Ensure immediate approval",
+      "C. Avoid documentation",
+      "D. Reduce governance"
+    ],
+    "answer": "A",
+    "explanation": "Measurable acceptance criteria provide objective, quantifiable standards that can be used to verify whether requirements have been met."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Log all failed login attempts for review",
+      "B. Display user profile",
+      "C. Allow account creation",
+      "D. Load dashboard quickly"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - logging failed login attempts is a security monitoring requirement."
+  }
+]

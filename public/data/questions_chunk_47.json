@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the purpose of defining performance measures?",
+    "options": [
+      "A. Track progress and evaluate success",
+      "B. Guarantee project approval",
+      "C. Reduce governance",
+      "D. Eliminate documentation"
+    ],
+    "answer": "A",
+    "explanation": "Performance measures provide metrics to track progress toward objectives and evaluate the success of initiatives."
+  },
+  {
+    "question": "Which is an example of a compliance requirement?",
+    "options": [
+      "A. Meet ISO 27001 standards for information security",
+      "B. Display product details",
+      "C. Encrypt passwords",
+      "D. Process refunds"
+    ],
+    "answer": "A",
+    "explanation": "Compliance requirements mandate adherence to specific standards, regulations, or certifications like ISO 27001."
+  },
+  {
+    "question": "Which is a limitation of role-playing?",
+    "options": [
+      "A. May not represent real-world complexities",
+      "B. Builds empathy",
+      "C. Encourages creativity",
+      "D. Generates scenarios"
+    ],
+    "answer": "A",
+    "explanation": "Role-playing exercises are simulated scenarios that may not capture all the complexities and pressures of real situations."
+  },
+  {
+    "question": "Which is a benefit of data flow diagrams?",
+    "options": [
+      "A. Illustrates how data moves within a system",
+      "B. Guarantees performance",
+      "C. Eliminates documentation",
+      "D. Reduces governance needs"
+    ],
+    "answer": "A",
+    "explanation": "Data flow diagrams provide visual representation of how data moves through a system and is transformed at different stages."
+  },
+  {
+    "question": "Which is an example of a usability requirement?",
+    "options": [
+      "A. Provide keyboard shortcuts for frequent actions",
+      "B. Encrypt passwords",
+      "C. Load product images",
+      "D. Process orders"
+    ],
+    "answer": "A",
+    "explanation": "Usability requirements specify how the system should be designed for ease of use - keyboard shortcuts improve user efficiency."
+  }
+]

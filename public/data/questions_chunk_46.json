@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Convert data from legacy format to new database format",
+      "B. Encrypt all stored data",
+      "C. Provide user profile view",
+      "D. Process invoices"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data conversion activities."
+  },
+  {
+    "question": "Which is a limitation of mind mapping?",
+    "options": [
+      "A. May lack structure for complex problems",
+      "B. Supports creative thinking",
+      "C. Builds shared understanding",
+      "D. Generates insights"
+    ],
+    "answer": "A",
+    "explanation": "Mind maps are free-form and may lack the structure needed to analyze complex problems systematically."
+  },
+  {
+    "question": "Which is a benefit of stakeholder engagement?",
+    "options": [
+      "A. Improves requirement quality and increases buy-in",
+      "B. Guarantees consensus",
+      "C. Eliminates conflict",
+      "D. Avoids governance"
+    ],
+    "answer": "A",
+    "explanation": "Active stakeholder engagement leads to better understanding of needs, higher quality requirements, and greater stakeholder support."
+  },
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Allow customers to apply discount codes at checkout",
+      "B. Encrypt stored passwords",
+      "C. Support multiple languages",
+      "D. Load homepage quickly"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - applying discount codes is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of competitor analysis?",
+    "options": [
+      "A. May not reveal unique opportunities for differentiation",
+      "B. Provides industry insights",
+      "C. Identifies threats",
+      "D. Supports planning"
+    ],
+    "answer": "A",
+    "explanation": "Competitor analysis focuses on existing market players and may miss unique opportunities for innovation and differentiation."
+  }
+]
