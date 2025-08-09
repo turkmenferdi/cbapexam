@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the purpose of defining performance measures?",
+    "options": [
+      "A. Evaluate and monitor solution effectiveness",
+      "B. Guarantee business growth",
+      "C. Reduce governance",
+      "D. Avoid testing"
+    ],
+    "answer": "A",
+    "explanation": "Performance measures provide metrics to evaluate and monitor how effectively the solution is working and meeting objectives."
+  },
+  {
+    "question": "Which is an example of a compliance requirement?",
+    "options": [
+      "A. Meet HIPAA regulations for medical data",
+      "B. Display shipping options",
+      "C. Encrypt passwords",
+      "D. Process payments"
+    ],
+    "answer": "A",
+    "explanation": "Compliance requirements mandate adherence to specific laws and regulations like HIPAA for healthcare data protection."
+  },
+  {
+    "question": "Which is a limitation of role-playing?",
+    "options": [
+      "A. May not capture all real-world constraints",
+      "B. Builds empathy",
+      "C. Encourages collaboration",
+      "D. Generates new ideas"
+    ],
+    "answer": "A",
+    "explanation": "Role-playing exercises are simulated scenarios that may not capture all the complexities and constraints of real-world situations."
+  },
+  {
+    "question": "Which is a benefit of data flow diagrams?",
+    "options": [
+      "A. Shows how data is processed and transferred in a system",
+      "B. Guarantees accuracy",
+      "C. Removes documentation needs",
+      "D. Simplifies governance"
+    ],
+    "answer": "A",
+    "explanation": "Data flow diagrams provide visual representation of how data moves through a system and is processed at different stages."
+  },
+  {
+    "question": "Which is an example of a usability requirement?",
+    "options": [
+      "A. Provide search autocomplete suggestions",
+      "B. Encrypt stored data",
+      "C. Load homepage quickly",
+      "D. Process orders"
+    ],
+    "answer": "A",
+    "explanation": "Usability requirements specify how the system should be designed for ease of use - search autocomplete improves user experience."
+  }
+]

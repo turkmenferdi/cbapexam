@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of requirements workshops?",
+    "options": [
+      "A. Encourages collaboration between multiple stakeholders",
+      "B. Guarantees consensus",
+      "C. Removes all conflicts",
+      "D. Avoids documentation"
+    ],
+    "answer": "A",
+    "explanation": "Requirements workshops bring multiple stakeholders together to collaborate, share knowledge, and work toward common understanding."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Improve customer satisfaction score to 90% within 6 months",
+      "B. Encrypt stored data",
+      "C. Process refunds",
+      "D. Generate invoices"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - improving customer satisfaction to 90% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. May introduce interviewer bias into responses",
+      "B. Builds trust",
+      "C. Allows detailed input",
+      "D. Clarifies requirements"
+    ],
+    "answer": "A",
+    "explanation": "Interviews can be affected by interviewer bias in questioning techniques and interpretation of responses, potentially skewing results."
+  },
+  {
+    "question": "Which is the purpose of measurable acceptance criteria?",
+    "options": [
+      "A. Provide objective basis for requirement verification",
+      "B. Ensure automatic approval",
+      "C. Avoid documentation",
+      "D. Reduce governance"
+    ],
+    "answer": "A",
+    "explanation": "Measurable acceptance criteria provide objective, quantifiable standards that can be used to verify whether requirements have been met."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Require multi-factor authentication for all users",
+      "B. Display order history",
+      "C. Load homepage quickly",
+      "D. Process payments"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - multi-factor authentication is a security control."
+  }
+]

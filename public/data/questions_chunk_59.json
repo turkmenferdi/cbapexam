@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Generate daily sales summary for management",
+      "B. Encrypt stored data",
+      "C. Support multiple browsers",
+      "D. Load homepage in 2 seconds"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - generating daily sales summaries is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. May fail to capture rare events",
+      "B. Improves understanding",
+      "C. Clarifies process flow",
+      "D. Ensures accuracy"
+    ],
+    "answer": "A",
+    "explanation": "Observation typically captures routine activities but may miss infrequent, exception, or seasonal events that are also important."
+  },
+  {
+    "question": "Which is the purpose of transition requirements?",
+    "options": [
+      "A. Support migration from current to target state",
+      "B. Define scope boundaries",
+      "C. Approve requirements",
+      "D. Plan test execution"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe the capabilities and activities needed to successfully migrate from current to target state."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. System must respond to queries within 2 seconds",
+      "B. Allow account creation",
+      "C. Display cart contents",
+      "D. Process returns"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and performance criteria - response time targets are performance requirements."
+  },
+  {
+    "question": "Which is a limitation of historical trends?",
+    "options": [
+      "A. May not account for significant disruptions",
+      "B. Supports predictions",
+      "C. Improves accuracy",
+      "D. Reduces uncertainty"
+    ],
+    "answer": "A",
+    "explanation": "Historical trends are based on past patterns and may not predict significant disruptions or disruptive market changes."
+  }
+]
