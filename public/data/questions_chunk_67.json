@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the purpose of defining performance measures?",
+    "options": [
+      "A. Track and assess the solution's effectiveness",
+      "B. Guarantee improvement",
+      "C. Reduce governance",
+      "D. Avoid scope creep"
+    ],
+    "answer": "A",
+    "explanation": "Performance measures provide metrics to track and assess how effectively the solution is working and meeting objectives."
+  },
+  {
+    "question": "Which is an example of a compliance requirement?",
+    "options": [
+      "A. Follow PCI DSS standards for handling payment data",
+      "B. Provide order confirmation",
+      "C. Encrypt passwords",
+      "D. Display cart contents"
+    ],
+    "answer": "A",
+    "explanation": "Compliance requirements mandate adherence to specific standards and regulations like PCI DSS for payment card data security."
+  },
+  {
+    "question": "Which is a limitation of role-playing?",
+    "options": [
+      "A. May oversimplify real-world scenarios",
+      "B. Builds empathy",
+      "C. Generates insights",
+      "D. Encourages discussion"
+    ],
+    "answer": "A",
+    "explanation": "Role-playing exercises are simulated scenarios that may not capture all the complexities and constraints of real-world situations."
+  },
+  {
+    "question": "Which is a benefit of data flow diagrams?",
+    "options": [
+      "A. Helps visualize data movement and transformation",
+      "B. Guarantees accuracy",
+      "C. Removes need for process mapping",
+      "D. Simplifies governance"
+    ],
+    "answer": "A",
+    "explanation": "Data flow diagrams provide visual representation of how data moves through a system and is transformed at different stages."
+  },
+  {
+    "question": "Which is an example of a usability requirement?",
+    "options": [
+      "A. Provide responsive design for mobile devices",
+      "B. Encrypt stored data",
+      "C. Load product page quickly",
+      "D. Process returns"
+    ],
+    "answer": "A",
+    "explanation": "Usability requirements specify how the system should be designed for ease of use - responsive design improves usability across devices."
+  }
+]

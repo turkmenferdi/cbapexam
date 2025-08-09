@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Import product data into new e-commerce platform before launch",
+      "B. Provide search",
+      "C. Encrypt passwords",
+      "D. Send invoice"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data import activities."
+  },
+  {
+    "question": "Which is a limitation of mind mapping?",
+    "options": [
+      "A. Can become overly complex if too many ideas are added",
+      "B. Encourages creativity",
+      "C. Supports idea generation",
+      "D. Improves clarity"
+    ],
+    "answer": "A",
+    "explanation": "Mind maps can become cluttered and difficult to follow when they contain too many ideas or branches without proper organization."
+  },
+  {
+    "question": "Which is a benefit of stakeholder engagement?",
+    "options": [
+      "A. Improves requirement accuracy and acceptance",
+      "B. Guarantees consensus",
+      "C. Avoids all conflict",
+      "D. Eliminates communication needs"
+    ],
+    "answer": "A",
+    "explanation": "Active stakeholder engagement leads to better understanding of needs, more accurate requirements, and greater acceptance of the solution."
+  },
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Allow customers to reset passwords via email link",
+      "B. Encrypt stored data",
+      "C. Load page quickly",
+      "D. Support tablets"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - allowing customers to reset passwords via email is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of competitor analysis?",
+    "options": [
+      "A. May miss internal weaknesses",
+      "B. Identifies threats",
+      "C. Provides market insights",
+      "D. Supports strategy"
+    ],
+    "answer": "A",
+    "explanation": "Competitor analysis focuses on external competitors and may not reveal the organization's internal weaknesses or capability gaps."
+  }
+]

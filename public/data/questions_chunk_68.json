@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of decision trees?",
+    "options": [
+      "A. May oversimplify problems with multiple dependencies",
+      "B. Improves decision-making",
+      "C. Provides clarity",
+      "D. Prioritizes options"
+    ],
+    "answer": "A",
+    "explanation": "Decision trees may oversimplify complex problems that involve multiple dependencies, uncertainties, and interconnected variables."
+  },
+  {
+    "question": "Which is the purpose of business capability analysis?",
+    "options": [
+      "A. Identify strengths and weaknesses to align with business goals",
+      "B. Document test plans",
+      "C. Approve requirements",
+      "D. Plan rollouts"
+    ],
+    "answer": "A",
+    "explanation": "Business capability analysis evaluates the organization's current capabilities to identify strengths, weaknesses, and alignment with business goals."
+  },
+  {
+    "question": "Which is an example of a data quality metric?",
+    "options": [
+      "A. Percentage of missing fields in customer records",
+      "B. Total number of products in inventory",
+      "C. Amount of data stored",
+      "D. Page load time"
+    ],
+    "answer": "A",
+    "explanation": "Data quality metrics measure the accuracy, completeness, and reliability of data - percentage of missing fields indicates data completeness."
+  },
+  {
+    "question": "Which is a limitation of root cause analysis?",
+    "options": [
+      "A. May require substantial time for complex issues",
+      "B. Prevents recurrence",
+      "C. Improves solutions",
+      "D. Identifies underlying causes"
+    ],
+    "answer": "A",
+    "explanation": "Root cause analysis can be time-consuming and resource-intensive, especially for complex problems with multiple contributing factors."
+  },
+  {
+    "question": "Which is a benefit of defining solution scope?",
+    "options": [
+      "A. Provides boundaries to manage stakeholder expectations",
+      "B. Guarantees approval",
+      "C. Eliminates risk",
+      "D. Avoids governance"
+    ],
+    "answer": "A",
+    "explanation": "Solution scope defines what is included and excluded, providing clear boundaries that help manage stakeholder expectations."
+  }
+]

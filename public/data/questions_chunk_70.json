@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of requirements workshops?",
+    "options": [
+      "A. Facilitates collaborative requirements gathering and alignment",
+      "B. Guarantees success",
+      "C. Eliminates documentation",
+      "D. Avoids governance"
+    ],
+    "answer": "A",
+    "explanation": "Requirements workshops bring stakeholders together to collaborate on requirements gathering and achieve alignment on needs and priorities."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Increase subscription renewals by 10% within a year",
+      "B. Encrypt stored data",
+      "C. Provide account deletion feature",
+      "D. Generate invoices"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - increasing subscription renewals by 10% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Can be subject to interviewer influence or bias",
+      "B. Builds trust",
+      "C. Allows detail gathering",
+      "D. Clarifies needs"
+    ],
+    "answer": "A",
+    "explanation": "Interviews can be affected by interviewer bias in questioning techniques, interpretation of responses, and personal perspectives."
+  },
+  {
+    "question": "Which is the purpose of measurable acceptance criteria?",
+    "options": [
+      "A. Define objective standards for requirement satisfaction",
+      "B. Ensure automatic approval",
+      "C. Reduce documentation",
+      "D. Avoid governance"
+    ],
+    "answer": "A",
+    "explanation": "Measurable acceptance criteria provide objective, quantifiable standards that can be used to determine when requirements are satisfied."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Require all admin accounts to use multi-factor authentication",
+      "B. Provide contact form",
+      "C. Load homepage in 2 seconds",
+      "D. Process orders"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - multi-factor authentication for admin accounts is a security control."
+  }
+]

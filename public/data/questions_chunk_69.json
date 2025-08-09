@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Allow employees to submit leave requests online",
+      "B. Encrypt stored data",
+      "C. Support multiple browsers",
+      "D. Load homepage in 1 second"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - allowing employees to submit leave requests is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. May not capture variations that occur outside observation times",
+      "B. Improves understanding",
+      "C. Clarifies workflow steps",
+      "D. Supports process mapping"
+    ],
+    "answer": "A",
+    "explanation": "Observation is limited by the time frame and may miss important process variations that occur outside the observation period."
+  },
+  {
+    "question": "Which is the purpose of transition requirements?",
+    "options": [
+      "A. Support movement from current state to desired future state",
+      "B. Define project scope",
+      "C. Plan testing",
+      "D. Approve changes"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe the capabilities and activities needed to successfully move from current state to desired future state."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. System must process user queries in under 500 milliseconds",
+      "B. Provide order history",
+      "C. Display invoice",
+      "D. Allow login"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and performance criteria - query processing time is a performance requirement."
+  },
+  {
+    "question": "Which is a limitation of historical trends?",
+    "options": [
+      "A. May not predict sudden changes accurately",
+      "B. Supports forecasting",
+      "C. Improves accuracy",
+      "D. Reduces uncertainty"
+    ],
+    "answer": "A",
+    "explanation": "Historical trends are based on past patterns and may not accurately predict sudden changes, disruptions, or unprecedented events."
+  }
+]
