@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of defining scope boundaries?",
+    "options": [
+      "A. Prevents scope creep and clarifies deliverables",
+      "B. Guarantees project success",
+      "C. Eliminates need for governance",
+      "D. Reduces documentation"
+    ],
+    "answer": "A",
+    "explanation": "Clear scope boundaries help prevent uncontrolled expansion of project scope and provide clarity about what will and will not be delivered."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Train users on the new system before launch",
+      "B. System must process payments",
+      "C. Page must load in 2 seconds",
+      "D. Encrypt all data"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including user training activities."
+  },
+  {
+    "question": "Which is a limitation of focus groups?",
+    "options": [
+      "A. May be dominated by outspoken participants",
+      "B. Encourages discussion",
+      "C. Generates insights",
+      "D. Supports collaboration"
+    ],
+    "answer": "A",
+    "explanation": "Focus groups can be dominated by vocal participants, potentially silencing quieter voices and creating biased results."
+  },
+  {
+    "question": "Which is the purpose of defining acceptance criteria?",
+    "options": [
+      "A. Establish clear standards for requirement fulfillment",
+      "B. Guarantee stakeholder approval",
+      "C. Reduce testing effort",
+      "D. Avoid risks"
+    ],
+    "answer": "A",
+    "explanation": "Acceptance criteria define specific, measurable conditions that must be met for requirements to be considered complete and acceptable."
+  },
+  {
+    "question": "Which is an example of a business rule?",
+    "options": [
+      "A. Customers must be over 18 to create an account",
+      "B. Encrypt passwords",
+      "C. Load page quickly",
+      "D. Provide search function"
+    ],
+    "answer": "A",
+    "explanation": "Business rules define organizational policies and procedures - age restrictions for account creation are typical business rules."
+  }
+]

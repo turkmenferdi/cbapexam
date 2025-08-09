@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of benchmarking?",
+    "options": [
+      "A. May overlook unique organizational context",
+      "B. Identifies best practices",
+      "C. Supports improvement",
+      "D. Provides comparison data"
+    ],
+    "answer": "A",
+    "explanation": "Benchmarking compares against external standards that may not fully account for the organization's unique context, culture, and constraints."
+  },
+  {
+    "question": "Which is a benefit of defining measurable business objectives?",
+    "options": [
+      "A. Enables progress tracking and evaluation",
+      "B. Guarantees success",
+      "C. Reduces governance needs",
+      "D. Speeds delivery"
+    ],
+    "answer": "A",
+    "explanation": "Measurable objectives include specific metrics and targets that enable objective tracking of progress and evaluation of success."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Increase market share by 15% within 12 months",
+      "B. Allow product search",
+      "C. Encrypt customer data",
+      "D. Send notifications"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - increasing market share by 15% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of surveys?",
+    "options": [
+      "A. May provide limited detail and context",
+      "B. Allows wide reach",
+      "C. Gathers quantitative data",
+      "D. Reduces interview needs"
+    ],
+    "answer": "A",
+    "explanation": "Surveys typically provide broad but shallow information and may lack the depth and context that other elicitation techniques provide."
+  },
+  {
+    "question": "Which is the purpose of requirements prioritization?",
+    "options": [
+      "A. Ensure most important requirements are addressed first",
+      "B. Reduce requirement volume",
+      "C. Avoid scope changes",
+      "D. Simplify documentation"
+    ],
+    "answer": "A",
+    "explanation": "Requirements prioritization ensures that the highest value and most critical requirements are developed and delivered first."
+  }
+]

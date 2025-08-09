@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of using historical data for forecasting?",
+    "options": [
+      "A. May not account for future changes or trends",
+      "B. Improves accuracy",
+      "C. Supports decisions",
+      "D. Reduces uncertainty"
+    ],
+    "answer": "A",
+    "explanation": "Historical data is based on past patterns and may not account for future changes, market shifts, or new trends that could affect forecasts."
+  },
+  {
+    "question": "Which is a benefit of prototyping?",
+    "options": [
+      "A. Facilitates early validation of requirements",
+      "B. Guarantees design approval",
+      "C. Eliminates documentation",
+      "D. Speeds development"
+    ],
+    "answer": "A",
+    "explanation": "Prototyping allows stakeholders to see and interact with a representation of the solution early, enabling validation and refinement of requirements."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. System must have 99.9% uptime",
+      "B. Allow users to log in",
+      "C. Process credit card payments",
+      "D. Display product images"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and performance criteria - uptime is a reliability/availability requirement."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. May alter stakeholder behavior during process execution",
+      "B. Provides real-world insight",
+      "C. Improves accuracy",
+      "D. Clarifies process steps"
+    ],
+    "answer": "A",
+    "explanation": "The presence of an observer may cause people to alter their normal behavior patterns, affecting the accuracy of observations."
+  },
+  {
+    "question": "Which is the purpose of creating a business process model?",
+    "options": [
+      "A. Document, analyze, and improve workflows",
+      "B. Approve project funding",
+      "C. Define technical requirements",
+      "D. Plan testing"
+    ],
+    "answer": "A",
+    "explanation": "Business process models visualize workflows to help understand, analyze, and identify opportunities for process improvement."
+  }
+]

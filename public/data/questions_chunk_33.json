@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a stakeholder requirement?",
+    "options": [
+      "A. Customer must be able to track order status online",
+      "B. Encrypt payment data",
+      "C. Load page in under 2 seconds",
+      "D. Display invoice"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - customers needing to track orders represents a stakeholder need."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Can be time-consuming and expensive to conduct",
+      "B. Builds relationships",
+      "C. Allows detailed exploration",
+      "D. Encourages clarification"
+    ],
+    "answer": "A",
+    "explanation": "Interviews require significant time investment from both analysts and stakeholders, making them resource-intensive for large projects."
+  },
+  {
+    "question": "Which is the purpose of the Define Future State task?",
+    "options": [
+      "A. Establish clear vision and objectives for the solution",
+      "B. Document current processes",
+      "C. Approve requirements",
+      "D. Plan testing"
+    ],
+    "answer": "A",
+    "explanation": "Define Future State establishes a clear vision of what the organization wants to achieve and the objectives for the desired outcome."
+  },
+  {
+    "question": "Which is an example of a performance requirement?",
+    "options": [
+      "A. System must process 1000 transactions per minute",
+      "B. Allow password reset",
+      "C. Display reports",
+      "D. Store data for 7 years"
+    ],
+    "answer": "A",
+    "explanation": "Performance requirements specify quantifiable system performance criteria - transaction processing rate is a key performance measure."
+  },
+  {
+    "question": "Which is a limitation of workshops?",
+    "options": [
+      "A. Requires careful facilitation and planning",
+      "B. Encourages collaboration",
+      "C. Builds shared understanding",
+      "D. Resolves conflicts"
+    ],
+    "answer": "A",
+    "explanation": "Workshops require extensive planning, skilled facilitation, and coordination with multiple stakeholders to be effective."
+  }
+]

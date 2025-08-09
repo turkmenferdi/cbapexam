@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of defining KPIs?",
+    "options": [
+      "A. Provides measurable indicators of success",
+      "B. Guarantees project funding",
+      "C. Eliminates governance needs",
+      "D. Speeds implementation"
+    ],
+    "answer": "A",
+    "explanation": "Key Performance Indicators provide quantifiable metrics to measure and track progress toward business objectives and success."
+  },
+  {
+    "question": "Which is an example of a constraint?",
+    "options": [
+      "A. Project must be completed within 6 months",
+      "B. Increase customer satisfaction",
+      "C. Improve performance",
+      "D. Expand market share"
+    ],
+    "answer": "A",
+    "explanation": "Constraints are limiting factors that restrict project options - time limits are common project constraints that affect planning and delivery."
+  },
+  {
+    "question": "Which is a limitation of vendor-provided solutions?",
+    "options": [
+      "A. May not fully align with organizational needs",
+      "B. Speeds deployment",
+      "C. Reduces development effort",
+      "D. Provides proven features"
+    ],
+    "answer": "A",
+    "explanation": "Vendor solutions are generic and may not fully match the organization's specific business processes and unique requirements."
+  },
+  {
+    "question": "Which is the purpose of the Solution Evaluation knowledge area?",
+    "options": [
+      "A. Assess performance and value of implemented solutions",
+      "B. Approve requirements",
+      "C. Plan testing",
+      "D. Document scope"
+    ],
+    "answer": "A",
+    "explanation": "Solution Evaluation focuses on measuring how well implemented solutions perform and the value they deliver to the organization."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Implement two-factor authentication for all users",
+      "B. Allow login",
+      "C. Display profile",
+      "D. Store data"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - two-factor authentication is a security control."
+  }
+]
