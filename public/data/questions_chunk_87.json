@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the purpose of defining performance measures?",
+    "options": [
+      "A. Monitor and evaluate achievement of objectives",
+      "B. Ensure improvement",
+      "C. Avoid governance",
+      "D. Reduce scope"
+    ],
+    "answer": "A",
+    "explanation": "Performance measures provide metrics to monitor progress and evaluate how well objectives are being achieved over time."
+  },
+  {
+    "question": "Which is an example of a compliance requirement?",
+    "options": [
+      "A. Follow GDPR for customer data protection",
+      "B. Provide feedback form",
+      "C. Encrypt passwords",
+      "D. Display FAQ"
+    ],
+    "answer": "A",
+    "explanation": "Compliance requirements mandate adherence to specific laws and regulations like GDPR for data protection and privacy."
+  },
+  {
+    "question": "Which is a limitation of role-playing?",
+    "options": [
+      "A. May simplify complex real-life conditions",
+      "B. Builds empathy",
+      "C. Generates ideas",
+      "D. Encourages discussion"
+    ],
+    "answer": "A",
+    "explanation": "Role-playing exercises are simulated scenarios that may oversimplify the complexity and constraints of real-life conditions."
+  },
+  {
+    "question": "Which is a benefit of data flow diagrams?",
+    "options": [
+      "A. Illustrates data movement and relationships",
+      "B. Guarantees speed",
+      "C. Removes need for requirements",
+      "D. Simplifies governance"
+    ],
+    "answer": "A",
+    "explanation": "Data flow diagrams provide visual representation of how data moves through a system and the relationships between data elements."
+  },
+  {
+    "question": "Which is an example of a usability requirement?",
+    "options": [
+      "A. Provide dark mode toggle for accessibility",
+      "B. Encrypt data",
+      "C. Load homepage in 2 seconds",
+      "D. Process orders"
+    ],
+    "answer": "A",
+    "explanation": "Usability requirements specify how the system should be designed for ease of use - dark mode toggle improves accessibility and user experience."
+  }
+]

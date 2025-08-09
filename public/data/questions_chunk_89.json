@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Allow employees to update personal info in HR system",
+      "B. Encrypt stored data",
+      "C. Support multiple browsers",
+      "D. Load homepage in 1 second"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - allowing employees to update personal information is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. May not capture processes during unobserved times",
+      "B. Improves clarity",
+      "C. Enhances understanding",
+      "D. Supports mapping"
+    ],
+    "answer": "A",
+    "explanation": "Observation is limited by the time frame and may miss important process activities that occur during unobserved periods."
+  },
+  {
+    "question": "Which is the purpose of transition requirements?",
+    "options": [
+      "A. Bridge gap between current and future states",
+      "B. Plan testing",
+      "C. Approve scope",
+      "D. Document KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe the capabilities needed to bridge the gap and facilitate movement from current to future state."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. Website must handle 1,000 concurrent users",
+      "B. Provide product catalog",
+      "C. Display contact form",
+      "D. Allow payment"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and performance criteria - concurrent user capacity is a scalability requirement."
+  },
+  {
+    "question": "Which is a limitation of historical trends?",
+    "options": [
+      "A. May fail to predict sudden changes",
+      "B. Supports forecasting",
+      "C. Improves planning",
+      "D. Reduces uncertainty"
+    ],
+    "answer": "A",
+    "explanation": "Historical trends are based on past patterns and may fail to predict sudden changes, disruptions, or unprecedented events."
+  }
+]

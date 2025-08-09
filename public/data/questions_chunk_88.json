@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of decision trees?",
+    "options": [
+      "A. May oversimplify multi-variable decisions",
+      "B. Improves clarity",
+      "C. Helps prioritize",
+      "D. Provides structure"
+    ],
+    "answer": "A",
+    "explanation": "Decision trees may oversimplify complex decisions that involve multiple variables, uncertainties, and interconnected factors."
+  },
+  {
+    "question": "Which is the purpose of business capability analysis?",
+    "options": [
+      "A. Identify organizational abilities supporting objectives",
+      "B. Plan deployment",
+      "C. Approve scope",
+      "D. Document requirements"
+    ],
+    "answer": "A",
+    "explanation": "Business capability analysis evaluates the organization's current abilities and capabilities to support strategic objectives and identify gaps."
+  },
+  {
+    "question": "Which is an example of a data quality metric?",
+    "options": [
+      "A. Percentage of duplicate customer records",
+      "B. Number of products sold",
+      "C. Storage used",
+      "D. Page load time"
+    ],
+    "answer": "A",
+    "explanation": "Data quality metrics measure the accuracy, completeness, and reliability of data - percentage of duplicates indicates data integrity issues."
+  },
+  {
+    "question": "Which is a limitation of root cause analysis?",
+    "options": [
+      "A. May require deep expertise and time",
+      "B. Improves solutions",
+      "C. Reduces recurrence",
+      "D. Identifies underlying causes"
+    ],
+    "answer": "A",
+    "explanation": "Root cause analysis can be time-consuming and may require deep subject matter expertise, especially for complex problems."
+  },
+  {
+    "question": "Which is a benefit of defining solution scope?",
+    "options": [
+      "A. Aligns stakeholder expectations with deliverables",
+      "B. Guarantees success",
+      "C. Eliminates risk",
+      "D. Avoids governance"
+    ],
+    "answer": "A",
+    "explanation": "Solution scope defines what is included and excluded, helping align stakeholder expectations with what will actually be delivered."
+  }
+]

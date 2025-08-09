@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Transfer customer service scripts to new system before launch",
+      "B. Provide search",
+      "C. Encrypt passwords",
+      "D. Generate invoice"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including transferring operational scripts and procedures."
+  },
+  {
+    "question": "Which is a limitation of mind mapping?",
+    "options": [
+      "A. May lead to disorganized outputs if unmanaged",
+      "B. Encourages creativity",
+      "C. Improves clarity",
+      "D. Generates insights"
+    ],
+    "answer": "A",
+    "explanation": "Mind maps can become disorganized and difficult to follow if not properly managed and structured during the process."
+  },
+  {
+    "question": "Which is a benefit of stakeholder engagement?",
+    "options": [
+      "A. Enhances solution acceptance and quality",
+      "B. Guarantees no changes",
+      "C. Avoids governance",
+      "D. Removes need for documentation"
+    ],
+    "answer": "A",
+    "explanation": "Active stakeholder engagement leads to better understanding of needs, higher quality solutions, and greater acceptance of the final outcome."
+  },
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Allow users to save items to wishlist",
+      "B. Encrypt stored data",
+      "C. Support mobile",
+      "D. Load quickly"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - allowing users to save items to wishlist is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of competitor analysis?",
+    "options": [
+      "A. Does not provide solutions for internal challenges",
+      "B. Offers insights",
+      "C. Supports strategy",
+      "D. Improves planning"
+    ],
+    "answer": "A",
+    "explanation": "Competitor analysis focuses on external competitors and does not provide solutions for the organization's internal challenges and weaknesses."
+  }
+]

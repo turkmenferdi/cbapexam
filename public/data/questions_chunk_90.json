@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of requirements workshops?",
+    "options": [
+      "A. Fosters collaboration and collective decision-making",
+      "B. Guarantees delivery",
+      "C. Eliminates governance",
+      "D. Removes scope creep"
+    ],
+    "answer": "A",
+    "explanation": "Requirements workshops bring stakeholders together to collaborate on requirements gathering and engage in collective decision-making processes."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Improve customer retention by 15% in a year",
+      "B. Encrypt stored data",
+      "C. Provide notifications",
+      "D. Generate reports"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - improving customer retention by 15% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Potential for interviewer bias",
+      "B. Builds rapport",
+      "C. Clarifies needs",
+      "D. Encourages dialogue"
+    ],
+    "answer": "A",
+    "explanation": "Interviews can be affected by interviewer bias in questioning techniques, interpretation of responses, and personal perspectives."
+  },
+  {
+    "question": "Which is the purpose of measurable acceptance criteria?",
+    "options": [
+      "A. Define specific conditions for requirement fulfillment",
+      "B. Guarantee approval",
+      "C. Reduce documentation",
+      "D. Avoid governance"
+    ],
+    "answer": "A",
+    "explanation": "Measurable acceptance criteria define specific, quantifiable conditions that must be met for requirements to be considered fulfilled."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Implement account lockout after five failed logins",
+      "B. Provide about page",
+      "C. Load homepage quickly",
+      "D. Process returns"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - account lockout policies are important security controls."
+  }
+]
