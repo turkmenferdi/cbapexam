@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of using historical data?",
+    "options": [
+      "A. May not accurately predict unusual future events",
+      "B. Supports forecasting",
+      "C. Improves planning",
+      "D. Reduces uncertainty"
+    ],
+    "answer": "A",
+    "explanation": "Historical data is based on past patterns and may not accurately predict unusual events, disruptions, or unprecedented situations."
+  },
+  {
+    "question": "Which is a benefit of prototyping?",
+    "options": [
+      "A. Allows stakeholders to visualize and refine requirements early",
+      "B. Guarantees sign-off without changes",
+      "C. Eliminates testing needs",
+      "D. Automatically reduces costs"
+    ],
+    "answer": "A",
+    "explanation": "Prototyping allows stakeholders to see and interact with a representation of the solution early, enabling refinement of requirements."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. Application must be available 24/7 with less than 0.1% downtime",
+      "B. Provide login functionality",
+      "C. Allow order tracking",
+      "D. Process refunds"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and performance criteria - availability with minimal downtime is a reliability requirement."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. May capture only part of the process if observation time is limited",
+      "B. Improves understanding",
+      "C. Clarifies process steps",
+      "D. Supports accuracy"
+    ],
+    "answer": "A",
+    "explanation": "Observation is limited by the time frame and may miss important process variations that occur outside the observation period."
+  },
+  {
+    "question": "Which is the purpose of creating process models?",
+    "options": [
+      "A. Document and analyze workflows for improvement opportunities",
+      "B. Plan deployment",
+      "C. Approve requirements",
+      "D. Define KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Process models visualize and document workflows to help understand current processes and identify opportunities for improvement."
+  }
+]

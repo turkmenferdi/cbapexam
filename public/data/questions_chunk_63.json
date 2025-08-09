@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a stakeholder requirement?",
+    "options": [
+      "A. User must be able to update account details online",
+      "B. Encrypt stored data",
+      "C. Display terms of service",
+      "D. Provide reporting functionality"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - users needing to update account details represents a stakeholder need."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Time-intensive and resource-heavy for large groups",
+      "B. Builds rapport",
+      "C. Clarifies details",
+      "D. Encourages exploration"
+    ],
+    "answer": "A",
+    "explanation": "Interviews require significant time investment and become resource-intensive when conducted with large numbers of stakeholders."
+  },
+  {
+    "question": "Which is the purpose of defining the future state?",
+    "options": [
+      "A. Create a shared vision for the desired solution",
+      "B. Document current state",
+      "C. Plan deployment",
+      "D. Approve changes"
+    ],
+    "answer": "A",
+    "explanation": "Defining the future state establishes a shared vision and common understanding of what the organization wants to achieve."
+  },
+  {
+    "question": "Which is an example of a performance requirement?",
+    "options": [
+      "A. Generate inventory report in less than 5 minutes",
+      "B. Provide search capability",
+      "C. Display customer profile",
+      "D. Send notifications"
+    ],
+    "answer": "A",
+    "explanation": "Performance requirements specify quantifiable system performance criteria - report generation time is a key performance measure."
+  },
+  {
+    "question": "Which is a limitation of focus groups?",
+    "options": [
+      "A. May produce biased results if participants influence each other",
+      "B. Encourages collaboration",
+      "C. Generates diverse ideas",
+      "D. Builds understanding"
+    ],
+    "answer": "A",
+    "explanation": "Focus groups can suffer from groupthink or peer pressure where participants influence each other, leading to biased results."
+  }
+]

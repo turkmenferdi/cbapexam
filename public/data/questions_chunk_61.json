@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of stakeholder analysis?",
+    "options": [
+      "A. Identifies expectations, influence, and engagement approach",
+      "B. Guarantees agreement",
+      "C. Eliminates the need for communication plans",
+      "D. Avoids stakeholder conflict entirely"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder analysis helps identify stakeholder expectations, their level of influence, and the most appropriate approach for engaging with them."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Train finance staff on the new accounting system before go-live",
+      "B. Encrypt passwords",
+      "C. Display invoices",
+      "D. Process payroll"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including staff training on new systems."
+  },
+  {
+    "question": "Which is a limitation of workshops?",
+    "options": [
+      "A. Requires skilled facilitation to manage discussions effectively",
+      "B. Encourages collaboration",
+      "C. Builds shared understanding",
+      "D. Accelerates decision-making"
+    ],
+    "answer": "A",
+    "explanation": "Workshops require skilled facilitation to manage group dynamics, keep discussions focused, and ensure productive outcomes."
+  },
+  {
+    "question": "Which is the purpose of risk analysis?",
+    "options": [
+      "A. Assess probability and impact of potential risks",
+      "B. Approve scope",
+      "C. Plan test execution",
+      "D. Define KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Risk analysis systematically evaluates the likelihood and potential impact of risks to develop appropriate management strategies."
+  },
+  {
+    "question": "Which is an example of a business rule?",
+    "options": [
+      "A. Only registered users can submit product reviews",
+      "B. Encrypt stored data",
+      "C. Load homepage in under 2 seconds",
+      "D. Provide a shopping cart"
+    ],
+    "answer": "A",
+    "explanation": "Business rules define organizational policies and procedures - restricting review submissions to registered users is a typical business rule."
+  }
+]
