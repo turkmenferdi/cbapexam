@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a stakeholder requirement?",
+    "options": [
+      "A. Manager must be able to approve expense reports online",
+      "B. Encrypt all data",
+      "C. Load page quickly",
+      "D. Support multiple browsers"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - managers needing to approve expense reports represents a stakeholder need."
+  },
+  {
+    "question": "Which is a limitation of benchmarking?",
+    "options": [
+      "A. May not account for unique organizational context",
+      "B. Identifies best practices",
+      "C. Provides comparative data",
+      "D. Supports improvement"
+    ],
+    "answer": "A",
+    "explanation": "Benchmarking compares against external standards that may not fully account for the organization's unique context, culture, and constraints."
+  },
+  {
+    "question": "Which is the primary purpose of transition requirements?",
+    "options": [
+      "A. Facilitate movement from current state to future state",
+      "B. Define solution scope",
+      "C. Identify risks",
+      "D. Document KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe the capabilities needed to successfully move the organization from its current state to the desired future state."
+  },
+  {
+    "question": "Which is an example of a system constraint?",
+    "options": [
+      "A. Budget limit of $500,000 for development",
+      "B. Desire to improve performance",
+      "C. Goal to increase sales",
+      "D. Plan to expand market"
+    ],
+    "answer": "A",
+    "explanation": "System constraints are limiting factors that restrict project options - budget limits are typical project constraints that affect solution choices."
+  },
+  {
+    "question": "Which is a limitation of using role-playing?",
+    "options": [
+      "A. May not reflect actual working environment",
+      "B. Encourages empathy",
+      "C. Generates new ideas",
+      "D. Supports collaboration"
+    ],
+    "answer": "A",
+    "explanation": "Role-playing exercises are simulated scenarios that may not fully capture the complexity and pressures of the actual working environment."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of creating detailed models too early?",
+    "options": [
+      "A. May result in rework if requirements change",
+      "B. Improves clarity",
+      "C. Builds shared understanding",
+      "D. Encourages precision"
+    ],
+    "answer": "A",
+    "explanation": "Creating detailed models early in the project may require significant rework if requirements change, representing wasted effort."
+  },
+  {
+    "question": "Which is the purpose of the Define Design Options task?",
+    "options": [
+      "A. Identify potential ways to meet the business need",
+      "B. Approve budget",
+      "C. Plan testing",
+      "D. Document risks"
+    ],
+    "answer": "A",
+    "explanation": "Define Design Options identifies and evaluates different approaches and alternatives for addressing the business need."
+  },
+  {
+    "question": "Which is an example of a measurable KPI?",
+    "options": [
+      "A. Maintain 99.9% system uptime per month",
+      "B. Improve uptime",
+      "C. Increase reliability",
+      "D. Reduce downtime"
+    ],
+    "answer": "A",
+    "explanation": "A measurable KPI includes specific numeric targets - 99.9% uptime provides a clear, quantifiable performance standard."
+  },
+  {
+    "question": "Which is a limitation of process modeling?",
+    "options": [
+      "A. May not capture informal workarounds",
+      "B. Improves understanding",
+      "C. Provides visual clarity",
+      "D. Supports analysis"
+    ],
+    "answer": "A",
+    "explanation": "Process models typically show formal procedures but may miss informal workarounds and actual practices used by employees."
+  },
+  {
+    "question": "Which is a benefit of eliciting requirements from multiple sources?",
+    "options": [
+      "A. Reduces bias and increases completeness",
+      "B. Guarantees agreement",
+      "C. Eliminates conflict",
+      "D. Reduces documentation"
+    ],
+    "answer": "A",
+    "explanation": "Using multiple sources for elicitation helps reduce individual bias and ensures more complete understanding of requirements."
+  }
+]

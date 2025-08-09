@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of using interviews?",
+    "options": [
+      "A. Can be time-consuming and costly",
+      "B. Encourages relationship building",
+      "C. Allows detailed responses",
+      "D. Supports clarification"
+    ],
+    "answer": "A",
+    "explanation": "Interviews require significant time investment from both analysts and stakeholders, making them resource-intensive for large projects."
+  },
+  {
+    "question": "Which is the purpose of the Requirements Life Cycle Management knowledge area?",
+    "options": [
+      "A. Manage and maintain requirements from inception to retirement",
+      "B. Approve requirements",
+      "C. Document scope",
+      "D. Plan elicitation"
+    ],
+    "answer": "A",
+    "explanation": "Requirements Life Cycle Management covers the activities needed to manage requirements throughout their entire lifecycle from creation to retirement."
+  },
+  {
+    "question": "Which is an example of a process performance measure?",
+    "options": [
+      "A. Average order fulfillment time",
+      "B. Number of employees",
+      "C. Project cost",
+      "D. System uptime"
+    ],
+    "answer": "A",
+    "explanation": "Process performance measures evaluate how efficiently business processes operate - order fulfillment time measures process speed."
+  },
+  {
+    "question": "Which is a limitation of mind mapping?",
+    "options": [
+      "A. May become cluttered with too many ideas",
+      "B. Encourages creativity",
+      "C. Improves structure",
+      "D. Generates insights"
+    ],
+    "answer": "A",
+    "explanation": "Mind maps can become difficult to follow and understand when they contain too many branches and ideas without proper organization."
+  },
+  {
+    "question": "Which is a benefit of stakeholder prioritization?",
+    "options": [
+      "A. Focuses efforts on high-impact stakeholders",
+      "B. Guarantees consensus",
+      "C. Eliminates conflict",
+      "D. Reduces communication needs"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder prioritization helps allocate limited time and resources to engaging with the most influential and important stakeholders."
+  }
+]

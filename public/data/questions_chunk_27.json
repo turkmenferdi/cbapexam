@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a regulatory compliance requirement?",
+    "options": [
+      "A. Compliance with HIPAA for patient data protection",
+      "B. Display customer name",
+      "C. Encrypt passwords",
+      "D. Send notification emails"
+    ],
+    "answer": "A",
+    "explanation": "Regulatory compliance requirements mandate adherence to specific laws and regulations like HIPAA for healthcare data protection."
+  },
+  {
+    "question": "Which is a limitation of using checklists?",
+    "options": [
+      "A. May encourage minimal effort to meet requirements",
+      "B. Improves completeness",
+      "C. Reduces errors",
+      "D. Simplifies work"
+    ],
+    "answer": "A",
+    "explanation": "Checklists may lead to a checkbox mentality where people focus on minimal compliance rather than excellence or continuous improvement."
+  },
+  {
+    "question": "Which is the purpose of business case development?",
+    "options": [
+      "A. Justify investment in a proposed initiative",
+      "B. Approve project scope",
+      "C. Document test plan",
+      "D. Plan training"
+    ],
+    "answer": "A",
+    "explanation": "A business case provides the rationale and justification for investing time, money, and resources in a proposed initiative."
+  },
+  {
+    "question": "Which is an example of a usability requirement?",
+    "options": [
+      "A. System must allow font size adjustment for accessibility",
+      "B. Encrypt data",
+      "C. Process transactions",
+      "D. Load pages quickly"
+    ],
+    "answer": "A",
+    "explanation": "Usability requirements specify how the system should be designed for ease of use - accessibility features like font size adjustment are usability requirements."
+  },
+  {
+    "question": "Which is a limitation of SWOT analysis?",
+    "options": [
+      "A. May be subjective and incomplete",
+      "B. Identifies opportunities",
+      "C. Highlights threats",
+      "D. Shows strengths"
+    ],
+    "answer": "A",
+    "explanation": "SWOT analysis can be subjective based on the participants' perspectives and may miss important factors not considered by the team."
+  }
+]

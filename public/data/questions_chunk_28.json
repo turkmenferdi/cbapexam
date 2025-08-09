@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the benefit of defining measurable objectives?",
+    "options": [
+      "A. Provides basis for tracking and evaluation",
+      "B. Guarantees funding",
+      "C. Eliminates risks",
+      "D. Reduces governance"
+    ],
+    "answer": "A",
+    "explanation": "Measurable objectives include specific metrics and targets that enable progress tracking and objective evaluation of success."
+  },
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Allow users to reset passwords online",
+      "B. Encrypt all passwords",
+      "C. Load page in 2 seconds",
+      "D. Support multiple languages"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe specific system behaviors - allowing users to reset passwords is a discrete system function."
+  },
+  {
+    "question": "Which is a limitation of job shadowing?",
+    "options": [
+      "A. May disrupt observed employee's routine",
+      "B. Provides detailed process insight",
+      "C. Enhances understanding",
+      "D. Builds trust"
+    ],
+    "answer": "A",
+    "explanation": "Job shadowing can be disruptive to the observed employee's normal work routine and may create stress or altered behavior."
+  },
+  {
+    "question": "Which is the main purpose of backlog prioritization?",
+    "options": [
+      "A. Ensure most valuable items are delivered first",
+      "B. Reduce backlog size",
+      "C. Avoid scope changes",
+      "D. Simplify delivery"
+    ],
+    "answer": "A",
+    "explanation": "Backlog prioritization ensures that the highest value features and requirements are developed and delivered first to maximize business value."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. Page must load in less than 3 seconds",
+      "B. System must send order confirmations",
+      "C. System must allow product search",
+      "D. System must display prices"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and performance criteria - page load time is a performance requirement."
+  }
+]
