@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of stakeholder analysis?",
+    "options": [
+      "A. Supports tailored engagement approaches",
+      "B. Guarantees agreement",
+      "C. Avoids governance",
+      "D. Removes need for communication"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder analysis helps identify different stakeholder groups and their needs, enabling tailored engagement approaches for each group."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Transfer customer loyalty points to new system",
+      "B. Provide search",
+      "C. Encrypt data",
+      "D. Display products"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including transferring customer loyalty data."
+  },
+  {
+    "question": "Which is a limitation of workshops?",
+    "options": [
+      "A. May cause scheduling conflicts among participants",
+      "B. Improves collaboration",
+      "C. Generates ideas",
+      "D. Encourages teamwork"
+    ],
+    "answer": "A",
+    "explanation": "Workshops require coordinating multiple stakeholders' schedules, which can create conflicts and delays in the process."
+  },
+  {
+    "question": "Which is the purpose of risk analysis?",
+    "options": [
+      "A. Evaluate and prioritize potential threats",
+      "B. Approve requirements",
+      "C. Plan testing",
+      "D. Define KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Risk analysis systematically evaluates potential threats and prioritizes them based on likelihood and impact for effective management."
+  },
+  {
+    "question": "Which is an example of a business rule?",
+    "options": [
+      "A. Invoices must be issued within 48 hours of order",
+      "B. Encrypt stored data",
+      "C. Provide cart checkout",
+      "D. Load quickly"
+    ],
+    "answer": "A",
+    "explanation": "Business rules define organizational policies and procedures - invoice timing requirements are typical business rules."
+  }
+]

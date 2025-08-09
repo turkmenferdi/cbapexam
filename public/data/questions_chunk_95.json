@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of benchmarking?",
+    "options": [
+      "A. May lead to unrealistic comparisons",
+      "B. Identifies opportunities",
+      "C. Improves quality",
+      "D. Supports decision-making"
+    ],
+    "answer": "A",
+    "explanation": "Benchmarking may lead to unrealistic comparisons when organizations have different contexts, resources, or operating environments."
+  },
+  {
+    "question": "Which is a benefit of measurable objectives?",
+    "options": [
+      "A. Allow progress tracking with precision",
+      "B. Guarantee success",
+      "C. Avoid governance",
+      "D. Reduce scope"
+    ],
+    "answer": "A",
+    "explanation": "Measurable objectives provide specific metrics and targets that enable precise tracking and evaluation of progress toward goals."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Achieve 90% customer satisfaction within one year",
+      "B. Provide search",
+      "C. Encrypt data",
+      "D. Send invoice"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - achieving 90% customer satisfaction is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of surveys?",
+    "options": [
+      "A. Limited ability to explore deeper issues",
+      "B. Reach large audience",
+      "C. Gather statistics",
+      "D. Reduce interviews"
+    ],
+    "answer": "A",
+    "explanation": "Surveys are structured questionnaires that have limited ability to explore deeper issues or follow up on interesting responses."
+  },
+  {
+    "question": "Which is the purpose of requirements prioritization?",
+    "options": [
+      "A. Ensure most valuable features are implemented first",
+      "B. Avoid documentation",
+      "C. Reduce governance",
+      "D. Simplify scope"
+    ],
+    "answer": "A",
+    "explanation": "Requirements prioritization ensures that the most valuable and important features are developed and delivered first with available resources."
+  }
+]

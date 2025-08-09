@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of using historical data?",
+    "options": [
+      "A. Can be outdated or irrelevant",
+      "B. Improves forecasting",
+      "C. Enhances planning",
+      "D. Supports accuracy"
+    ],
+    "answer": "A",
+    "explanation": "Historical data can become outdated or irrelevant when market conditions, technology, or business environment changes significantly."
+  },
+  {
+    "question": "Which is a benefit of prototyping?",
+    "options": [
+      "A. Helps detect misunderstandings early",
+      "B. Guarantees delivery",
+      "C. Eliminates testing",
+      "D. Reduces all risks"
+    ],
+    "answer": "A",
+    "explanation": "Prototyping allows stakeholders to interact with a representation of the solution early, helping detect misunderstandings in requirements."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. Application must be compatible with latest iOS and Android versions",
+      "B. Provide search",
+      "C. Display terms of service",
+      "D. Track orders"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and operational characteristics - platform compatibility is a portability requirement."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. People may alter behavior under observation",
+      "B. Improves accuracy",
+      "C. Clarifies process",
+      "D. Provides insight"
+    ],
+    "answer": "A",
+    "explanation": "The presence of an observer may cause people to alter their normal behavior patterns, affecting the accuracy of observations."
+  },
+  {
+    "question": "Which is the purpose of process modeling?",
+    "options": [
+      "A. Improve efficiency by analyzing workflows",
+      "B. Plan deployment",
+      "C. Approve requirements",
+      "D. Define KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Process modeling creates visual representations of workflows to analyze and improve business process efficiency and effectiveness."
+  }
+]

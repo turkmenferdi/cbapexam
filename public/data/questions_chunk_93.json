@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a stakeholder requirement?",
+    "options": [
+      "A. Sales reps must be able to access CRM from mobile devices",
+      "B. Encrypt passwords",
+      "C. Load quickly",
+      "D. Provide home page"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - sales reps needing mobile CRM access represents a stakeholder need."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Can consume significant time for preparation and execution",
+      "B. Builds trust",
+      "C. Clarifies needs",
+      "D. Encourages dialogue"
+    ],
+    "answer": "A",
+    "explanation": "Interviews require significant time for preparation, conducting, and analyzing results, making them resource-intensive."
+  },
+  {
+    "question": "Which is the purpose of defining the future state?",
+    "options": [
+      "A. Set clear target for solution design",
+      "B. Document current state",
+      "C. Plan rollout",
+      "D. Approve scope"
+    ],
+    "answer": "A",
+    "explanation": "Defining the future state establishes a clear target and vision that guides solution design and implementation efforts."
+  },
+  {
+    "question": "Which is an example of a performance requirement?",
+    "options": [
+      "A. Generate monthly payroll in under 2 hours",
+      "B. Provide login",
+      "C. Display account info",
+      "D. Send notifications"
+    ],
+    "answer": "A",
+    "explanation": "Performance requirements specify quantifiable system performance criteria - payroll processing time is a key performance measure."
+  },
+  {
+    "question": "Which is a limitation of focus groups?",
+    "options": [
+      "A. May result in biased group opinions",
+      "B. Encourages diverse ideas",
+      "C. Improves understanding",
+      "D. Supports collaboration"
+    ],
+    "answer": "A",
+    "explanation": "Focus groups can suffer from groupthink or peer pressure where participants influence each other, resulting in biased opinions."
+  }
+]

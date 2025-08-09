@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of KPIs?",
+    "options": [
+      "A. Measure and monitor progress toward objectives",
+      "B. Guarantee results",
+      "C. Avoid governance",
+      "D. Simplify scope"
+    ],
+    "answer": "A",
+    "explanation": "Key Performance Indicators provide quantifiable metrics for measuring and monitoring progress toward specific objectives and goals."
+  },
+  {
+    "question": "Which is an example of a constraint?",
+    "options": [
+      "A. System must integrate with existing ERP",
+      "B. Improve satisfaction",
+      "C. Enhance usability",
+      "D. Increase market share"
+    ],
+    "answer": "A",
+    "explanation": "Constraints are limiting factors that restrict project options - integration requirements with existing systems are common constraints."
+  },
+  {
+    "question": "Which is a limitation of vendor-provided solutions?",
+    "options": [
+      "A. Limited customization options",
+      "B. Improves quality",
+      "C. Speeds delivery",
+      "D. Reduces staffing needs"
+    ],
+    "answer": "A",
+    "explanation": "Vendor solutions are typically standardized and may offer limited customization options to meet specific organizational needs."
+  },
+  {
+    "question": "Which is the purpose of solution evaluation?",
+    "options": [
+      "A. Measure whether solution meets business outcomes",
+      "B. Define scope",
+      "C. Plan testing",
+      "D. Document KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Solution evaluation assesses whether the implemented solution effectively achieves the intended business outcomes and objectives."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Enable audit logging for all administrative actions",
+      "B. Provide about page",
+      "C. Load homepage quickly",
+      "D. Process returns"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - audit logging is essential for security monitoring."
+  }
+]
