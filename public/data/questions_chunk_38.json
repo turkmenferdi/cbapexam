@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of decision trees?",
+    "options": [
+      "A. May oversimplify complex scenarios",
+      "B. Supports decision making",
+      "C. Provides clarity",
+      "D. Prioritizes actions"
+    ],
+    "answer": "A",
+    "explanation": "Decision trees may oversimplify complex situations that involve multiple variables, uncertainties, and subjective factors."
+  },
+  {
+    "question": "Which is the purpose of business capability analysis?",
+    "options": [
+      "A. Assess strengths and weaknesses to support strategy",
+      "B. Document project scope",
+      "C. Approve requirements",
+      "D. Plan testing"
+    ],
+    "answer": "A",
+    "explanation": "Business capability analysis evaluates the organization's current capabilities and identifies gaps to support strategic planning and improvement."
+  },
+  {
+    "question": "Which is an example of a data quality metric?",
+    "options": [
+      "A. Percentage of duplicate records in database",
+      "B. Number of transactions processed",
+      "C. Amount of data stored",
+      "D. Uptime percentage"
+    ],
+    "answer": "A",
+    "explanation": "Data quality metrics measure the accuracy, completeness, and reliability of data - percentage of duplicates is a typical data quality measure."
+  },
+  {
+    "question": "Which is a limitation of root cause analysis?",
+    "options": [
+      "A. May be time-consuming for complex problems",
+      "B. Identifies underlying issues",
+      "C. Improves solutions",
+      "D. Reduces recurrence"
+    ],
+    "answer": "A",
+    "explanation": "Root cause analysis can be time-consuming and resource-intensive, especially for complex problems with multiple contributing factors."
+  },
+  {
+    "question": "Which is a benefit of defining solution scope?",
+    "options": [
+      "A. Sets clear boundaries for development and testing",
+      "B. Guarantees project success",
+      "C. Eliminates risks",
+      "D. Reduces governance"
+    ],
+    "answer": "A",
+    "explanation": "Solution scope defines what is included and excluded, providing clear boundaries that guide development, testing, and implementation efforts."
+  }
+]

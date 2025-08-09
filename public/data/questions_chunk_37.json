@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the purpose of defining solution performance measures?",
+    "options": [
+      "A. Track and evaluate solution effectiveness",
+      "B. Guarantee improvement",
+      "C. Avoid scope changes",
+      "D. Reduce governance needs"
+    ],
+    "answer": "A",
+    "explanation": "Solution performance measures provide metrics to track how well the implemented solution is working and its effectiveness in meeting objectives."
+  },
+  {
+    "question": "Which is an example of a regulatory requirement?",
+    "options": [
+      "A. Comply with GDPR for personal data processing",
+      "B. Display product price",
+      "C. Encrypt passwords",
+      "D. Send invoices"
+    ],
+    "answer": "A",
+    "explanation": "Regulatory requirements mandate compliance with external laws and regulations like GDPR for data protection."
+  },
+  {
+    "question": "Which is a limitation of role-playing?",
+    "options": [
+      "A. May not accurately reflect actual conditions",
+      "B. Builds empathy",
+      "C. Generates ideas",
+      "D. Encourages collaboration"
+    ],
+    "answer": "A",
+    "explanation": "Role-playing exercises are simulated scenarios that may not fully capture the complexity and pressures of actual working conditions."
+  },
+  {
+    "question": "Which is a benefit of creating data flow diagrams?",
+    "options": [
+      "A. Visualizes movement and transformation of data",
+      "B. Guarantees system performance",
+      "C. Eliminates need for documentation",
+      "D. Reduces governance needs"
+    ],
+    "answer": "A",
+    "explanation": "Data flow diagrams provide visual representation of how data moves through a system and how it is transformed at each step."
+  },
+  {
+    "question": "Which is an example of a usability requirement?",
+    "options": [
+      "A. System must support screen readers for accessibility",
+      "B. Encrypt passwords",
+      "C. Process refunds",
+      "D. Load pages fast"
+    ],
+    "answer": "A",
+    "explanation": "Usability requirements specify how the system should be designed for ease of use - accessibility features like screen reader support are usability requirements."
+  }
+]

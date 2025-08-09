@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of requirements workshops?",
+    "options": [
+      "A. Builds consensus and accelerates elicitation",
+      "B. Guarantees agreement",
+      "C. Eliminates conflicts",
+      "D. Reduces governance"
+    ],
+    "answer": "A",
+    "explanation": "Requirements workshops bring stakeholders together to collaborate, build consensus, and accelerate the requirements elicitation process."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Reduce operating costs by 15% within 2 years",
+      "B. Encrypt stored data",
+      "C. Process refunds",
+      "D. Display reports"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - reducing operating costs by 15% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. May be influenced by interviewer bias",
+      "B. Builds trust",
+      "C. Allows exploration",
+      "D. Clarifies requirements"
+    ],
+    "answer": "A",
+    "explanation": "Interviews can be affected by interviewer bias in how questions are asked and responses are interpreted, potentially skewing results."
+  },
+  {
+    "question": "Which is the purpose of defining measurable acceptance criteria?",
+    "options": [
+      "A. Provide objective basis for requirement verification",
+      "B. Ensure automatic approval",
+      "C. Reduce documentation",
+      "D. Avoid governance"
+    ],
+    "answer": "A",
+    "explanation": "Measurable acceptance criteria provide objective, quantifiable standards that can be used to verify whether requirements have been met."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Implement role-based access control for all users",
+      "B. Display notifications",
+      "C. Load data quickly",
+      "D. Process orders"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - role-based access control is a security mechanism."
+  }
+]

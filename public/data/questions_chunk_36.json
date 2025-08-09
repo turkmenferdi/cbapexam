@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Migrate all data to new system before go-live",
+      "B. Encrypt passwords",
+      "C. Allow login",
+      "D. Display reports"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data migration activities."
+  },
+  {
+    "question": "Which is a limitation of mind mapping?",
+    "options": [
+      "A. May become disorganized with too many ideas",
+      "B. Encourages creativity",
+      "C. Improves structure",
+      "D. Generates insights"
+    ],
+    "answer": "A",
+    "explanation": "Mind maps can become cluttered and difficult to follow when they contain too many ideas or branches without proper organization."
+  },
+  {
+    "question": "Which is a benefit of stakeholder engagement?",
+    "options": [
+      "A. Improves requirement quality and acceptance",
+      "B. Guarantees consensus",
+      "C. Eliminates conflict",
+      "D. Reduces governance"
+    ],
+    "answer": "A",
+    "explanation": "Active stakeholder engagement leads to better understanding of needs, higher quality requirements, and greater acceptance of the solution."
+  },
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Allow customers to update shipping address online",
+      "B. Encrypt stored data",
+      "C. Load page quickly",
+      "D. Support multiple devices"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - allowing customers to update shipping addresses is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of competitor analysis?",
+    "options": [
+      "A. May not address internal process weaknesses",
+      "B. Provides market insight",
+      "C. Identifies threats",
+      "D. Supports strategy"
+    ],
+    "answer": "A",
+    "explanation": "Competitor analysis focuses on external competitors and may not reveal the organization's internal process weaknesses or capability gaps."
+  }
+]
