@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of stakeholder analysis?",
+    "options": [
+      "A. Enables targeted communication strategies",
+      "B. Guarantees full agreement",
+      "C. Eliminates the need for governance",
+      "D. Avoids project changes"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder analysis helps identify stakeholder needs and influence levels, enabling targeted and effective communication strategies for each group."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Provide temporary dual access to both old and new systems during cutover",
+      "B. Encrypt data",
+      "C. Display login page",
+      "D. Process orders"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including temporary dual system access during migration."
+  },
+  {
+    "question": "Which is a limitation of workshops?",
+    "options": [
+      "A. May require significant time from multiple stakeholders",
+      "B. Encourages alignment",
+      "C. Improves collaboration",
+      "D. Generates consensus"
+    ],
+    "answer": "A",
+    "explanation": "Workshops require significant time commitment from multiple stakeholders, making them resource-intensive and challenging to schedule."
+  },
+  {
+    "question": "Which is the purpose of risk analysis?",
+    "options": [
+      "A. Understand threats and plan mitigations",
+      "B. Plan testing",
+      "C. Approve requirements",
+      "D. Define KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Risk analysis systematically identifies potential threats and develops strategies to mitigate or manage those risks."
+  },
+  {
+    "question": "Which is an example of a business rule?",
+    "options": [
+      "A. Customers under 18 cannot register",
+      "B. Encrypt passwords",
+      "C. Load homepage in 1 second",
+      "D. Provide payment option"
+    ],
+    "answer": "A",
+    "explanation": "Business rules define organizational policies and procedures - age restrictions for registration are typical business rules."
+  }
+]

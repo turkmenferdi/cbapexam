@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of benchmarking?",
+    "options": [
+      "A. May not reflect internal strengths and weaknesses",
+      "B. Provides insights",
+      "C. Improves quality",
+      "D. Supports decision-making"
+    ],
+    "answer": "A",
+    "explanation": "Benchmarking compares against external standards and may not fully reflect the organization's internal strengths, weaknesses, and unique context."
+  },
+  {
+    "question": "Which is a benefit of measurable objectives?",
+    "options": [
+      "A. Provide clear criteria to assess success",
+      "B. Guarantee improvement",
+      "C. Avoid governance",
+      "D. Reduce timelines"
+    ],
+    "answer": "A",
+    "explanation": "Measurable objectives provide specific, quantifiable criteria that enable clear and objective assessment of success and progress."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Achieve 95% on-time delivery within six months",
+      "B. Provide search",
+      "C. Encrypt data",
+      "D. Send invoice"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - achieving 95% on-time delivery is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of surveys?",
+    "options": [
+      "A. Cannot clarify ambiguous answers",
+      "B. Reach many people",
+      "C. Gather quantitative data",
+      "D. Reduce interviews"
+    ],
+    "answer": "A",
+    "explanation": "Surveys are one-way communication tools that cannot clarify ambiguous or confusing responses from participants."
+  },
+  {
+    "question": "Which is the purpose of requirements prioritization?",
+    "options": [
+      "A. Address most critical needs before others",
+      "B. Avoid documentation",
+      "C. Reduce governance",
+      "D. Simplify scope"
+    ],
+    "answer": "A",
+    "explanation": "Requirements prioritization ensures that the most critical and important needs are addressed first with available resources."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of using historical data?",
+    "options": [
+      "A. May not apply to changing environments",
+      "B. Improves planning",
+      "C. Supports forecasting",
+      "D. Reduces uncertainty"
+    ],
+    "answer": "A",
+    "explanation": "Historical data may become irrelevant or inaccurate when environments, markets, or business conditions change significantly."
+  },
+  {
+    "question": "Which is a benefit of prototyping?",
+    "options": [
+      "A. Helps stakeholders validate needs before full development",
+      "B. Guarantees delivery",
+      "C. Removes testing need",
+      "D. Lowers all costs automatically"
+    ],
+    "answer": "A",
+    "explanation": "Prototyping allows stakeholders to validate requirements and needs early in the development process, before full implementation begins."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. Application must support multiple languages",
+      "B. Provide login functionality",
+      "C. Track shipments",
+      "D. Process refunds"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and operational characteristics - multi-language support is a localization requirement."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. May not capture behind-the-scenes processes",
+      "B. Improves accuracy",
+      "C. Clarifies workflow",
+      "D. Enhances understanding"
+    ],
+    "answer": "A",
+    "explanation": "Observation captures visible activities but may miss behind-the-scenes processes, decision-making, or preparatory work."
+  },
+  {
+    "question": "Which is the purpose of process modeling?",
+    "options": [
+      "A. Identify process improvements and inefficiencies",
+      "B. Approve requirements",
+      "C. Plan rollout",
+      "D. Define KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Process modeling visualizes workflows to help identify inefficiencies, bottlenecks, and opportunities for improvement."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a stakeholder requirement?",
+    "options": [
+      "A. Manager must be able to approve expenses remotely",
+      "B. Encrypt passwords",
+      "C. Load homepage in 2 seconds",
+      "D. Provide news section"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - managers needing remote expense approval represents a stakeholder need."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Can be costly for large participant groups",
+      "B. Builds rapport",
+      "C. Clarifies needs",
+      "D. Allows detail gathering"
+    ],
+    "answer": "A",
+    "explanation": "Interviews become costly and resource-intensive when conducted with large numbers of participants across the organization."
+  },
+  {
+    "question": "Which is the purpose of defining the future state?",
+    "options": [
+      "A. Guide solution design toward desired outcomes",
+      "B. Record current state",
+      "C. Plan deployment",
+      "D. Approve scope"
+    ],
+    "answer": "A",
+    "explanation": "Defining the future state establishes a clear vision that guides solution design toward achieving the desired outcomes."
+  },
+  {
+    "question": "Which is an example of a performance requirement?",
+    "options": [
+      "A. Display account dashboard in under 3 seconds",
+      "B. Provide login",
+      "C. Show help section",
+      "D. Track orders"
+    ],
+    "answer": "A",
+    "explanation": "Performance requirements specify quantifiable system performance criteria - dashboard load time is a key performance measure."
+  },
+  {
+    "question": "Which is a limitation of focus groups?",
+    "options": [
+      "A. Groupthink may influence responses",
+      "B. Generates diverse input",
+      "C. Improves understanding",
+      "D. Encourages collaboration"
+    ],
+    "answer": "A",
+    "explanation": "Focus groups can suffer from groupthink where participants influence each other's responses, leading to biased or homogenized results."
+  }
+]

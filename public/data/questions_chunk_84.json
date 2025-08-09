@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of KPIs?",
+    "options": [
+      "A. Track performance against goals",
+      "B. Ensure success",
+      "C. Avoid governance",
+      "D. Simplify scope"
+    ],
+    "answer": "A",
+    "explanation": "Key Performance Indicators provide quantifiable metrics for tracking and measuring performance against specific goals and objectives."
+  },
+  {
+    "question": "Which is an example of a constraint?",
+    "options": [
+      "A. All development must use open-source technologies",
+      "B. Improve satisfaction",
+      "C. Enhance usability",
+      "D. Increase market share"
+    ],
+    "answer": "A",
+    "explanation": "Constraints are limiting factors that restrict project options - technology restrictions like requiring open-source solutions are common constraints."
+  },
+  {
+    "question": "Which is a limitation of vendor-provided solutions?",
+    "options": [
+      "A. May lack flexibility to meet unique needs",
+      "B. Improves quality",
+      "C. Speeds delivery",
+      "D. Reduces staffing"
+    ],
+    "answer": "A",
+    "explanation": "Vendor solutions are typically standardized and may lack the flexibility needed to meet unique organizational requirements."
+  },
+  {
+    "question": "Which is the purpose of solution evaluation?",
+    "options": [
+      "A. Determine if the implemented solution meets business needs",
+      "B. Define scope",
+      "C. Plan testing",
+      "D. Document KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Solution evaluation assesses whether the implemented solution effectively addresses the original business needs and requirements."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Require password change every 90 days",
+      "B. Provide contact page",
+      "C. Show promotions",
+      "D. Load images"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - password policies are fundamental security requirements."
+  }
+]
