@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Train staff on new CRM before system goes live",
+      "B. Provide search",
+      "C. Encrypt passwords",
+      "D. Display cart"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including staff training on new systems."
+  },
+  {
+    "question": "Which is a limitation of mind mapping?",
+    "options": [
+      "A. May become cluttered if overused",
+      "B. Encourages creativity",
+      "C. Improves clarity",
+      "D. Generates insights"
+    ],
+    "answer": "A",
+    "explanation": "Mind maps can become cluttered and difficult to follow if too many ideas are added without proper organization and structure."
+  },
+  {
+    "question": "Which is a benefit of stakeholder engagement?",
+    "options": [
+      "A. Improves adoption and satisfaction",
+      "B. Guarantees success",
+      "C. Avoids governance",
+      "D. Removes documentation needs"
+    ],
+    "answer": "A",
+    "explanation": "Active stakeholder engagement leads to better understanding of needs, improved solution adoption, and higher stakeholder satisfaction."
+  },
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Allow customers to track shipment status online",
+      "B. Encrypt data",
+      "C. Load homepage quickly",
+      "D. Support tablets"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - allowing customers to track shipment status is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of competitor analysis?",
+    "options": [
+      "A. Does not reveal internal process weaknesses",
+      "B. Provides market data",
+      "C. Improves strategy",
+      "D. Supports decision-making"
+    ],
+    "answer": "A",
+    "explanation": "Competitor analysis focuses on external competitors and does not reveal the organization's internal process weaknesses or operational issues."
+  }
+]

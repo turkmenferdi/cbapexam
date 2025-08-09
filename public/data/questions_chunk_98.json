@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of decision trees?",
+    "options": [
+      "A. May not handle complex, uncertain scenarios well",
+      "B. Improves clarity",
+      "C. Helps prioritize",
+      "D. Provides structure"
+    ],
+    "answer": "A",
+    "explanation": "Decision trees may not effectively handle complex scenarios with high uncertainty, multiple variables, and interconnected factors."
+  },
+  {
+    "question": "Which is the purpose of business capability analysis?",
+    "options": [
+      "A. Identify and assess enterprise abilities",
+      "B. Plan rollout",
+      "C. Approve scope",
+      "D. Document KPIs"
+    ],
+    "answer": "A",
+    "explanation": "Business capability analysis identifies and assesses the enterprise's current abilities and capabilities to support strategic objectives."
+  },
+  {
+    "question": "Which is an example of a data quality metric?",
+    "options": [
+      "A. Accuracy percentage of address fields in database",
+      "B. Number of orders shipped",
+      "C. Amount of data stored",
+      "D. Page load time"
+    ],
+    "answer": "A",
+    "explanation": "Data quality metrics measure the accuracy, completeness, and reliability of data - address field accuracy indicates data quality."
+  },
+  {
+    "question": "Which is a limitation of root cause analysis?",
+    "options": [
+      "A. May be time-consuming and require specialized knowledge",
+      "B. Improves solutions",
+      "C. Reduces recurrence",
+      "D. Identifies issues"
+    ],
+    "answer": "A",
+    "explanation": "Root cause analysis can be time-consuming and may require specialized knowledge and expertise, especially for complex problems."
+  },
+  {
+    "question": "Which is a benefit of defining solution scope?",
+    "options": [
+      "A. Aligns project outcomes with stakeholder expectations",
+      "B. Guarantees success",
+      "C. Eliminates risk",
+      "D. Avoids governance"
+    ],
+    "answer": "A",
+    "explanation": "Solution scope defines what is included and excluded, helping align project outcomes with stakeholder expectations and requirements."
+  }
+]

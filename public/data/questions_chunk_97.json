@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the purpose of defining performance measures?",
+    "options": [
+      "A. Quantify and assess success against goals",
+      "B. Guarantee improvement",
+      "C. Avoid governance",
+      "D. Reduce scope"
+    ],
+    "answer": "A",
+    "explanation": "Performance measures provide quantifiable metrics to assess and measure success against established goals and objectives."
+  },
+  {
+    "question": "Which is an example of a compliance requirement?",
+    "options": [
+      "A. Meet ISO 27001 information security standards",
+      "B. Provide order confirmation",
+      "C. Encrypt passwords",
+      "D. Display FAQ"
+    ],
+    "answer": "A",
+    "explanation": "Compliance requirements mandate adherence to specific standards and regulations like ISO 27001 for information security management."
+  },
+  {
+    "question": "Which is a limitation of role-playing?",
+    "options": [
+      "A. May oversimplify situations",
+      "B. Builds empathy",
+      "C. Generates ideas",
+      "D. Encourages discussion"
+    ],
+    "answer": "A",
+    "explanation": "Role-playing exercises are simulated scenarios that may oversimplify complex real-world situations and constraints."
+  },
+  {
+    "question": "Which is a benefit of data flow diagrams?",
+    "options": [
+      "A. Clearly shows how data is processed and stored",
+      "B. Guarantees speed",
+      "C. Removes requirements gathering",
+      "D. Simplifies governance"
+    ],
+    "answer": "A",
+    "explanation": "Data flow diagrams provide clear visual representation of how data is processed, transformed, and stored within a system."
+  },
+  {
+    "question": "Which is an example of a usability requirement?",
+    "options": [
+      "A. Provide customizable dashboard layouts",
+      "B. Encrypt data",
+      "C. Load homepage quickly",
+      "D. Process orders"
+    ],
+    "answer": "A",
+    "explanation": "Usability requirements specify how the system should be designed for ease of use - customizable dashboards improve user experience."
+  }
+]

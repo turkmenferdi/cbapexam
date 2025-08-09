@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of requirements workshops?",
+    "options": [
+      "A. Facilitates alignment and shared understanding",
+      "B. Guarantees delivery",
+      "C. Eliminates governance",
+      "D. Removes scope creep"
+    ],
+    "answer": "A",
+    "explanation": "Requirements workshops bring stakeholders together to facilitate alignment and develop shared understanding of needs and priorities."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Increase revenue by 10% within the next fiscal year",
+      "B. Encrypt stored data",
+      "C. Provide notifications",
+      "D. Generate reports"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - increasing revenue by 10% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Potential for interviewer influence on responses",
+      "B. Builds rapport",
+      "C. Clarifies needs",
+      "D. Encourages dialogue"
+    ],
+    "answer": "A",
+    "explanation": "Interviews can be affected by interviewer influence through leading questions, body language, and interpretation bias."
+  },
+  {
+    "question": "Which is the purpose of measurable acceptance criteria?",
+    "options": [
+      "A. Provide objective benchmarks for requirement completion",
+      "B. Guarantee approval",
+      "C. Reduce documentation",
+      "D. Avoid governance"
+    ],
+    "answer": "A",
+    "explanation": "Measurable acceptance criteria provide objective, quantifiable benchmarks that can be used to determine when requirements are complete."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Require multi-factor authentication for all admin users",
+      "B. Provide about page",
+      "C. Load homepage quickly",
+      "D. Process returns"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - multi-factor authentication is a critical security control for admin access."
+  }
+]
