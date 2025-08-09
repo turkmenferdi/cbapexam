@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of using historical data?",
+    "options": [
+      "A. May be outdated or not applicable to future conditions",
+      "B. Supports forecasting",
+      "C. Improves decision making",
+      "D. Reduces uncertainty"
+    ],
+    "answer": "A",
+    "explanation": "Historical data reflects past conditions and may not accurately predict future scenarios, especially in rapidly changing environments."
+  },
+  {
+    "question": "Which is a benefit of creating prototypes?",
+    "options": [
+      "A. Enables early testing of requirements and design",
+      "B. Guarantees successful implementation",
+      "C. Eliminates the need for testing",
+      "D. Reduces project costs automatically"
+    ],
+    "answer": "A",
+    "explanation": "Prototypes allow early validation and testing of requirements and design concepts before full development begins."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. System must handle 500 concurrent users without performance loss",
+      "B. Generate monthly billing reports",
+      "C. Process credit card payments",
+      "D. Display order summary"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes and performance criteria - concurrent user capacity is a performance requirement."
+  },
+  {
+    "question": "Which is a limitation of observation?",
+    "options": [
+      "A. May not capture internal thought processes of participants",
+      "B. Improves process accuracy",
+      "C. Builds process understanding",
+      "D. Clarifies workflow"
+    ],
+    "answer": "A",
+    "explanation": "Observation captures visible behaviors but cannot reveal the internal reasoning, motivations, or thought processes of participants."
+  },
+  {
+    "question": "Which is the purpose of developing business process models?",
+    "options": [
+      "A. Understand and improve workflows",
+      "B. Approve technical architecture",
+      "C. Create test plans",
+      "D. Document lessons learned"
+    ],
+    "answer": "A",
+    "explanation": "Business process models visualize and document workflows to help understand current processes and identify improvement opportunities."
+  }
+]

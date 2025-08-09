@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a stakeholder requirement?",
+    "options": [
+      "A. Customer must receive shipment tracking information via email",
+      "B. Encrypt all stored passwords",
+      "C. Display homepage banner",
+      "D. Process payments"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - customers needing tracking information represents a stakeholder need."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Can be prone to interviewer bias and interpretation errors",
+      "B. Builds relationships",
+      "C. Allows detailed answers",
+      "D. Clarifies uncertainties"
+    ],
+    "answer": "A",
+    "explanation": "Interviews can be affected by interviewer bias in questioning techniques and interpretation of responses, potentially skewing results."
+  },
+  {
+    "question": "Which is the purpose of defining the future state?",
+    "options": [
+      "A. Provide a clear target for solution design and implementation",
+      "B. Approve current workflows",
+      "C. Document scope",
+      "D. Plan testing"
+    ],
+    "answer": "A",
+    "explanation": "Defining the future state establishes a clear vision and target that guides solution design and implementation efforts."
+  },
+  {
+    "question": "Which is an example of a performance requirement?",
+    "options": [
+      "A. Application must return search results within 1 second",
+      "B. Allow password reset",
+      "C. Provide customer profile view",
+      "D. Store order history"
+    ],
+    "answer": "A",
+    "explanation": "Performance requirements specify quantifiable system performance criteria - search response time is a key performance measure."
+  },
+  {
+    "question": "Which is a limitation of focus groups?",
+    "options": [
+      "A. May not represent all stakeholder viewpoints",
+      "B. Generates new ideas",
+      "C. Encourages collaboration",
+      "D. Builds understanding"
+    ],
+    "answer": "A",
+    "explanation": "Focus groups typically include a limited number of participants and may not capture the full diversity of stakeholder perspectives."
+  }
+]

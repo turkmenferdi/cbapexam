@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of benchmarking?",
+    "options": [
+      "A. May encourage imitation instead of innovation",
+      "B. Provides industry standards",
+      "C. Supports performance improvement",
+      "D. Gives comparative data"
+    ],
+    "answer": "A",
+    "explanation": "Benchmarking may lead to copying competitors rather than developing innovative solutions that provide competitive advantage."
+  },
+  {
+    "question": "Which is a benefit of measurable objectives?",
+    "options": [
+      "A. Allows tracking of progress and performance",
+      "B. Guarantees stakeholder approval",
+      "C. Eliminates risk",
+      "D. Reduces documentation"
+    ],
+    "answer": "A",
+    "explanation": "Measurable objectives provide specific metrics and targets that enable objective tracking of progress and performance evaluation."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Reduce customer service call time by 30% in 12 months",
+      "B. Add chat support feature",
+      "C. Encrypt customer passwords",
+      "D. Display help articles"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - reducing call time by 30% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of surveys?",
+    "options": [
+      "A. May have low response rates and incomplete data",
+      "B. Collects large amounts of data",
+      "C. Reaches many participants",
+      "D. Reduces interviews"
+    ],
+    "answer": "A",
+    "explanation": "Surveys often suffer from low response rates and may result in incomplete or biased data from non-representative samples."
+  },
+  {
+    "question": "Which is the purpose of requirements prioritization?",
+    "options": [
+      "A. Ensure resources focus on highest-value requirements",
+      "B. Avoid adding new requirements",
+      "C. Eliminate scope changes",
+      "D. Reduce project costs"
+    ],
+    "answer": "A",
+    "explanation": "Requirements prioritization ensures that limited resources are allocated to the most important and valuable requirements first."
+  }
+]
