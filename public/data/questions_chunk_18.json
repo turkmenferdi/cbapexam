@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of data flow diagrams?",
+    "options": [
+      "A. May not capture process timing and sequencing",
+      "B. Provides visual clarity",
+      "C. Helps identify process steps",
+      "D. Improves understanding"
+    ],
+    "answer": "A",
+    "explanation": "Data flow diagrams show how data moves through a system but don't typically capture timing, sequence, or decision points in processes."
+  },
+  {
+    "question": "Which is the main purpose of the task Conduct Elicitation?",
+    "options": [
+      "A. Gather information from stakeholders about requirements",
+      "B. Approve requirements",
+      "C. Document test cases",
+      "D. Plan solution design"
+    ],
+    "answer": "A",
+    "explanation": "Conduct Elicitation involves actively gathering information from stakeholders to understand their needs and requirements."
+  },
+  {
+    "question": "Which is an example of a solution performance measure?",
+    "options": [
+      "A. Average transaction processing time",
+      "B. Number of stakeholders",
+      "C. List of requirements",
+      "D. Project budget"
+    ],
+    "answer": "A",
+    "explanation": "Solution performance measures evaluate how well the implemented solution is performing - transaction processing time is a measurable performance metric."
+  },
+  {
+    "question": "Which is a limitation of Pareto analysis?",
+    "options": [
+      "A. May oversimplify complex problems",
+      "B. Highlights most significant issues",
+      "C. Supports prioritization",
+      "D. Reduces waste"
+    ],
+    "answer": "A",
+    "explanation": "Pareto analysis focuses on the 80/20 rule but may oversimplify complex problems that don't follow this pattern."
+  },
+  {
+    "question": "Which is a benefit of scenario analysis?",
+    "options": [
+      "A. Helps anticipate possible future conditions",
+      "B. Guarantees accurate forecasts",
+      "C. Eliminates uncertainty",
+      "D. Reduces need for risk analysis"
+    ],
+    "answer": "A",
+    "explanation": "Scenario analysis explores different possible future conditions to help with planning and decision-making under uncertainty."
+  }
+]

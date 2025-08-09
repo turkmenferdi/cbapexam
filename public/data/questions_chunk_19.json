@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a measurable business requirement?",
+    "options": [
+      "A. Reduce defect rate to less than 1% per release",
+      "B. Improve quality",
+      "C. Increase efficiency",
+      "D. Reduce costs"
+    ],
+    "answer": "A",
+    "explanation": "Measurable business requirements include specific metrics and targets - reducing defect rate to less than 1% is specific and measurable."
+  },
+  {
+    "question": "Which is a limitation of organizational modeling?",
+    "options": [
+      "A. May not show informal relationships",
+      "B. Improves role clarity",
+      "C. Enhances understanding",
+      "D. Supports communication"
+    ],
+    "answer": "A",
+    "explanation": "Organizational models typically show formal reporting structures but may miss important informal relationships and influence patterns."
+  },
+  {
+    "question": "Which is the purpose of the Define Future State task?",
+    "options": [
+      "A. Identify goals and objectives for the desired outcome",
+      "B. Document current processes",
+      "C. Plan testing",
+      "D. Create training materials"
+    ],
+    "answer": "A",
+    "explanation": "Define Future State identifies what the organization wants to achieve and the goals and objectives for the desired outcome."
+  },
+  {
+    "question": "Which is an example of a regulatory requirement?",
+    "options": [
+      "A. Compliance with GDPR data protection rules",
+      "B. User login capability",
+      "C. Password reset function",
+      "D. Email notifications"
+    ],
+    "answer": "A",
+    "explanation": "Regulatory requirements are mandated by external laws or regulations - GDPR compliance is a legal requirement for data protection."
+  },
+  {
+    "question": "Which is a limitation of market analysis?",
+    "options": [
+      "A. May not reflect internal capabilities",
+      "B. Identifies opportunities and threats",
+      "C. Provides competitive insight",
+      "D. Supports strategic planning"
+    ],
+    "answer": "A",
+    "explanation": "Market analysis focuses on external factors and may not fully account for the organization's internal capabilities and constraints."
+  }
+]

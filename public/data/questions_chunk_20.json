@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of using fishbone diagrams?",
+    "options": [
+      "A. Helps identify root causes of problems",
+      "B. Guarantees solutions",
+      "C. Eliminates all risks",
+      "D. Simplifies documentation"
+    ],
+    "answer": "A",
+    "explanation": "Fishbone diagrams (cause and effect diagrams) systematically explore potential root causes of problems across different categories."
+  },
+  {
+    "question": "Which is the main purpose of lessons learned?",
+    "options": [
+      "A. Capture knowledge for future projects",
+      "B. Approve requirements",
+      "C. Develop solution design",
+      "D. Plan elicitation"
+    ],
+    "answer": "A",
+    "explanation": "Lessons learned capture knowledge, insights, and experiences from projects to improve future project performance and avoid repeating mistakes."
+  },
+  {
+    "question": "Which is an example of a usability requirement?",
+    "options": [
+      "A. System must be navigable by visually impaired users",
+      "B. Encrypt data",
+      "C. Load pages in 2 seconds",
+      "D. Process payments"
+    ],
+    "answer": "A",
+    "explanation": "Usability requirements describe how easy and accessible the system should be for users - accessibility for visually impaired users is a usability requirement."
+  },
+  {
+    "question": "Which is a limitation of job shadowing?",
+    "options": [
+      "A. May alter normal work behavior of observed person",
+      "B. Provides direct process insight",
+      "C. Improves understanding",
+      "D. Identifies inefficiencies"
+    ],
+    "answer": "A",
+    "explanation": "Being observed during job shadowing may cause people to change their normal behavior patterns, affecting the accuracy of observations."
+  },
+  {
+    "question": "Which is the primary purpose of requirements traceability?",
+    "options": [
+      "A. Ensure each requirement delivers business value and is implemented",
+      "B. Reduce stakeholder involvement",
+      "C. Eliminate need for validation",
+      "D. Avoid governance"
+    ],
+    "answer": "A",
+    "explanation": "Requirements traceability ensures that each requirement can be traced from business need through to implementation and testing, confirming value delivery."
+  }
+]

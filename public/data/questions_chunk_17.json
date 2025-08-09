@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a business rule?",
+    "options": [
+      "A. Loan applications over $5000 require manager approval",
+      "B. System must allow password reset",
+      "C. Encrypt all stored data",
+      "D. Support multiple languages"
+    ],
+    "answer": "A",
+    "explanation": "Business rules define organizational policies and procedures - requiring manager approval for large loans is a typical business rule."
+  },
+  {
+    "question": "Which is a limitation of user stories?",
+    "options": [
+      "A. May lack detail needed for development",
+      "B. Encourages stakeholder engagement",
+      "C. Improves flexibility",
+      "D. Supports agile delivery"
+    ],
+    "answer": "A",
+    "explanation": "User stories are intentionally brief and may require additional detail through acceptance criteria and conversations to guide development."
+  },
+  {
+    "question": "Which is a benefit of defining a future state?",
+    "options": [
+      "A. Clarifies desired outcomes and capabilities",
+      "B. Eliminates all risks",
+      "C. Guarantees funding",
+      "D. Reduces need for governance"
+    ],
+    "answer": "A",
+    "explanation": "Defining the future state provides clarity about what the organization wants to achieve and the capabilities needed to get there."
+  },
+  {
+    "question": "Which is the purpose of stakeholder engagement planning?",
+    "options": [
+      "A. Define communication and collaboration strategies",
+      "B. Approve requirements",
+      "C. Prepare training",
+      "D. Conduct testing"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder engagement planning develops strategies for effective communication and collaboration with different stakeholder groups."
+  },
+  {
+    "question": "Which is an example of a risk avoidance strategy?",
+    "options": [
+      "A. Canceling a project to eliminate a high risk",
+      "B. Accepting low risks",
+      "C. Transferring risk to vendor",
+      "D. Reducing risk impact"
+    ],
+    "answer": "A",
+    "explanation": "Risk avoidance involves eliminating the risk entirely by changing plans or canceling activities that create the risk."
+  }
+]

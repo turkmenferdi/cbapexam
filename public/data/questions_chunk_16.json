@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the main benefit of prioritizing stakeholders?",
+    "options": [
+      "A. Focuses effort on the most influential stakeholders",
+      "B. Guarantees stakeholder agreement",
+      "C. Eliminates conflict",
+      "D. Reduces cost"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder prioritization helps focus limited time and resources on engaging with the most influential and important stakeholders."
+  },
+  {
+    "question": "Which is an example of a non-functional requirement?",
+    "options": [
+      "A. Page must load in under 2 seconds",
+      "B. System must allow user registration",
+      "C. System must display balance",
+      "D. System must send notifications"
+    ],
+    "answer": "A",
+    "explanation": "Non-functional requirements specify quality attributes like performance - page load time is a performance requirement."
+  },
+  {
+    "question": "Which is a limitation of using checklists?",
+    "options": [
+      "A. May encourage minimal compliance rather than improvement",
+      "B. Ensures completeness",
+      "C. Reduces errors",
+      "D. Improves efficiency"
+    ],
+    "answer": "A",
+    "explanation": "Checklists may lead to a 'tick-box' mentality where people focus on minimal compliance rather than continuous improvement."
+  },
+  {
+    "question": "Which is the primary benefit of using SWOT analysis?",
+    "options": [
+      "A. Identifies strengths, weaknesses, opportunities, and threats",
+      "B. Eliminates all risks",
+      "C. Guarantees improvement",
+      "D. Reduces need for monitoring"
+    ],
+    "answer": "A",
+    "explanation": "SWOT analysis systematically evaluates internal strengths and weaknesses alongside external opportunities and threats."
+  },
+  {
+    "question": "Which is a purpose of the Validate Requirements task?",
+    "options": [
+      "A. Ensure requirements support business goals and objectives",
+      "B. Approve requirements",
+      "C. Document test cases",
+      "D. Plan elicitation"
+    ],
+    "answer": "A",
+    "explanation": "Validate Requirements ensures that requirements are correct, complete, and aligned with business goals and objectives."
+  }
+]
