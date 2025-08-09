@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of requirements workshops?",
+    "options": [
+      "A. Promotes collaboration and shared understanding",
+      "B. Guarantees success",
+      "C. Removes documentation needs",
+      "D. Avoids governance"
+    ],
+    "answer": "A",
+    "explanation": "Requirements workshops bring stakeholders together to collaborate on requirements gathering and achieve shared understanding of needs and priorities."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Increase website traffic by 20% in six months",
+      "B. Encrypt passwords",
+      "C. Provide feedback form",
+      "D. Generate reports"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational goals and objectives - increasing website traffic by 20% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Risk of biased interpretation by interviewer",
+      "B. Builds trust",
+      "C. Encourages dialogue",
+      "D. Clarifies needs"
+    ],
+    "answer": "A",
+    "explanation": "Interviews can be affected by interviewer bias in questioning techniques, interpretation of responses, and personal perspectives."
+  },
+  {
+    "question": "Which is the purpose of measurable acceptance criteria?",
+    "options": [
+      "A. Establish objective proof that requirements are met",
+      "B. Ensure instant approval",
+      "C. Reduce documentation",
+      "D. Avoid governance"
+    ],
+    "answer": "A",
+    "explanation": "Measurable acceptance criteria provide objective, quantifiable proof that can be used to determine when requirements are satisfied."
+  },
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. All user sessions must expire after 15 minutes of inactivity",
+      "B. Display privacy policy",
+      "C. Load homepage quickly",
+      "D. Provide contact form"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - session timeout policies are important security controls."
+  }
+]

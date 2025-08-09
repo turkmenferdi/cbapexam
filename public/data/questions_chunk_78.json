@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of decision trees?",
+    "options": [
+      "A. Can oversimplify decisions involving multiple factors",
+      "B. Improves decision-making",
+      "C. Clarifies options",
+      "D. Prioritizes steps"
+    ],
+    "answer": "A",
+    "explanation": "Decision trees may oversimplify complex decisions that involve multiple factors, uncertainties, and interconnected variables."
+  },
+  {
+    "question": "Which is the purpose of business capability analysis?",
+    "options": [
+      "A. Assess organizational strengths and weaknesses for planning",
+      "B. Document scope",
+      "C. Approve requirements",
+      "D. Plan testing"
+    ],
+    "answer": "A",
+    "explanation": "Business capability analysis evaluates the organization's current capabilities to assess strengths, weaknesses, and support strategic planning."
+  },
+  {
+    "question": "Which is an example of a data quality metric?",
+    "options": [
+      "A. Percentage of incomplete customer records",
+      "B. Number of products sold",
+      "C. Amount of storage used",
+      "D. Load time"
+    ],
+    "answer": "A",
+    "explanation": "Data quality metrics measure the accuracy, completeness, and reliability of data - percentage of incomplete records indicates data completeness."
+  },
+  {
+    "question": "Which is a limitation of root cause analysis?",
+    "options": [
+      "A. Can be time-consuming to perform",
+      "B. Improves solutions",
+      "C. Reduces recurrence",
+      "D. Identifies underlying issues"
+    ],
+    "answer": "A",
+    "explanation": "Root cause analysis can be time-consuming and resource-intensive, especially for complex problems with multiple contributing factors."
+  },
+  {
+    "question": "Which is a benefit of defining solution scope?",
+    "options": [
+      "A. Prevents scope creep by establishing clear limits",
+      "B. Guarantees funding",
+      "C. Eliminates risk",
+      "D. Avoids governance"
+    ],
+    "answer": "A",
+    "explanation": "Solution scope defines what is included and excluded, establishing clear limits that help prevent uncontrolled scope expansion."
+  }
+]

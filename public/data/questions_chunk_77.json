@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the purpose of defining performance measures?",
+    "options": [
+      "A. Evaluate the effectiveness of the implemented solution",
+      "B. Guarantee improvement",
+      "C. Reduce governance",
+      "D. Avoid scope creep"
+    ],
+    "answer": "A",
+    "explanation": "Performance measures provide metrics to evaluate and assess how effectively the implemented solution is working and meeting objectives."
+  },
+  {
+    "question": "Which is an example of a compliance requirement?",
+    "options": [
+      "A. Adhere to HIPAA regulations for patient data",
+      "B. Provide notifications",
+      "C. Encrypt passwords",
+      "D. Display prices"
+    ],
+    "answer": "A",
+    "explanation": "Compliance requirements mandate adherence to specific laws and regulations like HIPAA for healthcare data protection."
+  },
+  {
+    "question": "Which is a limitation of role-playing?",
+    "options": [
+      "A. May not replicate real conditions accurately",
+      "B. Builds empathy",
+      "C. Encourages discussion",
+      "D. Generates insights"
+    ],
+    "answer": "A",
+    "explanation": "Role-playing exercises are simulated scenarios that may not accurately replicate all the complexities and pressures of real conditions."
+  },
+  {
+    "question": "Which is a benefit of data flow diagrams?",
+    "options": [
+      "A. Provides a clear picture of how data moves through systems",
+      "B. Guarantees efficiency",
+      "C. Removes need for testing",
+      "D. Avoids documentation"
+    ],
+    "answer": "A",
+    "explanation": "Data flow diagrams provide visual representation of how data moves through a system and is processed at different stages."
+  },
+  {
+    "question": "Which is an example of a usability requirement?",
+    "options": [
+      "A. Provide keyboard navigation for all functions",
+      "B. Encrypt data",
+      "C. Load images quickly",
+      "D. Process returns"
+    ],
+    "answer": "A",
+    "explanation": "Usability requirements specify how the system should be designed for ease of use - keyboard navigation improves accessibility and usability."
+  }
+]
