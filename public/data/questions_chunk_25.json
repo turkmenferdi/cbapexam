@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a performance metric?",
+    "options": [
+      "A. Average system response time",
+      "B. Number of users",
+      "C. Project budget",
+      "D. Total data stored"
+    ],
+    "answer": "A",
+    "explanation": "Performance metrics measure how well the system operates - average response time is a key performance indicator for system efficiency."
+  },
+  {
+    "question": "Which is a limitation of user observation?",
+    "options": [
+      "A. May influence observed behavior",
+      "B. Improves process insight",
+      "C. Builds understanding",
+      "D. Identifies inefficiencies"
+    ],
+    "answer": "A",
+    "explanation": "The presence of an observer may cause people to alter their normal behavior patterns, affecting the accuracy of observations."
+  },
+  {
+    "question": "Which is a benefit of defining acceptance criteria?",
+    "options": [
+      "A. Provides clear standards for solution validation",
+      "B. Guarantees approval",
+      "C. Reduces testing needs",
+      "D. Eliminates risks"
+    ],
+    "answer": "A",
+    "explanation": "Acceptance criteria define specific, measurable conditions that must be met for requirements to be considered complete and acceptable."
+  },
+  {
+    "question": "Which is the main purpose of the Current State Analysis?",
+    "options": [
+      "A. Understand existing processes, systems, and conditions",
+      "B. Plan future state",
+      "C. Create test cases",
+      "D. Document lessons learned"
+    ],
+    "answer": "A",
+    "explanation": "Current State Analysis examines and documents the existing business environment, processes, and systems to understand the starting point."
+  },
+  {
+    "question": "Which is an example of a data requirement?",
+    "options": [
+      "A. Store customer purchase history for 5 years",
+      "B. Display product images",
+      "C. Generate invoice",
+      "D. Process payments"
+    ],
+    "answer": "A",
+    "explanation": "Data requirements specify what data must be captured, stored, and maintained - retention periods are typical data requirements."
+  }
+]

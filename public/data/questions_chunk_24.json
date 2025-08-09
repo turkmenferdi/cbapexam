@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the main purpose of scope modeling?",
+    "options": [
+      "A. Define boundaries and context of the solution",
+      "B. Approve budget",
+      "C. Plan training",
+      "D. Document risks"
+    ],
+    "answer": "A",
+    "explanation": "Scope modeling defines what is included and excluded from the solution, establishing clear boundaries and context."
+  },
+  {
+    "question": "Which is a benefit of prototyping?",
+    "options": [
+      "A. Provides early feedback on requirements and design",
+      "B. Guarantees implementation success",
+      "C. Eliminates documentation needs",
+      "D. Reduces governance"
+    ],
+    "answer": "A",
+    "explanation": "Prototyping allows stakeholders to see and interact with a representation of the solution early, providing valuable feedback."
+  },
+  {
+    "question": "Which is an example of a compliance requirement?",
+    "options": [
+      "A. Adhere to PCI DSS standards for payment processing",
+      "B. Display order summary",
+      "C. Encrypt passwords",
+      "D. Process refunds"
+    ],
+    "answer": "A",
+    "explanation": "Compliance requirements specify adherence to external standards, regulations, or certifications like PCI DSS for payment security."
+  },
+  {
+    "question": "Which is a limitation of decision analysis?",
+    "options": [
+      "A. May oversimplify complex trade-offs",
+      "B. Supports informed choices",
+      "C. Reduces uncertainty",
+      "D. Prioritizes options"
+    ],
+    "answer": "A",
+    "explanation": "Decision analysis techniques may oversimplify complex situations that involve multiple variables and subjective factors."
+  },
+  {
+    "question": "Which is the purpose of risk analysis?",
+    "options": [
+      "A. Identify, assess, and prioritize project risks",
+      "B. Approve mitigation plans",
+      "C. Eliminate all threats",
+      "D. Document test cases"
+    ],
+    "answer": "A",
+    "explanation": "Risk analysis systematically identifies potential risks, assesses their likelihood and impact, and prioritizes them for management."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of vendor assessments?",
+    "options": [
+      "A. May be biased or incomplete",
+      "B. Improves vendor selection",
+      "C. Supports decision making",
+      "D. Reduces procurement time"
+    ],
+    "answer": "A",
+    "explanation": "Vendor assessments may be biased based on the evaluator's perspective or incomplete due to limited information provided by vendors."
+  },
+  {
+    "question": "Which is the purpose of stakeholder analysis?",
+    "options": [
+      "A. Identify stakeholders and understand their needs and influence",
+      "B. Approve requirements",
+      "C. Document training needs",
+      "D. Conduct testing"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder analysis identifies all relevant stakeholders and analyzes their needs, interests, influence, and impact on the project."
+  },
+  {
+    "question": "Which is an example of a business requirement?",
+    "options": [
+      "A. Increase online sales by 20% in one year",
+      "B. Add payment gateway integration",
+      "C. Encrypt all stored data",
+      "D. Display order confirmation"
+    ],
+    "answer": "A",
+    "explanation": "Business requirements describe high-level organizational needs and objectives - increasing online sales by 20% is a clear business goal."
+  },
+  {
+    "question": "Which is a limitation of using surveys?",
+    "options": [
+      "A. May lack depth and context in responses",
+      "B. Allows broad participation",
+      "C. Gathers quantitative data",
+      "D. Reduces interview needs"
+    ],
+    "answer": "A",
+    "explanation": "Surveys typically provide broad but shallow information and may lack the depth and context that other elicitation techniques provide."
+  },
+  {
+    "question": "Which is a benefit of creating personas?",
+    "options": [
+      "A. Helps tailor solutions to specific user types",
+      "B. Guarantees user satisfaction",
+      "C. Eliminates usability testing",
+      "D. Reduces stakeholder diversity"
+    ],
+    "answer": "A",
+    "explanation": "Personas represent different user types and help teams design solutions that meet the specific needs of various user groups."
+  }
+]

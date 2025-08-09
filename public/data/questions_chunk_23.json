@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a security requirement?",
+    "options": [
+      "A. Encrypt all customer data at rest and in transit",
+      "B. Display account balance",
+      "C. Provide monthly report",
+      "D. Process payments"
+    ],
+    "answer": "A",
+    "explanation": "Security requirements specify how the system must protect data and resources - encryption requirements are typical security specifications."
+  },
+  {
+    "question": "Which is a limitation of competitor analysis?",
+    "options": [
+      "A. May not reveal internal weaknesses",
+      "B. Provides market insight",
+      "C. Identifies opportunities",
+      "D. Supports strategic planning"
+    ],
+    "answer": "A",
+    "explanation": "Competitor analysis focuses on external competitors and may not reveal the organization's own internal weaknesses or capability gaps."
+  },
+  {
+    "question": "Which is the purpose of elicitation activity planning?",
+    "options": [
+      "A. Define how, when, and from whom to elicit requirements",
+      "B. Document training needs",
+      "C. Create solution design",
+      "D. Conduct testing"
+    ],
+    "answer": "A",
+    "explanation": "Elicitation activity planning defines the approach for gathering requirements, including techniques, timing, and stakeholder involvement."
+  },
+  {
+    "question": "Which is an example of a usability metric?",
+    "options": [
+      "A. Average time to complete a task",
+      "B. Number of transactions processed",
+      "C. Amount of data stored",
+      "D. Server uptime percentage"
+    ],
+    "answer": "A",
+    "explanation": "Usability metrics measure how easy and efficient it is for users to interact with the system - task completion time is a key usability measure."
+  },
+  {
+    "question": "Which is a limitation of workshops?",
+    "options": [
+      "A. Requires significant preparation and coordination",
+      "B. Encourages collaboration",
+      "C. Builds shared understanding",
+      "D. Resolves conflicts"
+    ],
+    "answer": "A",
+    "explanation": "Workshops require extensive planning, scheduling coordination with multiple stakeholders, and careful facilitation to be effective."
+  }
+]

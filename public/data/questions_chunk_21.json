@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a benefit of process modeling?",
+    "options": [
+      "A. Clarifies workflow and identifies improvement areas",
+      "B. Guarantees efficiency gains",
+      "C. Eliminates all risks",
+      "D. Reduces documentation needs"
+    ],
+    "answer": "A",
+    "explanation": "Process modeling provides visual representation of workflows, helping to clarify processes and identify opportunities for improvement."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Data migration from old system to new system",
+      "B. Page must load in under 3 seconds",
+      "C. System must send notifications",
+      "D. User must log in"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data migration activities."
+  },
+  {
+    "question": "Which is a limitation of brainstorming?",
+    "options": [
+      "A. May produce too many low-quality ideas",
+      "B. Encourages creativity",
+      "C. Supports collaboration",
+      "D. Builds consensus"
+    ],
+    "answer": "A",
+    "explanation": "While brainstorming generates many ideas, the focus on quantity can sometimes result in many ideas that lack depth or practical value."
+  },
+  {
+    "question": "Which is a benefit of defining performance measures?",
+    "options": [
+      "A. Enables tracking progress toward objectives",
+      "B. Guarantees improvement",
+      "C. Eliminates need for testing",
+      "D. Reduces governance needs"
+    ],
+    "answer": "A",
+    "explanation": "Performance measures provide quantifiable metrics to track progress toward business objectives and assess success."
+  },
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. Generate monthly invoices for customers",
+      "B. Encrypt stored data",
+      "C. Load page within 2 seconds",
+      "D. Comply with data protection laws"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - generating monthly invoices is a specific system function."
+  }
+]
