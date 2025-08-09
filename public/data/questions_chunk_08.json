@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a business rule?",
+    "options": [
+      "A. Discounts apply only to orders over $100",
+      "B. System must allow user registration",
+      "C. Page must load in under 3 seconds",
+      "D. Encrypt stored passwords"
+    ],
+    "answer": "A",
+    "explanation": "Business rules are organizational policies that guide business operations - discount policies are typical business rules."
+  },
+  {
+    "question": "Which is a limitation of document analysis?",
+    "options": [
+      "A. May be outdated or incomplete",
+      "B. Avoids stakeholder interaction",
+      "C. Saves time and cost",
+      "D. Ensures accuracy"
+    ],
+    "answer": "A",
+    "explanation": "Existing documentation may not reflect current processes and may be outdated or incomplete."
+  },
+  {
+    "question": "Which is the primary benefit of benchmarking?",
+    "options": [
+      "A. Identifies performance gaps",
+      "B. Guarantees improvement",
+      "C. Reduces need for testing",
+      "D. Eliminates documentation"
+    ],
+    "answer": "A",
+    "explanation": "Benchmarking compares current performance against best practices or competitors to identify improvement opportunities."
+  },
+  {
+    "question": "Which is a characteristic of a good requirement?",
+    "options": [
+      "A. Clear, concise, and testable",
+      "B. Broad and flexible",
+      "C. Ambiguous for adaptability",
+      "D. Lengthy and detailed"
+    ],
+    "answer": "A",
+    "explanation": "Good requirements should be clear, concise, and testable to ensure they can be implemented and verified correctly."
+  },
+  {
+    "question": "Which is a key benefit of risk analysis?",
+    "options": [
+      "A. Identifies potential problems and mitigation strategies",
+      "B. Eliminates all risks",
+      "C. Guarantees success",
+      "D. Avoids stakeholder involvement"
+    ],
+    "answer": "A",
+    "explanation": "Risk analysis helps identify potential problems early and develop strategies to mitigate or manage them."
+  }
+]

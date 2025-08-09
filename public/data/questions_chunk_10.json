@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the main advantage of scenario analysis?",
+    "options": [
+      "A. Helps explore possible future situations",
+      "B. Guarantees predictions",
+      "C. Eliminates uncertainty",
+      "D. Speeds up decision-making"
+    ],
+    "answer": "A",
+    "explanation": "Scenario analysis explores different possible future situations to help with planning and decision-making under uncertainty."
+  },
+  {
+    "question": "Which is a limitation of brainstorming?",
+    "options": [
+      "A. May produce many irrelevant ideas",
+      "B. Encourages creativity",
+      "C. Engages multiple stakeholders",
+      "D. Generates innovative solutions"
+    ],
+    "answer": "A",
+    "explanation": "While brainstorming generates many ideas, not all ideas may be relevant or practical for the specific problem being addressed."
+  },
+  {
+    "question": "Which is the main benefit of using use cases?",
+    "options": [
+      "A. Provides detailed interaction between user and system",
+      "B. Defines solution scope",
+      "C. Validates business case",
+      "D. Improves training"
+    ],
+    "answer": "A",
+    "explanation": "Use cases describe detailed interactions between users (actors) and the system to achieve specific goals."
+  },
+  {
+    "question": "Which is a characteristic of an effective acceptance criterion?",
+    "options": [
+      "A. Clear, measurable, and testable",
+      "B. Broad and flexible",
+      "C. Ambiguous for adaptability",
+      "D. General and high-level"
+    ],
+    "answer": "A",
+    "explanation": "Effective acceptance criteria must be clear, measurable, and testable to provide objective validation of requirements."
+  },
+  {
+    "question": "Which is an example of a solution requirement?",
+    "options": [
+      "A. System must allow online payment",
+      "B. Business objective to increase revenue",
+      "C. Stakeholder need for better reporting",
+      "D. Training requirement"
+    ],
+    "answer": "A",
+    "explanation": "Solution requirements describe the capabilities and characteristics that the solution must have - online payment is a solution capability."
+  }
+]

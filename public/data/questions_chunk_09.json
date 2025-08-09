@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a qualitative risk assessment?",
+    "options": [
+      "A. High, Medium, Low rating",
+      "B. Probability × Impact calculation",
+      "C. Expected monetary value",
+      "D. Sensitivity analysis"
+    ],
+    "answer": "A",
+    "explanation": "Qualitative risk assessment uses descriptive scales like High/Medium/Low rather than numerical calculations."
+  },
+  {
+    "question": "Which is the primary purpose of a feasibility study?",
+    "options": [
+      "A. Assess the viability of a proposed initiative",
+      "B. Approve project funding",
+      "C. Develop solution design",
+      "D. Write business case"
+    ],
+    "answer": "A",
+    "explanation": "Feasibility studies evaluate whether a proposed initiative is technically, economically, and operationally viable."
+  },
+  {
+    "question": "Which is an example of a KPI?",
+    "options": [
+      "A. Average customer wait time",
+      "B. Number of stakeholders",
+      "C. List of requirements",
+      "D. System architecture"
+    ],
+    "answer": "A",
+    "explanation": "Key Performance Indicators (KPIs) are measurable values that demonstrate performance - customer wait time is a measurable metric."
+  },
+  {
+    "question": "Which is the main purpose of the task Define Future State?",
+    "options": [
+      "A. Describe the desired outcomes and capabilities",
+      "B. Document current processes",
+      "C. Prepare business case",
+      "D. Plan elicitation activities"
+    ],
+    "answer": "A",
+    "explanation": "Define Future State describes what the organization wants to achieve and the capabilities needed to get there."
+  },
+  {
+    "question": "Which is a primary input to the task Plan Business Analysis Approach?",
+    "options": [
+      "A. Business needs",
+      "B. Approved requirements",
+      "C. Traced requirements",
+      "D. Test cases"
+    ],
+    "answer": "A",
+    "explanation": "Business needs are a primary input used to determine the appropriate business analysis approach for the initiative."
+  }
+]

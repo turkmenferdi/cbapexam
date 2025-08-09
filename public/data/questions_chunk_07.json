@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a key purpose of the task Plan Stakeholder Engagement?",
+    "options": [
+      "A. Develop strategies for effective collaboration and communication",
+      "B. Approve stakeholder list",
+      "C. Conduct interviews",
+      "D. Create training plan"
+    ],
+    "answer": "A",
+    "explanation": "Plan Stakeholder Engagement develops strategies and approaches for effective collaboration and communication with stakeholders."
+  },
+  {
+    "question": "Which is an example of a constraint in requirements analysis?",
+    "options": [
+      "A. Limited budget",
+      "B. Stakeholder enthusiasm",
+      "C. Available technology",
+      "D. Business rules"
+    ],
+    "answer": "A",
+    "explanation": "Constraints are limiting factors that restrict options - limited budget is a common project constraint."
+  },
+  {
+    "question": "Which is a limitation of using surveys?",
+    "options": [
+      "A. May lack depth of information",
+      "B. Collects information quickly",
+      "C. Gathers feedback from many stakeholders",
+      "D. Allows anonymity"
+    ],
+    "answer": "A",
+    "explanation": "Surveys typically provide broad but shallow information and may lack the depth that interviews or workshops provide."
+  },
+  {
+    "question": "Which technique is most effective for reaching consensus on complex requirements?",
+    "options": [
+      "A. Facilitated workshops",
+      "B. Surveys",
+      "C. Document analysis",
+      "D. Observation"
+    ],
+    "answer": "A",
+    "explanation": "Facilitated workshops bring stakeholders together in a structured environment to discuss and reach consensus on complex issues."
+  },
+  {
+    "question": "Which is a primary use of the RACI matrix?",
+    "options": [
+      "A. Clarify stakeholder roles and responsibilities",
+      "B. Identify solution scope",
+      "C. Trace requirements",
+      "D. Validate requirements"
+    ],
+    "answer": "A",
+    "explanation": "RACI matrix defines who is Responsible, Accountable, Consulted, and Informed for various activities and decisions."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the purpose of the task Analyze Current State?",
+    "options": [
+      "A. Understand business needs and environment",
+      "B. Document solution design",
+      "C. Plan testing",
+      "D. Develop training material"
+    ],
+    "answer": "A",
+    "explanation": "Analyze Current State focuses on understanding the existing business environment, processes, and needs."
+  },
+  {
+    "question": "Which BABOK knowledge area includes \"Define Change Strategy\"?",
+    "options": [
+      "A. Strategy Analysis",
+      "B. Solution Evaluation",
+      "C. Requirements Analysis and Design Definition",
+      "D. Business Analysis Planning and Monitoring"
+    ],
+    "answer": "A",
+    "explanation": "Define Change Strategy is a task within the Strategy Analysis knowledge area of BABOK."
+  },
+  {
+    "question": "Which is a primary purpose of the task Plan Business Analysis Information Management?",
+    "options": [
+      "A. Define how requirements will be stored, accessed, and maintained",
+      "B. Identify training needs",
+      "C. Prepare test cases",
+      "D. Allocate resources"
+    ],
+    "answer": "A",
+    "explanation": "This task defines the approach for storing, accessing, and maintaining business analysis information throughout the project."
+  },
+  {
+    "question": "Which is an output of the task Conduct Elicitation?",
+    "options": [
+      "A. Elicitation results",
+      "B. Approved requirements",
+      "C. Validated requirements",
+      "D. Traced requirements"
+    ],
+    "answer": "A",
+    "explanation": "The primary output of Conduct Elicitation is elicitation results - the raw information gathered from stakeholders."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Data migration from legacy system",
+      "B. User interface design",
+      "C. Security requirement",
+      "D. Performance requirement"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, like data migration."
+  }
+]
