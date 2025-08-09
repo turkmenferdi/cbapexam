@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is an example of a business objective?",
+    "options": [
+      "A. Increase market share by 15% within one year",
+      "B. Implement user login",
+      "C. Create user guide",
+      "D. Migrate database"
+    ],
+    "answer": "A",
+    "explanation": "Business objectives are specific, measurable goals that support the organization's strategy - increasing market share by 15% is a clear business objective."
+  },
+  {
+    "question": "Which is a limitation of interviews?",
+    "options": [
+      "A. Can be time-consuming and resource-intensive",
+      "B. Encourages deep understanding",
+      "C. Allows probing questions",
+      "D. Builds relationships"
+    ],
+    "answer": "A",
+    "explanation": "While interviews provide valuable insights, they require significant time and resources to conduct properly with multiple stakeholders."
+  },
+  {
+    "question": "Which is a benefit of prioritizing requirements?",
+    "options": [
+      "A. Helps allocate resources effectively",
+      "B. Guarantees project success",
+      "C. Eliminates scope changes",
+      "D. Reduces cost automatically"
+    ],
+    "answer": "A",
+    "explanation": "Prioritizing requirements helps ensure that the most important features are developed first and resources are allocated to high-value items."
+  },
+  {
+    "question": "Which is the primary purpose of business analysis planning?",
+    "options": [
+      "A. Define approach, deliverables, and timelines for BA work",
+      "B. Create project budget",
+      "C. Develop system architecture",
+      "D. Prepare test cases"
+    ],
+    "answer": "A",
+    "explanation": "Business analysis planning defines how business analysis activities will be conducted, what deliverables will be produced, and when."
+  },
+  {
+    "question": "Which is an example of a risk mitigation strategy?",
+    "options": [
+      "A. Implement security controls to prevent breaches",
+      "B. Ignore low-probability risks",
+      "C. Accept all risks",
+      "D. Delay project start"
+    ],
+    "answer": "A",
+    "explanation": "Risk mitigation involves taking proactive actions to reduce the likelihood or impact of risks, such as implementing security controls."
+  }
+]

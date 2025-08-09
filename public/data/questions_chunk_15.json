@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of mind mapping?",
+    "options": [
+      "A. May become disorganized with too many ideas",
+      "B. Encourages creativity",
+      "C. Provides visual structure",
+      "D. Generates new connections"
+    ],
+    "answer": "A",
+    "explanation": "Mind maps can become cluttered and difficult to follow when they contain too many ideas or become overly complex."
+  },
+  {
+    "question": "Which is a benefit of conducting workshops?",
+    "options": [
+      "A. Encourages collaboration and shared understanding",
+      "B. Reduces stakeholder involvement",
+      "C. Eliminates need for documentation",
+      "D. Guarantees consensus"
+    ],
+    "answer": "A",
+    "explanation": "Workshops bring stakeholders together to collaborate, share knowledge, and develop a common understanding of requirements."
+  },
+  {
+    "question": "Which is the purpose of the task Plan Business Analysis Approach?",
+    "options": [
+      "A. Determine BA approach, deliverables, and activities",
+      "B. Approve project budget",
+      "C. Design system architecture",
+      "D. Conduct testing"
+    ],
+    "answer": "A",
+    "explanation": "This task defines the overall approach for conducting business analysis, including methodologies, deliverables, and activities."
+  },
+  {
+    "question": "Which is an example of a measurable KPI?",
+    "options": [
+      "A. Reduce average call wait time to under 30 seconds",
+      "B. Improve customer satisfaction",
+      "C. Increase efficiency",
+      "D. Reduce errors"
+    ],
+    "answer": "A",
+    "explanation": "A measurable KPI includes specific metrics and targets - reducing call wait time to under 30 seconds is specific and measurable."
+  },
+  {
+    "question": "Which is a limitation of using simulations?",
+    "options": [
+      "A. May not fully replicate real-world conditions",
+      "B. Encourages scenario testing",
+      "C. Improves risk analysis",
+      "D. Supports training"
+    ],
+    "answer": "A",
+    "explanation": "Simulations are simplified models that may not capture all the complexity and variables of real-world operating conditions."
+  }
+]

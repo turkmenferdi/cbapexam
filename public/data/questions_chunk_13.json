@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the main advantage of prototyping?",
+    "options": [
+      "A. Allows stakeholders to visualize requirements early",
+      "B. Eliminates documentation",
+      "C. Guarantees success",
+      "D. Reduces stakeholder involvement"
+    ],
+    "answer": "A",
+    "explanation": "Prototyping allows stakeholders to see and interact with a representation of the solution early in the development process."
+  },
+  {
+    "question": "Which is a limitation of benchmarking?",
+    "options": [
+      "A. May not account for unique organizational factors",
+      "B. Identifies performance gaps",
+      "C. Encourages improvement",
+      "D. Provides measurable data"
+    ],
+    "answer": "A",
+    "explanation": "Benchmarking compares against external standards which may not fully account for unique organizational circumstances and constraints."
+  },
+  {
+    "question": "Which is the purpose of the Define Change Strategy task?",
+    "options": [
+      "A. Develop a roadmap for moving from current to future state",
+      "B. Create project plan",
+      "C. Document test cases",
+      "D. Prepare training plan"
+    ],
+    "answer": "A",
+    "explanation": "Define Change Strategy creates a comprehensive approach for transitioning the organization from its current state to the desired future state."
+  },
+  {
+    "question": "Which is an example of a functional requirement?",
+    "options": [
+      "A. System must generate monthly sales reports",
+      "B. Encrypt all stored data",
+      "C. Load page in under 2 seconds",
+      "D. Comply with regulations"
+    ],
+    "answer": "A",
+    "explanation": "Functional requirements describe what the system must do - generating monthly sales reports is a specific system function."
+  },
+  {
+    "question": "Which is a limitation of role-playing as an elicitation technique?",
+    "options": [
+      "A. May not reflect real-world constraints",
+      "B. Encourages empathy",
+      "C. Improves communication",
+      "D. Generates insights"
+    ],
+    "answer": "A",
+    "explanation": "Role-playing exercises may oversimplify complex situations and not fully capture real-world constraints and pressures."
+  }
+]

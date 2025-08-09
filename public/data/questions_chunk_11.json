@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is a limitation of focus groups?",
+    "options": [
+      "A. May be dominated by outspoken participants",
+      "B. Encourages diverse perspectives",
+      "C. Generates new ideas",
+      "D. Builds stakeholder consensus"
+    ],
+    "answer": "A",
+    "explanation": "Focus groups can be dominated by vocal participants, potentially silencing quieter voices and creating biased results."
+  },
+  {
+    "question": "Which is the primary goal of solution evaluation?",
+    "options": [
+      "A. Assess performance and value delivered by the solution",
+      "B. Approve project funding",
+      "C. Define requirements",
+      "D. Develop business case"
+    ],
+    "answer": "A",
+    "explanation": "Solution evaluation focuses on measuring how well the implemented solution performs and the value it delivers to the organization."
+  },
+  {
+    "question": "Which is a benefit of stakeholder mapping?",
+    "options": [
+      "A. Helps identify and prioritize stakeholders",
+      "B. Eliminates need for stakeholder engagement",
+      "C. Guarantees stakeholder satisfaction",
+      "D. Reduces communication needs"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder mapping helps identify all relevant stakeholders and understand their relative importance and influence levels."
+  },
+  {
+    "question": "Which is an example of a transition requirement?",
+    "options": [
+      "A. Training for system users",
+      "B. System must process 1000 transactions per second",
+      "C. System must send email notifications",
+      "D. System must support mobile devices"
+    ],
+    "answer": "A",
+    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including user training."
+  },
+  {
+    "question": "Which is the main purpose of backlog refinement?",
+    "options": [
+      "A. Ensure backlog items are ready for development",
+      "B. Approve requirements",
+      "C. Document business case",
+      "D. Create test plans"
+    ],
+    "answer": "A",
+    "explanation": "Backlog refinement ensures that user stories and requirements are properly defined, estimated, and ready for development teams."
+  }
+]

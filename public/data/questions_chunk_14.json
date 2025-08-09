@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which is the primary benefit of defining KPIs?",
+    "options": [
+      "A. Enables measurement of performance against objectives",
+      "B. Guarantees improvement",
+      "C. Eliminates need for evaluation",
+      "D. Reduces cost"
+    ],
+    "answer": "A",
+    "explanation": "Key Performance Indicators provide measurable metrics to track progress toward business objectives and assess performance."
+  },
+  {
+    "question": "Which is a benefit of conducting a gap analysis?",
+    "options": [
+      "A. Identifies differences between current and desired states",
+      "B. Guarantees success",
+      "C. Eliminates risks",
+      "D. Avoids stakeholder input"
+    ],
+    "answer": "A",
+    "explanation": "Gap analysis systematically compares the current state with the desired future state to identify what needs to change."
+  },
+  {
+    "question": "Which is a limitation of using models in requirements analysis?",
+    "options": [
+      "A. May oversimplify complex processes",
+      "B. Improves understanding",
+      "C. Encourages clarity",
+      "D. Provides visual representation"
+    ],
+    "answer": "A",
+    "explanation": "Models abstract reality and may oversimplify complex business processes, potentially missing important nuances."
+  },
+  {
+    "question": "Which is the main purpose of acceptance criteria?",
+    "options": [
+      "A. Define the conditions under which a solution is accepted",
+      "B. Approve project funding",
+      "C. Develop solution design",
+      "D. Document risks"
+    ],
+    "answer": "A",
+    "explanation": "Acceptance criteria specify the conditions that must be met for a requirement or solution to be considered complete and acceptable."
+  },
+  {
+    "question": "Which is an example of a constraint?",
+    "options": [
+      "A. Limited availability of skilled staff",
+      "B. Desire for faster processing",
+      "C. Plan to expand market share",
+      "D. Goal to improve quality"
+    ],
+    "answer": "A",
+    "explanation": "Constraints are limiting factors that restrict project options - limited skilled staff availability is a common project constraint."
+  }
+]
