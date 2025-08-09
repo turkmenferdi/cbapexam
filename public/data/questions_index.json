@@ -1,7 +1,7 @@
 {
-  "total_questions": 100,
+  "total_questions": 150,
   "chunk_size": 5,
-  "num_chunks": 20,
+  "num_chunks": 30,
   "files": [
     "questions_chunk_01.json",
     "questions_chunk_02.json", 
@@ -22,6 +22,16 @@
     "questions_chunk_17.json",
     "questions_chunk_18.json",
     "questions_chunk_19.json",
-    "questions_chunk_20.json"
+    "questions_chunk_20.json",
+    "questions_chunk_21.json",
+    "questions_chunk_22.json",
+    "questions_chunk_23.json",
+    "questions_chunk_24.json",
+    "questions_chunk_25.json",
+    "questions_chunk_26.json",
+    "questions_chunk_27.json",
+    "questions_chunk_28.json",
+    "questions_chunk_29.json",
+    "questions_chunk_30.json"
   ]
 }
