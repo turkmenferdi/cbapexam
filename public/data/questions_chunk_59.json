@@ -1,57 +1,57 @@
 [
   {
-    "question": "Which is an example of a functional requirement?",
+    "question": "While defining what necessary conditions are required to achieve the business need for a highly regulated government client, a business analyst (BA) discovers\nthat some legacy policies will either constrain or are insufficient to achieve value desired by the future state.\nHow should the BA proceed?",
     "options": [
-      "A. Generate daily sales summary for management",
-      "B. Encrypt stored data",
-      "C. Support multiple browsers",
-      "D. Load homepage in 2 seconds"
+      "A. Modify the solution to comply with the policies",
+      "B. Identify an assumption about future state value",
+      "C. Model two future states, one with and another without these policies",
+      "D. Obtain approval to change the policies"
     ],
-    "answer": "A",
-    "explanation": "Functional requirements describe what the system must do - generating daily sales summaries is a specific system function."
+    "answer": "C",
+    "explanation": ""
   },
   {
-    "question": "Which is a limitation of observation?",
+    "question": "In performing the task of planning for business analysis governance for a software implementation project, the business analyst (BA) recommends that\nprioritization of requirements be done based on the amount of work that the project team is capable of delivering in a given period of time.\nWhich of the following techniques is the BA recommending?",
     "options": [
-      "A. May fail to capture rare events",
-      "B. Improves understanding",
-      "C. Clarifies process flow",
-      "D. Ensures accuracy"
+      "A. Negotiation",
+      "B. Grouping",
+      "C. Time Boxing",
+      "D. Budgeting"
     ],
-    "answer": "A",
-    "explanation": "Observation typically captures routine activities but may miss infrequent, exception, or seasonal events that are also important."
+    "answer": "C",
+    "explanation": ""
   },
   {
-    "question": "Which is the purpose of transition requirements?",
+    "question": "A business analyst (BA) plans to hold a workshop next week to elicit requirements for a project. In an informal conversation, another employee mentioned that one\nof the attendees is likely to be unhappy about the project's impact on their work.\nWhich of the following techniques will the BA use to avoid disrupting the workshop?",
     "options": [
-      "A. Support migration from current to target state",
-      "B. Define scope boundaries",
-      "C. Approve requirements",
-      "D. Plan test execution"
+      "A. Elicitation Activity Plan",
+      "B. Collaborative Games",
+      "C. Stakeholder List",
+      "D. Risk Analysis and Management"
     ],
-    "answer": "A",
-    "explanation": "Transition requirements describe the capabilities and activities needed to successfully migrate from current to target state."
+    "answer": "B",
+    "explanation": ""
   },
   {
-    "question": "Which is an example of a non-functional requirement?",
+    "question": "A business analyst (BA) at a regional bank has recently been assigned to assist on a project to expand into new markets. The chief executive officer (CEO)\nenvisions the bank as a national brand and has asked the chief financial officer (CFO) to monitor project progress closely. The project manager (PM) has asked\nthe BAs on the team to recommend an appropriate business analysis approach.\nBased on the nature of the project and the industry, which approach should they recommend?",
     "options": [
-      "A. System must respond to queries within 2 seconds",
-      "B. Allow account creation",
-      "C. Display cart contents",
-      "D. Process returns"
+      "A. An unstructured approach utilizing informal team interaction, model-driven documentation standards, and iterative requirements development",
+      "B. An agile approach with frequent team interaction, adaptive documentation standards, and iterative requirements development",
+      "C. A moderate approach utilizing the bank's existing waterfall project lifecycle and documentation deliverables not requiring formal approval",
+      "D. A formal approach with planned team interaction, agreed upon documentation deliverables requiring formal approval, and front-loaded requirements development"
     ],
-    "answer": "A",
-    "explanation": "Non-functional requirements specify quality attributes and performance criteria - response time targets are performance requirements."
+    "answer": "B",
+    "explanation": ""
   },
   {
-    "question": "Which is a limitation of historical trends?",
+    "question": "While reviewing a subset of requirements with stakeholders, a business analyst (BA) finds a requirement that does not deliver benefit to any of the stakeholders.\nAfter much discussion, the stakeholders decide that the requirement does not align with the solution scope.\nWhat recommendation will the BA make?",
     "options": [
-      "A. May not account for significant disruptions",
-      "B. Supports predictions",
-      "C. Improves accuracy",
-      "D. Reduces uncertainty"
+      "A. Update the solution design",
+      "B. Re-evaluate the future state",
+      "C. Change the solution scope",
+      "D. Eliminate the requirement"
     ],
-    "answer": "A",
-    "explanation": "Historical trends are based on past patterns and may not predict significant disruptions or disruptive market changes."
+    "answer": "D",
+    "explanation": ""
   }
 ]
