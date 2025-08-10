@@ -7,7 +7,7 @@
       "C. System must display account balance",
       "D. System must send email notifications"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Encryption is a non-functional requirement related to security, while the others are functional requirements describing what the system does."
   },
   {
@@ -18,7 +18,7 @@
       "C. Document analysis",
       "D. Surveys"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Observation allows analysts to see actual work being performed and can reveal hidden requirements that stakeholders may not explicitly mention."
   },
   {
@@ -29,7 +29,7 @@
       "C. Delay until consensus forms naturally",
       "D. Document both versions without resolution"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Facilitated workshops provide a structured environment to work through disagreements and reach consensus."
   },
   {
@@ -40,7 +40,7 @@
       "C. Traced requirements",
       "D. Verified requirements"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "The primary output of the Validate Requirements task is validated requirements that have been confirmed as correct and complete."
   },
   {
