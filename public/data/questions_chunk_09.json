@@ -7,7 +7,7 @@
       "C. Expected monetary value",
       "D. Sensitivity analysis"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Qualitative risk assessment uses descriptive scales like High/Medium/Low rather than numerical calculations."
   },
   {
@@ -40,7 +40,7 @@
       "C. Prepare business case",
       "D. Plan elicitation activities"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Define Future State describes what the organization wants to achieve and the capabilities needed to get there."
   },
   {
@@ -51,7 +51,7 @@
       "C. Traced requirements",
       "D. Test cases"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Business needs are a primary input used to determine the appropriate business analysis approach for the initiative."
   }
 ]

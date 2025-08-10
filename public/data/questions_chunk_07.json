@@ -18,7 +18,7 @@
       "C. Available technology",
       "D. Business rules"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Constraints are limiting factors that restrict options - limited budget is a common project constraint."
   },
   {
@@ -29,7 +29,7 @@
       "C. Gathers feedback from many stakeholders",
       "D. Allows anonymity"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Surveys typically provide broad but shallow information and may lack the depth that interviews or workshops provide."
   },
   {
@@ -40,7 +40,7 @@
       "C. Document analysis",
       "D. Observation"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Facilitated workshops bring stakeholders together in a structured environment to discuss and reach consensus on complex issues."
   },
   {
@@ -51,7 +51,7 @@
       "C. Trace requirements",
       "D. Validate requirements"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "RACI matrix defines who is Responsible, Accountable, Consulted, and Informed for various activities and decisions."
   }
 ]

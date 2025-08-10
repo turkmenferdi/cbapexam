@@ -18,7 +18,7 @@
       "C. Engages multiple stakeholders",
       "D. Generates innovative solutions"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "While brainstorming generates many ideas, not all ideas may be relevant or practical for the specific problem being addressed."
   },
   {
@@ -29,7 +29,7 @@
       "C. Validates business case",
       "D. Improves training"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Use cases describe detailed interactions between users (actors) and the system to achieve specific goals."
   },
   {

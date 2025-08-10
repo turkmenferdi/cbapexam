@@ -18,7 +18,7 @@
       "C. Saves time and cost",
       "D. Ensures accuracy"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Existing documentation may not reflect current processes and may be outdated or incomplete."
   },
   {
@@ -29,7 +29,7 @@
       "C. Reduces need for testing",
       "D. Eliminates documentation"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Benchmarking compares current performance against best practices or competitors to identify improvement opportunities."
   },
   {
@@ -51,7 +51,7 @@
       "C. Guarantees success",
       "D. Avoids stakeholder involvement"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Risk analysis helps identify potential problems early and develop strategies to mitigate or manage them."
   }
 ]

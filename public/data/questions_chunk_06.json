@@ -18,7 +18,7 @@
       "C. Requirements Analysis and Design Definition",
       "D. Business Analysis Planning and Monitoring"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Define Change Strategy is a task within the Strategy Analysis knowledge area of BABOK."
   },
   {
@@ -29,7 +29,7 @@
       "C. Prepare test cases",
       "D. Allocate resources"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "This task defines the approach for storing, accessing, and maintaining business analysis information throughout the project."
   },
   {
@@ -40,7 +40,7 @@
       "C. Validated requirements",
       "D. Traced requirements"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The primary output of Conduct Elicitation is elicitation results - the raw information gathered from stakeholders."
   },
   {
@@ -51,7 +51,7 @@
       "C. Security requirement",
       "D. Performance requirement"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Transition requirements describe capabilities needed to move from current to future state, like data migration."
   }
 ]
