@@ -18,7 +18,7 @@
       "C. Allows detailed exploration",
       "D. Encourages clarification"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Interviews require significant time investment from both analysts and stakeholders, making them resource-intensive for large projects."
   },
   {
@@ -40,7 +40,7 @@
       "C. Display reports",
       "D. Store data for 7 years"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Performance requirements specify quantifiable system performance criteria - transaction processing rate is a key performance measure."
   },
   {
@@ -51,7 +51,7 @@
       "C. Builds shared understanding",
       "D. Resolves conflicts"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Workshops require extensive planning, skilled facilitation, and coordination with multiple stakeholders to be effective."
   }
 ]
