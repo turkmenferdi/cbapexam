@@ -18,7 +18,7 @@
       "C. Eliminates documentation",
       "D. Speeds development"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Prototyping allows stakeholders to see and interact with a representation of the solution early, enabling validation and refinement of requirements."
   },
   {
@@ -40,7 +40,7 @@
       "C. Improves accuracy",
       "D. Clarifies process steps"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "The presence of an observer may cause people to alter their normal behavior patterns, affecting the accuracy of observations."
   },
   {
@@ -51,7 +51,7 @@
       "C. Define technical requirements",
       "D. Plan testing"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Business process models visualize workflows to help understand, analyze, and identify opportunities for process improvement."
   }
 ]
