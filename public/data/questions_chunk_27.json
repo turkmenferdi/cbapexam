@@ -7,7 +7,7 @@
       "C. Encrypt passwords",
       "D. Send notification emails"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Regulatory compliance requirements mandate adherence to specific laws and regulations like HIPAA for healthcare data protection."
   },
   {
@@ -40,7 +40,7 @@
       "C. Process transactions",
       "D. Load pages quickly"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Usability requirements specify how the system should be designed for ease of use - accessibility features like font size adjustment are usability requirements."
   },
   {

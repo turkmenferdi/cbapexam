@@ -7,7 +7,7 @@
       "C. Load page quickly",
       "D. Support multiple browsers"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - managers needing to approve expense reports represents a stakeholder need."
   },
   {
@@ -18,7 +18,7 @@
       "C. Provides comparative data",
       "D. Supports improvement"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Benchmarking compares against external standards that may not fully account for the organization's unique context, culture, and constraints."
   },
   {
@@ -29,7 +29,7 @@
       "C. Identify risks",
       "D. Document KPIs"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Transition requirements describe the capabilities needed to successfully move the organization from its current state to the desired future state."
   },
   {
@@ -40,7 +40,7 @@
       "C. Goal to increase sales",
       "D. Plan to expand market"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "System constraints are limiting factors that restrict project options - budget limits are typical project constraints that affect solution choices."
   },
   {
@@ -51,7 +51,7 @@
       "C. Generates new ideas",
       "D. Supports collaboration"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Role-playing exercises are simulated scenarios that may not fully capture the complexity and pressures of the actual working environment."
   }
 ]

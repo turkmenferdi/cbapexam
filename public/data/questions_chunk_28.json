@@ -7,7 +7,7 @@
       "C. Eliminates risks",
       "D. Reduces governance"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Measurable objectives include specific metrics and targets that enable progress tracking and objective evaluation of success."
   },
   {
@@ -18,7 +18,7 @@
       "C. Load page in 2 seconds",
       "D. Support multiple languages"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Functional requirements describe specific system behaviors - allowing users to reset passwords is a discrete system function."
   },
   {
@@ -29,7 +29,7 @@
       "C. Enhances understanding",
       "D. Builds trust"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Job shadowing can be disruptive to the observed employee's normal work routine and may create stress or altered behavior."
   },
   {
@@ -40,7 +40,7 @@
       "C. Avoid scope changes",
       "D. Simplify delivery"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Backlog prioritization ensures that the highest value features and requirements are developed and delivered first to maximize business value."
   },
   {
@@ -51,7 +51,7 @@
       "C. System must allow product search",
       "D. System must display prices"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Non-functional requirements specify quality attributes and performance criteria - page load time is a performance requirement."
   }
 ]

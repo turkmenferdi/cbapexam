@@ -29,7 +29,7 @@
       "C. Increase reliability",
       "D. Reduce downtime"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "A measurable KPI includes specific numeric targets - 99.9% uptime provides a clear, quantifiable performance standard."
   },
   {
@@ -40,7 +40,7 @@
       "C. Provides visual clarity",
       "D. Supports analysis"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Process models typically show formal procedures but may miss informal workarounds and actual practices used by employees."
   },
   {
