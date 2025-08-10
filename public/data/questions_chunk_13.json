@@ -7,7 +7,7 @@
       "C. Guarantees success",
       "D. Reduces stakeholder involvement"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Prototyping allows stakeholders to see and interact with a representation of the solution early in the development process."
   },
   {
@@ -18,7 +18,7 @@
       "C. Encourages improvement",
       "D. Provides measurable data"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Benchmarking compares against external standards which may not fully account for unique organizational circumstances and constraints."
   },
   {
@@ -29,7 +29,7 @@
       "C. Document test cases",
       "D. Prepare training plan"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Define Change Strategy creates a comprehensive approach for transitioning the organization from its current state to the desired future state."
   },
   {
@@ -40,7 +40,7 @@
       "C. Load page in under 2 seconds",
       "D. Comply with regulations"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Functional requirements describe what the system must do - generating monthly sales reports is a specific system function."
   },
   {
@@ -51,7 +51,7 @@
       "C. Improves communication",
       "D. Generates insights"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Role-playing exercises may oversimplify complex situations and not fully capture real-world constraints and pressures."
   }
 ]

@@ -7,18 +7,18 @@
       "C. Create user guide",
       "D. Migrate database"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Business objectives are specific, measurable goals that support the organization's strategy - increasing market share by 15% is a clear business objective."
   },
   {
     "question": "Which is a limitation of interviews?",
     "options": [
       "A. Can be time-consuming and resource-intensive",
-      "B. Encourages deep understanding",
-      "C. Allows probing questions",
+      "B. Encourages relationship building",
+      "C. Allows detailed responses",
       "D. Builds relationships"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "While interviews provide valuable insights, they require significant time and resources to conduct properly with multiple stakeholders."
   },
   {
@@ -29,7 +29,7 @@
       "C. Eliminates scope changes",
       "D. Reduces cost automatically"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Prioritizing requirements helps ensure that the most important features are developed first and resources are allocated to high-value items."
   },
   {
@@ -40,7 +40,7 @@
       "C. Develop system architecture",
       "D. Prepare test cases"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Business analysis planning defines how business analysis activities will be conducted, what deliverables will be produced, and when."
   },
   {

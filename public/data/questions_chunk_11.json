@@ -7,7 +7,7 @@
       "C. Generates new ideas",
       "D. Builds stakeholder consensus"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Focus groups can be dominated by vocal participants, potentially silencing quieter voices and creating biased results."
   },
   {
@@ -18,7 +18,7 @@
       "C. Define requirements",
       "D. Develop business case"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Solution evaluation focuses on measuring how well the implemented solution performs and the value it delivers to the organization."
   },
   {
@@ -29,7 +29,7 @@
       "C. Guarantees stakeholder satisfaction",
       "D. Reduces communication needs"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Stakeholder mapping helps identify all relevant stakeholders and understand their relative importance and influence levels."
   },
   {
@@ -40,7 +40,7 @@
       "C. System must send email notifications",
       "D. System must support mobile devices"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Transition requirements describe capabilities needed to move from current to future state, including user training."
   },
   {
@@ -51,7 +51,7 @@
       "C. Document business case",
       "D. Create test plans"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Backlog refinement ensures that user stories and requirements are properly defined, estimated, and ready for development teams."
   }
 ]
