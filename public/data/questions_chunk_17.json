@@ -7,7 +7,7 @@
       "C. Encrypt all stored data",
       "D. Support multiple languages"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Business rules define organizational policies and procedures - requiring manager approval for large loans is a typical business rule."
   },
   {
@@ -18,7 +18,7 @@
       "C. Improves flexibility",
       "D. Supports agile delivery"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "User stories are intentionally brief and may require additional detail through acceptance criteria and conversations to guide development."
   },
   {
@@ -29,7 +29,7 @@
       "C. Guarantees funding",
       "D. Reduces need for governance"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Defining the future state provides clarity about what the organization wants to achieve and the capabilities needed to get there."
   },
   {
@@ -51,7 +51,7 @@
       "C. Transferring risk to vendor",
       "D. Reducing risk impact"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Risk avoidance involves eliminating the risk entirely by changing plans or canceling activities that create the risk."
   }
 ]

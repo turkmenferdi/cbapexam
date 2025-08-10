@@ -7,7 +7,7 @@
       "C. Eliminates all risks",
       "D. Simplifies documentation"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Fishbone diagrams (cause and effect diagrams) systematically explore potential root causes of problems across different categories."
   },
   {
@@ -29,7 +29,7 @@
       "C. Load pages in 2 seconds",
       "D. Process payments"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Usability requirements describe how easy and accessible the system should be for users - accessibility for visually impaired users is a usability requirement."
   },
   {
@@ -40,7 +40,7 @@
       "C. Improves understanding",
       "D. Identifies inefficiencies"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Being observed during job shadowing may cause people to change their normal behavior patterns, affecting the accuracy of observations."
   },
   {
@@ -51,7 +51,7 @@
       "C. Eliminate need for validation",
       "D. Avoid governance"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Requirements traceability ensures that each requirement can be traced from business need through to implementation and testing, confirming value delivery."
   }
 ]

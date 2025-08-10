@@ -18,7 +18,7 @@
       "C. Document test cases",
       "D. Plan solution design"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Conduct Elicitation involves actively gathering information from stakeholders to understand their needs and requirements."
   },
   {
@@ -40,7 +40,7 @@
       "C. Supports prioritization",
       "D. Reduces waste"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Pareto analysis focuses on the 80/20 rule but may oversimplify complex problems that don't follow this pattern."
   },
   {
@@ -51,7 +51,7 @@
       "C. Eliminates uncertainty",
       "D. Reduces need for risk analysis"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Scenario analysis explores different possible future conditions to help with planning and decision-making under uncertainty."
   }
 ]

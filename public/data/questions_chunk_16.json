@@ -7,7 +7,7 @@
       "C. Eliminates conflict",
       "D. Reduces cost"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Stakeholder prioritization helps focus limited time and resources on engaging with the most influential and important stakeholders."
   },
   {
@@ -18,7 +18,7 @@
       "C. System must display balance",
       "D. System must send notifications"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Non-functional requirements specify quality attributes like performance - page load time is a performance requirement."
   },
   {
@@ -29,7 +29,7 @@
       "C. Reduces errors",
       "D. Improves efficiency"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Checklists may lead to a 'tick-box' mentality where people focus on minimal compliance rather than continuous improvement."
   },
   {
@@ -40,7 +40,7 @@
       "C. Guarantees improvement",
       "D. Reduces need for monitoring"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "SWOT analysis systematically evaluates internal strengths and weaknesses alongside external opportunities and threats."
   },
   {
