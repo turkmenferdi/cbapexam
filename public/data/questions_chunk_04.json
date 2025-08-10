@@ -18,7 +18,7 @@
       "C. Eliminates need for documentation",
       "D. Speeds up testing"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Root cause analysis helps identify the underlying problems that cause symptoms, allowing for more effective solutions."
   },
   {
@@ -35,7 +35,7 @@
   {
     "question": "Which is a limitation of observation?",
     "options": [
-      "A. May alter stakeholder behavior",
+      "A. May alter stakeholder behavior during process execution",
       "B. Captures actual process steps",
       "C. Provides real-time data",
       "D. Identifies inefficiencies"
@@ -51,7 +51,7 @@
       "C. Provide better service",
       "D. Reduce complaints"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "A measurable objective includes specific metrics (10%) and timeframes (six months), making progress trackable."
   }
 ]
