@@ -1,57 +1,57 @@
 [
   {
-    "question": "Which is a benefit of stakeholder analysis?",
+    "question": "A business analyst (BA) works for a financial institution that wants to acquire new systems and migrate all future business operations to the new systems. The BA\nis responsible for performing a gap analysis and has reviewed the current state of systems.\nWhat is the next task that the BA needs to do to complete the gap analysis?",
     "options": [
-      "A. Identifies expectations, influence, and engagement approach",
-      "B. Guarantees agreement",
-      "C. Eliminates the need for communication plans",
-      "D. Avoids stakeholder conflict entirely"
+      "A. Identify performance measures",
+      "B. Define the future state capabilities",
+      "C. Categorize risks factors",
+      "D. Select the stakeholder engagement approach"
     ],
-    "answer": "A",
-    "explanation": "Stakeholder analysis helps identify stakeholder expectations, their level of influence, and the most appropriate approach for engaging with them."
+    "answer": "B",
+    "explanation": ""
   },
   {
-    "question": "Which is an example of a transition requirement?",
+    "question": "A business analyst (BA) has completed the prioritization of requirements with various risk-averse stakeholder groups. Several requirements conflict with a\nregulatory requirement that, if not implemented, will result in a fine from a regulatory body.\nWhat should the BA do?",
     "options": [
-      "A. Train finance staff on the new accounting system before go-live",
-      "B. Encrypt passwords",
-      "C. Display invoices",
-      "D. Process payroll"
+      "A. Measure the value of the other requirements against the penalty of not meeting the regulatory requirement",
+      "B. Compare the regulatory requirement to the recommended solution",
+      "C. Determine a means to work around the regulatory requirement",
+      "D. Inform the stakeholders that the regulatory requirement takes precedence over other requirements"
     ],
-    "answer": "A",
-    "explanation": "Transition requirements describe capabilities needed to move from current to future state, including staff training on new systems."
+    "answer": "D",
+    "explanation": ""
   },
   {
-    "question": "Which is a limitation of workshops?",
+    "question": "A large company has thousands of geographically dispersed employees and dozens of IT systems. Multiple business analysts (BAs) work in parallel on various\nrequirements with different stakeholders. When considered in isolation, the requirements look meaningful and valuable to those who approved them. However,\nwhen it comes to implementation, some of the requirements appear to be contradicting each other. A lead BA recognizes that adding some traceability information\nwould help uncover such conflicts early in the process.\nTo what should the BA trace the requirements?",
     "options": [
-      "A. Requires skilled facilitation to manage discussions effectively",
-      "B. Encourages collaboration",
-      "C. Builds shared understanding",
-      "D. Accelerates decision-making"
+      "A. Stakeholder tasks",
+      "B. Business needs",
+      "C. Organizational functions",
+      "D. Solution components"
     ],
-    "answer": "A",
-    "explanation": "Workshops require skilled facilitation to manage group dynamics, keep discussions focused, and ensure productive outcomes."
+    "answer": "B",
+    "explanation": ""
   },
   {
-    "question": "Which is the purpose of risk analysis?",
+    "question": "A multi-domain project has stakeholders with different technical backgrounds. The presentation prepared by the business analyst (BA) for domain 1 was also used\nfor domain 2 but the presentation was not clear and caused concerns for stakeholders in domain 2.\nWhat can the BA do to alleviate the concerns of the stakeholders in domain 2?",
     "options": [
-      "A. Assess probability and impact of potential risks",
-      "B. Approve scope",
-      "C. Plan test execution",
-      "D. Define KPIs"
+      "A. Create a survey applicable for the stakeholders in domain 2.",
+      "B. Produce an estimation applicable for the stakeholders in domain 2.",
+      "C. Present a model applicable for the stakeholders in domain 2.",
+      "D. Develop a backlog applicable for the stakeholders in domain 2."
     ],
-    "answer": "A",
-    "explanation": "Risk analysis systematically evaluates the likelihood and potential impact of risks to develop appropriate management strategies."
+    "answer": "C",
+    "explanation": ""
   },
   {
-    "question": "Which is an example of a business rule?",
+    "question": "The objective of a solution implemented was to increase the number of customer calls resolved per hour.\nWhen using basic statistical sampling concepts, what does the business analyst (BA) need to consider?",
     "options": [
-      "A. Only registered users can submit product reviews",
-      "B. Encrypt stored data",
-      "C. Load homepage in under 2 seconds",
-      "D. Provide a shopping cart"
+      "A. Metrics and Key Performance Indicators (KPIs)",
+      "B. Frequency and Timing",
+      "C. Financial Analysis",
+      "D. Benchmarking and Market Analysis"
     ],
     "answer": "A",
-    "explanation": "Business rules define organizational policies and procedures - restricting review submissions to registered users is a typical business rule."
+    "explanation": ""
   }
 ]
