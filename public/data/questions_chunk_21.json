@@ -18,7 +18,7 @@
       "C. System must send notifications",
       "D. User must log in"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data migration activities."
   },
   {
@@ -29,7 +29,7 @@
       "C. Supports collaboration",
       "D. Builds consensus"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "While brainstorming generates many ideas, the focus on quantity can sometimes result in many ideas that lack depth or practical value."
   },
   {
@@ -40,7 +40,7 @@
       "C. Eliminates need for testing",
       "D. Reduces governance needs"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Performance measures provide quantifiable metrics to track progress toward business objectives and assess success."
   },
   {
