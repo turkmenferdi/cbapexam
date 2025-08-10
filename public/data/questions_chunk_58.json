@@ -1,57 +1,57 @@
 [
   {
-    "question": "Which is a limitation of decision trees?",
+    "question": "A company that specialized in manufacturing vending machines for books has been in business for 10 years. As the e-book and online retailing grow, the\ncompany perceived that a change is required to respond to the new emerging market forces. However, the change should focus on reusability as much as\npossible to reduce expenses. After analyzing the current state with the business subject matter experts, the business analyst (BA) proposed investing in a new\nbusiness line of vending machines that sell pay per use mobile device phone fast charging stations.\nDue to the urgency of this change, the BA was asked to finalize requirements elicitation in the shortest possible time.\nCustomers who want to utilize the pay per use mobile device fast charging stations may choose one of two features: fully charged (F1) or partially charged (F2). If\npartially charged is selected, the customer needs to specify their charging needs.\nWhat is the relationship between Fl and F2?",
     "options": [
-      "A. Can oversimplify scenarios with many variables",
-      "B. Improves decision-making",
-      "C. Provides clarity",
-      "D. Identifies best option"
+      "A. Validate",
+      "B. Derive",
+      "C. Depends",
+      "D. Satisfy"
     ],
-    "answer": "A",
-    "explanation": "Decision trees may oversimplify complex situations that involve many variables, uncertainties, and subjective factors."
+    "answer": "B",
+    "explanation": ""
   },
   {
-    "question": "Which is the purpose of business capability analysis?",
+    "question": "A business analyst (BA) is facilitating a meeting between process owners to capture the business rules for a workflow solution. One of the attendees expresses a\nstrong opinion that the solution will not deliver the expected value.\nHow will the BA ensure the process owner remains engaged and will support the change?",
     "options": [
-      "A. Identify organizational strengths and gaps to support strategy",
-      "B. Document technical specifications",
-      "C. Approve project scope",
-      "D. Plan testing"
+      "A. Update the requirements",
+      "B. Record the feedback and continue",
+      "C. Review the future state",
+      "D. Change the governance approach"
     ],
-    "answer": "A",
-    "explanation": "Business capability analysis evaluates the organization's current capabilities to identify strengths, gaps, and improvement opportunities."
+    "answer": "B",
+    "explanation": ""
   },
   {
-    "question": "Which is an example of a data quality metric?",
+    "question": "A project's change in scope is assessed and a newly assigned business analyst (BA) is unsure how to communicate the findings and final decision to the wider\nstakeholder group.\nIn which of the following can the BA find this information?",
     "options": [
-      "A. Percentage of inaccurate entries in the database",
-      "B. Total customer count",
-      "C. Database storage size",
-      "D. Number of transactions per hour"
+      "A. Stakeholder Communications Plan",
+      "B. Business case",
+      "C. Business policies",
+      "D. Governance approach"
     ],
     "answer": "A",
-    "explanation": "Data quality metrics measure the accuracy, completeness, and reliability of data - percentage of inaccurate entries indicates data accuracy."
+    "explanation": ""
   },
   {
-    "question": "Which is a limitation of root cause analysis?",
+    "question": "A local manufacturer that serves about 1000 retail stores is experiencing a slow yet steady decrease of its customer base over the last couple of years. Attributing\nthe situation to increased competition, management has hired a team of sales representatives to attract new clients and promote the manufacturer's products.\nHowever, after four months there is still no progress. Management has engaged a business analyst (BA) to investigate this issue.\nWhat should the BA do first?",
     "options": [
-      "A. May take significant time for complex issues",
-      "B. Improves solutions",
-      "C. Prevents recurrence",
-      "D. Identifies causes"
+      "A. Perform market research to identify on which competitive advantages the sales team should focus",
+      "B. Create a training program to close potential skill gaps for the sales team",
+      "C. Review historic sales and related data to understand what is happening to the customer base",
+      "D. Identify appropriate training providers and send out a request for proposal"
     ],
-    "answer": "A",
-    "explanation": "Root cause analysis can be time-consuming and resource-intensive, especially for complex problems with multiple contributing factors."
+    "answer": "C",
+    "explanation": ""
   },
   {
-    "question": "Which is a benefit of defining solution scope?",
+    "question": "A new project has to implement a cyber security release in China, Italy, Germany, the United States, and Canada. The project is a $5 million initiative and must 'go\nlive' in production in all countries on the same day and time to be effective.\nWhich of the approaches mentioned is suitable for this project based on the size and complexity?",
     "options": [
-      "A. Sets boundaries to prevent scope creep",
-      "B. Guarantees approval",
-      "C. Eliminates need for testing",
-      "D. Avoids governance"
+      "A. An agile and iterative approach",
+      "B. A waterfall and dynamic approach",
+      "C. A kanban and predictive approach",
+      "D. A proven and tailored analysis approach"
     ],
     "answer": "A",
-    "explanation": "Solution scope defines what is included and excluded, providing clear boundaries that help prevent uncontrolled scope expansion."
+    "explanation": ""
   }
 ]
