@@ -7,7 +7,7 @@
       "C. Improves decision quality",
       "D. Prioritizes options"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Decision trees may oversimplify complex decisions that involve many variables, uncertainties, and subjective factors."
   },
   {
@@ -18,7 +18,7 @@
       "C. Approve project budget",
       "D. Plan training"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Business capability analysis evaluates the organization's current capabilities to identify strengths, weaknesses, and improvement areas."
   },
   {
@@ -29,7 +29,7 @@
       "C. Total storage space used",
       "D. Number of servers"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Data quality metrics measure the accuracy, completeness, and reliability of data - percentage of missing values indicates completeness."
   },
   {
@@ -40,7 +40,7 @@
       "C. Prevents recurrence",
       "D. Identifies problems"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Root cause analysis can be time-consuming and resource-intensive, especially for complex problems with multiple contributing factors."
   },
   {
@@ -51,7 +51,7 @@
       "C. Eliminates risk",
       "D. Reduces governance needs"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Solution scope defines what is included and excluded, providing clear boundaries that guide development and implementation efforts."
   }
 ]

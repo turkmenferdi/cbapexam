@@ -7,7 +7,7 @@
       "C. Reduce governance",
       "D. Eliminate documentation"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Performance measures provide metrics to track progress toward objectives and evaluate the success of initiatives."
   },
   {
@@ -18,7 +18,7 @@
       "C. Encrypt passwords",
       "D. Process refunds"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Compliance requirements mandate adherence to specific standards, regulations, or certifications like ISO 27001."
   },
   {
@@ -29,7 +29,7 @@
       "C. Encourages creativity",
       "D. Generates scenarios"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Role-playing exercises are simulated scenarios that may not capture all the complexities and pressures of real situations."
   },
   {
@@ -40,7 +40,7 @@
       "C. Eliminates documentation",
       "D. Reduces governance needs"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Data flow diagrams provide visual representation of how data moves through a system and is transformed at different stages."
   },
   {
@@ -51,7 +51,7 @@
       "C. Load product images",
       "D. Process orders"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Usability requirements specify how the system should be designed for ease of use - keyboard shortcuts improve user efficiency."
   }
 ]
