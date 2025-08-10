@@ -7,7 +7,7 @@
       "C. Eliminates need for communication plans",
       "D. Reduces risk management effort"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Stakeholder analysis helps identify all relevant stakeholders and understand their needs, interests, and influence levels early in the project."
   },
   {
@@ -18,7 +18,7 @@
       "C. Display product catalog",
       "D. Process order payments"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data migration activities."
   },
   {
@@ -29,7 +29,7 @@
       "C. Builds consensus",
       "D. Accelerates decisions"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Workshops require coordinating multiple stakeholders' schedules, which can be challenging and may delay the process."
   },
   {
@@ -40,7 +40,7 @@
       "C. Define KPIs",
       "D. Plan deployment"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Risk analysis systematically evaluates the likelihood and potential impact of risks to develop appropriate response strategies."
   },
   {
@@ -51,7 +51,7 @@
       "C. Encrypt all stored passwords",
       "D. Provide search capability"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Business rules define organizational policies and procedures - refund time limits are typical business rules."
   }
 ]

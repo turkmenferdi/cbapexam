@@ -7,7 +7,7 @@
       "C. Reduce need for monitoring",
       "D. Avoid governance"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Key Performance Indicators provide quantifiable metrics for measuring and tracking progress toward business objectives."
   },
   {
@@ -18,7 +18,7 @@
       "C. Improve market presence",
       "D. Expand services"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Constraints are limiting factors that restrict project options - technology restrictions like using only open-source software are common constraints."
   },
   {
@@ -29,7 +29,7 @@
       "C. Improves quality",
       "D. Supports scalability"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Vendor solutions are generic and may include features not needed while lacking specific features required by the organization."
   },
   {
@@ -40,7 +40,7 @@
       "C. Plan deployment",
       "D. Document risks"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Solution evaluation assesses how effectively the implemented solution addresses the original business needs and requirements."
   },
   {
@@ -51,7 +51,7 @@
       "C. Load product page quickly",
       "D. Provide shopping cart"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Security requirements specify how the system must protect data and resources - malware scanning is a security control."
   }
 ]

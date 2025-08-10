@@ -7,7 +7,7 @@
       "C. Display help section",
       "D. Process refunds"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - customers needing SMS confirmations represents a stakeholder need."
   },
   {
@@ -18,7 +18,7 @@
       "C. Allows exploration of details",
       "D. Clarifies ambiguities"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Interviews require significant time investment from both analysts and stakeholders, making them resource-intensive for large projects."
   },
   {
@@ -29,7 +29,7 @@
       "C. Approve requirements",
       "D. Plan testing"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Defining the future state establishes a clear vision and target that guides solution development and implementation efforts."
   },
   {
@@ -40,7 +40,7 @@
       "C. Provide transaction history",
       "D. Store user preferences"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Performance requirements specify quantifiable system performance criteria - report generation time is a key performance measure."
   },
   {
@@ -51,7 +51,7 @@
       "C. Builds understanding",
       "D. Supports collaboration"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Focus groups can be dominated by vocal participants, potentially silencing quieter voices and creating biased results."
   }
 ]
