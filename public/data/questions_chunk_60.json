@@ -1,57 +1,57 @@
 [
   {
-    "question": "Which is a benefit of requirements workshops?",
+    "question": "An innovative pizza restaurant announces a new pizza topping each week. Once advertised, the new topping on the regular dough constitutes the sole pizza type\noffered during the week. No other pizza toppings are offered.\nWhich of the following processes is a strong candidate to be addressed while planning for requirements reuse?",
     "options": [
-      "A. Encourages collaboration between multiple stakeholders",
-      "B. Guarantees consensus",
-      "C. Removes all conflicts",
-      "D. Avoids documentation"
+      "A. Dough preparation",
+      "B. Toppings preparation",
+      "C. Topping recipes",
+      "D. Ad images"
     ],
     "answer": "A",
-    "explanation": "Requirements workshops bring multiple stakeholders together to collaborate, share knowledge, and work toward common understanding."
+    "explanation": ""
   },
   {
-    "question": "Which is an example of a business requirement?",
+    "question": "A business analyst (BA) is outlining who should participate in an upcoming requirements elicitation meeting.\nFrom whom should the BA obtain approval before selecting the participants?",
     "options": [
-      "A. Improve customer satisfaction score to 90% within 6 months",
-      "B. Encrypt stored data",
-      "C. Process refunds",
-      "D. Generate invoices"
+      "A. Sponsor",
+      "B. End user",
+      "C. Project manager",
+      "D. Subject matter expert"
     ],
-    "answer": "A",
-    "explanation": "Business requirements describe high-level organizational goals and objectives - improving customer satisfaction to 90% is a clear business goal."
+    "answer": "C",
+    "explanation": ""
   },
   {
-    "question": "Which is a limitation of interviews?",
+    "question": "A business analyst (BA) in a large financial institution, responsible for the management of requirements, has completed all the activities related to tracing\nrequirements and is now pursuing to maintain them. The BA has identified a large number of requirements which have long term reuse and is now looking for\nguidance to manage these requirements.\nWhich of the following will indicate how requirements will be managed for reuse?",
     "options": [
-      "A. May introduce interviewer bias into responses",
-      "B. Builds trust",
-      "C. Allows detailed input",
-      "D. Clarifies requirements"
+      "A. Legal Regulatory Information",
+      "B. Architectural Repositories",
+      "C. Information Management Approach",
+      "D. Business Rules Analysis"
     ],
-    "answer": "A",
-    "explanation": "Interviews can be affected by interviewer bias in questioning techniques and interpretation of responses, potentially skewing results."
+    "answer": "C",
+    "explanation": ""
   },
   {
-    "question": "Which is the purpose of measurable acceptance criteria?",
+    "question": "A business analyst (BA) is in the process of allocating requirements to various releases of a solution.\nOn what should the BA base requirements to maximize the value of the solution?",
     "options": [
-      "A. Provide objective basis for requirement verification",
-      "B. Ensure automatic approval",
-      "C. Avoid documentation",
-      "D. Reduce governance"
+      "A. Priority set by stakeholders",
+      "B. Available resources",
+      "C. Timing of the release and its impact on business",
+      "D. Components in scope for that release"
     ],
-    "answer": "A",
-    "explanation": "Measurable acceptance criteria provide objective, quantifiable standards that can be used to verify whether requirements have been met."
+    "answer": "D",
+    "explanation": ""
   },
   {
-    "question": "Which is an example of a security requirement?",
+    "question": "A team is working on a user privilege and access control system. A business analyst (BA) selects use cases as the technique for requirements specification.\nWhat is the relationship between use cases \"Create a role\" and \"Find a role\" when there is a high level of formality?",
     "options": [
-      "A. Require multi-factor authentication for all users",
-      "B. Display order history",
-      "C. Load homepage quickly",
-      "D. Process payments"
+      "A. Validate",
+      "B. Derive",
+      "C. Necessity",
+      "D. Satisfy"
     ],
-    "answer": "A",
-    "explanation": "Security requirements specify how the system must protect data and resources - multi-factor authentication is a security control."
+    "answer": "C",
+    "explanation": ""
   }
 ]
