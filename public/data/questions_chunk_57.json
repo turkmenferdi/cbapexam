@@ -1,57 +1,57 @@
 [
   {
-    "question": "Which is the purpose of defining performance measures?",
+    "question": "Which of the following directs the improvement efforts to those areas that will have the biggest impact?",
     "options": [
-      "A. Evaluate and monitor solution effectiveness",
-      "B. Guarantee business growth",
-      "C. Reduce governance",
-      "D. Avoid testing"
+      "A. Flowchart",
+      "B. Gantt chart",
+      "C. Pareto diagram",
+      "D. User Documentation"
     ],
-    "answer": "A",
-    "explanation": "Performance measures provide metrics to evaluate and monitor how effectively the solution is working and meeting objectives."
+    "answer": "C",
+    "explanation": ""
   },
   {
-    "question": "Which is an example of a compliance requirement?",
+    "question": "Which of the following involves defining the various threats, determining the extent of vulnerabilities, and devising countermeasures against a possible attack?",
     "options": [
-      "A. Meet HIPAA regulations for medical data",
-      "B. Display shipping options",
-      "C. Encrypt passwords",
-      "D. Process payments"
+      "A. Qualitative risk analysis",
+      "B. Risk analysis",
+      "C. Risk assessment",
+      "D. Quantitative risk analysis"
     ],
-    "answer": "A",
-    "explanation": "Compliance requirements mandate adherence to specific laws and regulations like HIPAA for healthcare data protection."
+    "answer": "C",
+    "explanation": ""
   },
   {
-    "question": "Which is a limitation of role-playing?",
+    "question": "Which of the following requirement attributes lacks any ambiguous characteristics?",
     "options": [
-      "A. May not capture all real-world constraints",
-      "B. Builds empathy",
-      "C. Encourages collaboration",
-      "D. Generates new ideas"
+      "A. Understandable",
+      "B. User Requirements Document (URD)",
+      "C. Unambiguous",
+      "D. Urgency"
     ],
-    "answer": "A",
-    "explanation": "Role-playing exercises are simulated scenarios that may not capture all the complexities and constraints of real-world situations."
+    "answer": "C",
+    "explanation": ""
   },
   {
-    "question": "Which is a benefit of data flow diagrams?",
+    "question": "Which of the following charts is described in the statement below?\n\"It shows the causes of a certain event. A common use of this diagram is to identify potential factors causing an overall effect. It helps identify causal factors and\ncontributing causes.\"",
     "options": [
-      "A. Shows how data is processed and transferred in a system",
-      "B. Guarantees accuracy",
-      "C. Removes documentation needs",
-      "D. Simplifies governance"
+      "A. Ishikawa",
+      "B. Flowchart",
+      "C. Process configuration chart",
+      "D. Control chart"
     ],
     "answer": "A",
-    "explanation": "Data flow diagrams provide visual representation of how data moves through a system and is processed at different stages."
+    "explanation": ""
   },
   {
-    "question": "Which is an example of a usability requirement?",
+    "question": "Which of the following processes measures the maturity level of the security program?",
     "options": [
-      "A. Provide search autocomplete suggestions",
-      "B. Encrypt stored data",
-      "C. Load homepage quickly",
-      "D. Process orders"
+      "A. Risk analysis",
+      "B. Risk mitigation",
+      "C. Risk assessment",
+      "D. GAP analysis"
     ],
-    "answer": "A",
-    "explanation": "Usability requirements specify how the system should be designed for ease of use - search autocomplete improves user experience."
+    "answer": "D",
+    "explanation": ""
   }
 ]
