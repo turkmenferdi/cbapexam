@@ -7,7 +7,7 @@
       "C. Eliminates governance needs",
       "D. Speeds implementation"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Key Performance Indicators provide quantifiable metrics to measure and track progress toward business objectives and success."
   },
   {
@@ -18,7 +18,7 @@
       "C. Improve performance",
       "D. Expand market share"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Constraints are limiting factors that restrict project options - time limits are common project constraints that affect planning and delivery."
   },
   {
@@ -29,7 +29,7 @@
       "C. Reduces development effort",
       "D. Provides proven features"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Vendor solutions are generic and may not fully match the organization's specific business processes and unique requirements."
   },
   {
@@ -40,7 +40,7 @@
       "C. Plan testing",
       "D. Document scope"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Solution Evaluation focuses on measuring how well implemented solutions perform and the value they deliver to the organization."
   },
   {
@@ -51,7 +51,7 @@
       "C. Display profile",
       "D. Store data"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Security requirements specify how the system must protect data and resources - two-factor authentication is a security control."
   }
 ]

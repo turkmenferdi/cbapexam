@@ -7,7 +7,7 @@
       "C. Supports improvement",
       "D. Provides comparison data"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Benchmarking compares against external standards that may not fully account for the organization's unique context, culture, and constraints."
   },
   {
@@ -18,7 +18,7 @@
       "C. Reduces governance needs",
       "D. Speeds delivery"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Measurable objectives include specific metrics and targets that enable objective tracking of progress and evaluation of success."
   },
   {
@@ -29,7 +29,7 @@
       "C. Encrypt customer data",
       "D. Send notifications"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Business requirements describe high-level organizational goals and objectives - increasing market share by 15% is a clear business goal."
   },
   {
@@ -40,7 +40,7 @@
       "C. Gathers quantitative data",
       "D. Reduces interview needs"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Surveys typically provide broad but shallow information and may lack the depth and context that other elicitation techniques provide."
   },
   {
@@ -51,7 +51,7 @@
       "C. Avoid scope changes",
       "D. Simplify documentation"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Requirements prioritization ensures that the highest value and most critical requirements are developed and delivered first."
   }
 ]

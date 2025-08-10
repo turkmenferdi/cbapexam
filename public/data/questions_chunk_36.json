@@ -7,7 +7,7 @@
       "C. Allow login",
       "D. Display reports"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data migration activities."
   },
   {
@@ -18,7 +18,7 @@
       "C. Improves structure",
       "D. Generates insights"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Mind maps can become cluttered and difficult to follow when they contain too many ideas or branches without proper organization."
   },
   {
@@ -29,7 +29,7 @@
       "C. Eliminates conflict",
       "D. Reduces governance"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Active stakeholder engagement leads to better understanding of needs, higher quality requirements, and greater acceptance of the solution."
   },
   {
@@ -40,7 +40,7 @@
       "C. Load page quickly",
       "D. Support multiple devices"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Functional requirements describe what the system must do - allowing customers to update shipping addresses is a specific system function."
   },
   {
@@ -51,7 +51,7 @@
       "C. Identifies threats",
       "D. Supports strategy"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Competitor analysis focuses on external competitors and may not reveal the organization's internal process weaknesses or capability gaps."
   }
 ]
