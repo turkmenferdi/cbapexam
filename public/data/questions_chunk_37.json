@@ -7,7 +7,7 @@
       "C. Avoid scope changes",
       "D. Reduce governance needs"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Solution performance measures provide metrics to track how well the implemented solution is working and its effectiveness in meeting objectives."
   },
   {
@@ -18,7 +18,7 @@
       "C. Encrypt passwords",
       "D. Send invoices"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Regulatory requirements mandate compliance with external laws and regulations like GDPR for data protection."
   },
   {
@@ -29,7 +29,7 @@
       "C. Generates ideas",
       "D. Encourages collaboration"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Role-playing exercises are simulated scenarios that may not fully capture the complexity and pressures of actual working conditions."
   },
   {
@@ -40,7 +40,7 @@
       "C. Eliminates need for documentation",
       "D. Reduces governance needs"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Data flow diagrams provide visual representation of how data moves through a system and how it is transformed at each step."
   },
   {
@@ -51,7 +51,7 @@
       "C. Process refunds",
       "D. Load pages fast"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Usability requirements specify how the system should be designed for ease of use - accessibility features like screen reader support are usability requirements."
   }
 ]

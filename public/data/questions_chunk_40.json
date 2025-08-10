@@ -7,7 +7,7 @@
       "C. Eliminates conflicts",
       "D. Reduces governance"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Requirements workshops bring stakeholders together to collaborate, build consensus, and accelerate the requirements elicitation process."
   },
   {
@@ -18,7 +18,7 @@
       "C. Process refunds",
       "D. Display reports"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Business requirements describe high-level organizational goals and objectives - reducing operating costs by 15% is a clear business goal."
   },
   {
@@ -29,7 +29,7 @@
       "C. Allows exploration",
       "D. Clarifies requirements"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Interviews can be affected by interviewer bias in how questions are asked and responses are interpreted, potentially skewing results."
   },
   {
@@ -40,7 +40,7 @@
       "C. Reduce documentation",
       "D. Avoid governance"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Measurable acceptance criteria provide objective, quantifiable standards that can be used to verify whether requirements have been met."
   },
   {
@@ -51,7 +51,7 @@
       "C. Load data quickly",
       "D. Process orders"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Security requirements specify how the system must protect data and resources - role-based access control is a security mechanism."
   }
 ]
