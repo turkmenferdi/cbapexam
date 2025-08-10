@@ -29,7 +29,7 @@
       "C. Generates insights",
       "D. Supports collaboration"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Focus groups can be dominated by vocal participants, potentially silencing quieter voices and creating biased results."
   },
   {
@@ -40,7 +40,7 @@
       "C. Reduce testing effort",
       "D. Avoid risks"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Acceptance criteria define specific, measurable conditions that must be met for requirements to be considered complete and acceptable."
   },
   {
@@ -51,7 +51,7 @@
       "C. Load page quickly",
       "D. Provide search function"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Business rules define organizational policies and procedures - age restrictions for account creation are typical business rules."
   }
 ]
