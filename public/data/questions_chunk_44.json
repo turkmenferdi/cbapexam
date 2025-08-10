@@ -7,7 +7,7 @@
       "C. Reduces the need for monitoring",
       "D. Eliminates governance"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Key Performance Indicators provide measurable metrics for ongoing monitoring and continuous improvement of performance."
   },
   {
@@ -18,7 +18,7 @@
       "C. Improve customer satisfaction",
       "D. Expand to new markets"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Constraints are limiting factors that restrict project options - resource limitations like using existing staff are common constraints."
   },
   {
@@ -29,7 +29,7 @@
       "C. Provides proven features",
       "D. Improves quality"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Vendor solutions are typically standardized and may offer limited ability to customize for specific organizational needs."
   },
   {
@@ -40,7 +40,7 @@
       "C. Define acceptance criteria",
       "D. Plan testing activities"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Solution evaluation assesses how effectively the implemented solution addresses the original business needs and requirements."
   },
   {
@@ -51,7 +51,7 @@
       "C. Allow users to register",
       "D. Show recent orders"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Security requirements specify how the system must protect data and resources - password policies are typical security requirements."
   }
 ]

@@ -7,7 +7,7 @@
       "C. Display homepage banner",
       "D. Process payments"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Stakeholder requirements describe the needs of specific stakeholder groups - customers needing tracking information represents a stakeholder need."
   },
   {
@@ -18,7 +18,7 @@
       "C. Allows detailed answers",
       "D. Clarifies uncertainties"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Interviews can be affected by interviewer bias in questioning techniques and interpretation of responses, potentially skewing results."
   },
   {
@@ -29,7 +29,7 @@
       "C. Document scope",
       "D. Plan testing"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Defining the future state establishes a clear vision and target that guides solution design and implementation efforts."
   },
   {
@@ -40,7 +40,7 @@
       "C. Provide customer profile view",
       "D. Store order history"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Performance requirements specify quantifiable system performance criteria - search response time is a key performance measure."
   },
   {
@@ -51,7 +51,7 @@
       "C. Encourages collaboration",
       "D. Builds understanding"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Focus groups typically include a limited number of participants and may not capture the full diversity of stakeholder perspectives."
   }
 ]

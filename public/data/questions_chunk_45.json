@@ -7,7 +7,7 @@
       "C. Supports performance improvement",
       "D. Gives comparative data"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Benchmarking may lead to copying competitors rather than developing innovative solutions that provide competitive advantage."
   },
   {
@@ -18,7 +18,7 @@
       "C. Eliminates risk",
       "D. Reduces documentation"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Measurable objectives provide specific metrics and targets that enable objective tracking of progress and performance evaluation."
   },
   {
@@ -29,7 +29,7 @@
       "C. Encrypt customer passwords",
       "D. Display help articles"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Business requirements describe high-level organizational goals and objectives - reducing call time by 30% is a clear business goal."
   },
   {
@@ -40,7 +40,7 @@
       "C. Reaches many participants",
       "D. Reduces interviews"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Surveys often suffer from low response rates and may result in incomplete or biased data from non-representative samples."
   },
   {
@@ -51,7 +51,7 @@
       "C. Eliminate scope changes",
       "D. Reduce project costs"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Requirements prioritization ensures that limited resources are allocated to the most important and valuable requirements first."
   }
 ]

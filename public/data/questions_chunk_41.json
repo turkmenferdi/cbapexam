@@ -7,7 +7,7 @@
       "C. Eliminates the need for communication plans",
       "D. Reduces governance needs"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Stakeholder analysis helps identify all relevant stakeholders and understand their level of influence, interest, and impact on the project."
   },
   {
@@ -18,7 +18,7 @@
       "C. Process payment transactions",
       "D. Display invoice details"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Transition requirements describe capabilities needed to move from current to future state, including data archiving activities."
   },
   {
@@ -29,7 +29,7 @@
       "C. Builds consensus",
       "D. Accelerates decision-making"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Workshops require coordinating schedules of multiple stakeholders, which can be challenging and may delay the process."
   },
   {
@@ -40,7 +40,7 @@
       "C. Define business objectives",
       "D. Document scope"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Risk management systematically identifies potential risks, evaluates their impact and likelihood, and develops strategies to control them."
   },
   {
@@ -51,7 +51,7 @@
       "C. Encrypt stored data",
       "D. Provide product search feature"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Business rules define organizational policies and procedures - email verification requirements are typical business rules."
   }
 ]
