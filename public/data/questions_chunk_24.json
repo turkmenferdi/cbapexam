@@ -7,7 +7,7 @@
       "C. Plan training",
       "D. Document risks"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Scope modeling defines what is included and excluded from the solution, establishing clear boundaries and context."
   },
   {
@@ -18,7 +18,7 @@
       "C. Eliminates documentation needs",
       "D. Reduces governance"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Prototyping allows stakeholders to see and interact with a representation of the solution early, providing valuable feedback."
   },
   {
@@ -29,7 +29,7 @@
       "C. Encrypt passwords",
       "D. Process refunds"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Compliance requirements specify adherence to external standards, regulations, or certifications like PCI DSS for payment security."
   },
   {
@@ -40,7 +40,7 @@
       "C. Reduces uncertainty",
       "D. Prioritizes options"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Decision analysis techniques may oversimplify complex situations that involve multiple variables and subjective factors."
   },
   {
@@ -51,7 +51,7 @@
       "C. Eliminate all threats",
       "D. Document test cases"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Risk analysis systematically identifies potential risks, assesses their likelihood and impact, and prioritizes them for management."
   }
 ]

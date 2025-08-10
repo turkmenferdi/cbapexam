@@ -18,7 +18,7 @@
       "C. Identifies opportunities",
       "D. Supports strategic planning"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Competitor analysis focuses on external competitors and may not reveal the organization's own internal weaknesses or capability gaps."
   },
   {
@@ -40,7 +40,7 @@
       "C. Amount of data stored",
       "D. Server uptime percentage"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Usability metrics measure how easy and efficient it is for users to interact with the system - task completion time is a key usability measure."
   },
   {
@@ -51,7 +51,7 @@
       "C. Builds shared understanding",
       "D. Resolves conflicts"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Workshops require extensive planning, scheduling coordination with multiple stakeholders, and careful facilitation to be effective."
   }
 ]

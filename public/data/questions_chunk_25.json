@@ -7,7 +7,7 @@
       "C. Project budget",
       "D. Total data stored"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Performance metrics measure how well the system operates - average response time is a key performance indicator for system efficiency."
   },
   {
@@ -18,7 +18,7 @@
       "C. Builds understanding",
       "D. Identifies inefficiencies"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "The presence of an observer may cause people to alter their normal behavior patterns, affecting the accuracy of observations."
   },
   {
@@ -29,7 +29,7 @@
       "C. Reduces testing needs",
       "D. Eliminates risks"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Acceptance criteria define specific, measurable conditions that must be met for requirements to be considered complete and acceptable."
   },
   {
@@ -51,7 +51,7 @@
       "C. Generate invoice",
       "D. Process payments"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Data requirements specify what data must be captured, stored, and maintained - retention periods are typical data requirements."
   }
 ]

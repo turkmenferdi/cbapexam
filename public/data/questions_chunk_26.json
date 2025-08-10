@@ -7,7 +7,7 @@
       "C. Allows detailed responses",
       "D. Supports clarification"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Interviews require significant time investment from both analysts and stakeholders, making them resource-intensive for large projects."
   },
   {
@@ -18,7 +18,7 @@
       "C. Document scope",
       "D. Plan elicitation"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Requirements Life Cycle Management covers the activities needed to manage requirements throughout their entire lifecycle from creation to retirement."
   },
   {
@@ -29,7 +29,7 @@
       "C. Project cost",
       "D. System uptime"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Process performance measures evaluate how efficiently business processes operate - order fulfillment time measures process speed."
   },
   {
@@ -40,7 +40,7 @@
       "C. Improves structure",
       "D. Generates insights"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Mind maps can become difficult to follow and understand when they contain too many branches and ideas without proper organization."
   },
   {

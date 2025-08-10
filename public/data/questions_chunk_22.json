@@ -18,7 +18,7 @@
       "C. Document training needs",
       "D. Conduct testing"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Stakeholder analysis identifies all relevant stakeholders and analyzes their needs, interests, influence, and impact on the project."
   },
   {
@@ -29,7 +29,7 @@
       "C. Encrypt all stored data",
       "D. Display order confirmation"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Business requirements describe high-level organizational needs and objectives - increasing online sales by 20% is a clear business goal."
   },
   {
@@ -40,7 +40,7 @@
       "C. Gathers quantitative data",
       "D. Reduces interview needs"
     ],
-    "answer": "A",
+    "answer": "C",
     "explanation": "Surveys typically provide broad but shallow information and may lack the depth and context that other elicitation techniques provide."
   },
   {
@@ -51,7 +51,7 @@
       "C. Eliminates usability testing",
       "D. Reduces stakeholder diversity"
     ],
-    "answer": "A",
+    "answer": "D",
     "explanation": "Personas represent different user types and help teams design solutions that meet the specific needs of various user groups."
   }
 ]
